@@ -1,0 +1,43 @@
+{
+  "tema": "Regras curiosas e bizarras do vôlei",
+  "titulo": "Você sabia destas regras estranhas do vôlei?",
+  "subtitulo": "Descubra detalhes bizarros do reglamento oficial que quase ninguém conhece nas quadras.",
+  "slides": [
+    {
+      "titulo": "Toque na rede com o cabelo",
+      "texto": "Sim, tocar na rede é falta. Mas sabia que se um jogador encostar na fita superior usando apenas o cabelo, a arbitragem pode marcar falta se influenciar a jogada?"
+    },
+    {
+      "titulo": "O mistério do jogador libero",
+      "texto": "O líbero pode fazer qualquer tipo de levantamento, mas com uma condição: se ele estiver na parte da frente da quadra, não pode tocar a bola acima da borda superior da rede."
+    },
+    {
+      "titulo": "Substituição excepcional por lesão",
+      "texto": "Se um time não tiver mais substituições regulares e um jogador se lesionar gravemente, a regra permite uma troca excepcional, mesmo que o atleta substituto já tenha saído antes."
+    },
+    {
+      "titulo": "A antena imaginária continua infinita",
+      "texto": "A bola precisa passar estritamente entre as duas antenas. Se ela passar por fora delas, mesmo que esteja a metros de altura acima da quadra adversária, é bola fora imediata."
+    },
+    {
+      "titulo": "Cartões de punição acumulados",
+      "texto": "Um jogador pode receber cartão amarelo apenas como advertência verbal. Mas dois cartões amarelos para o mesmo jogador na mesma partida resultam automaticamente em um cartão vermelho."
+    }
+  ],
+  "chamada_final": "Já conhecia alguma dessas regras? Salve o post e siga para mais fatos!",
+  "legenda": "O vôlei parece um esporte simples à primeira vista, mas o livro de regras oficial esconde detalhes bem curiosos e situações inusitadas que podem decidir uma partida importante! 🏐\n\nArraste para o lado para conferir 5 regras bizarras que vão explodir sua mente e te deixar com mais repertório sobre o esporte que a gente ama. 👈\n\nConta aqui nos comentários: qual dessas regras te surpreendeu mais? Já marca o amigo que joga vôlei e precisa saber disso!",
+  "hashtags": [
+    "volei",
+    "fatossobrevolei",
+    "regrasdovolei",
+    "curiosidadesdovolei",
+    "voleibol",
+    "volleyball",
+    "amovolei",
+    "jogadoresdevolei"
+  ],
+  "prompt_imagem": "A professional indoor volleyball court with dramatic lighting, wooden flooring, net stretched tight, moody sports arena background, high quality sports photography, empty with no text",
+  "modelo": "gemini/gemini-3.5-flash-lite",
+  "gerado_em": "2026-09-26T17:44-03:00",
+  "paleta": 2
+}

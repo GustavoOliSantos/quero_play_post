@@ -1,0 +1,45 @@
+{
+  "tema": "maiores pontuadores da história do vôlei",
+  "titulo": "Quem marcou mais pontos no vôlei mundial?",
+  "subtitulo": "Descubra quais atletas fizeram história com ataques indefensáveis e potências absurdas nas quadras.",
+  "slides": [
+    {
+      "titulo": "O recordista mundial masculino",
+      "texto": "O cubano naturalizado polonês Wilfredo León é amplamente considerado o dono dos saques mais potentes e pontuadores, ultrapassando frequentemente a marca dos 130 km/h."
+    },
+    {
+      "titulo": "A lenda viva Giba",
+      "texto": "O brasileiro Giba não era o mais alto, mas sua impulsão e inteligência de jogo fizeram dele um dos maiores pontuadores e colecionadores de títulos da seleção brasileira."
+    },
+    {
+      "titulo": "O fenômeno russo Stanislav Doychev",
+      "texto": "Na história das estatísticas olímpicas, alguns atacantes acumularam médias impressionantes de mais de 30 pontos por partida em torneios internacionais decisivos."
+    },
+    {
+      "titulo": "A força feminina de Ekaterina Gamova",
+      "texto": "A russa com seus 2,02 metros aterrorizava bloqueios adversários, sendo uma máquina implacável de fazer pontos e decidir finais mundiais."
+    },
+    {
+      "titulo": "O segredo dos grandes pontuadores",
+      "texto": "Não basta apenas força física. A leitura rápida do bloqueio adversário e a variação de golpes são essenciais para manter uma alta média de pontos."
+    }
+  ],
+  "chamada_final": "Qual desses jogadores é o seu ídolo? Salve o post e siga a página para mais curiosidades!",
+  "legenda": "Você já parou para pensar em quem realmente manda na hora de pontuar no voleibol mundial? 🏐✨\n\nNeste carrossel, separei alguns dos nomes mais lendários que transformaram a arte de atacar em pura poesia (e muita potência!). De saques supersônicos a diagonais impossíveis, esses atletas marcaram época.\n\nArrasta pro lado para conhecer os detalhes e me conta nos comentários: quem é o melhor atacante de todos os tempos para você? 👇",
+  "hashtags": [
+    "volei",
+    "volleyball",
+    "curiosidadesdovolei",
+    "giba",
+    "wilfredoleonn",
+    "superliga",
+    "voleibrasil",
+    "esportes",
+    "atletas",
+    "fatossobrevolei"
+  ],
+  "prompt_imagem": "Indoor professional volleyball court with dramatic lighting, smoke effects, high contrast, empty of text, cinematic sports photography",
+  "modelo": "gemini/gemini-3.5-flash-lite",
+  "gerado_em": "2026-09-26T17:45-03:00",
+  "paleta": 3
+}
