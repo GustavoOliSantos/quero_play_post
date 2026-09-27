@@ -1,0 +1,49 @@
+{
+  "tema": "quadra",
+  "titulo": "Pare de cansar seu cérebro",
+  "subtitulo": "Cinco hábitos simples para descansar a mente durante o expediente sem perder o foco nas suas tarefas.",
+  "slides": [
+    {
+      "titulo": "Feche os olhos por um minuto",
+      "texto": "Reduza a quantidade de estímulos visuais. Desviar o olhar da tela e fechar os olhos por sessenta segundos ajuda a relaxar a musculatura dos olhos e diminui o cansaço mental.",
+      "foto": "woman closing eyes resting"
+    },
+    {
+      "titulo": "Beba um copo de água",
+      "texto": "A desidratação leve causa fadiga e falta de concentração. Levante da cadeira, vá até a cozinha e beba um copo d'água com calma para renovar a energia.",
+      "foto": "person drinking water glass"
+    },
+    {
+      "titulo": "Respire fundo quatro vezes",
+      "texto": "Faça respirações lentas e profundas. Inspire contando até quatro, segure por dois e expire devagar. Isso reduz o ritmo cardíaco e diminui a ansiedade acumulada.",
+      "foto": "deep breathing meditation office"
+    },
+    {
+      "titulo": "Estique o pescoço e os braços",
+      "texto": "Movimente o corpo para soltar a tensão. Gire os ombros para trás e incline a cabeça para os lados. Aliviar o corpo ajuda o cérebro a relaxar instantaneamente.",
+      "foto": "office worker stretching desk"
+    },
+    {
+      "titulo": "Olhe pela janela um instante",
+      "texto": "Focar a visão em algo distante e real, como o horizonte ou uma árvore, descansa o músculo ocular que fica travado o dia todo na tela do computador.",
+      "foto": "person looking out window"
+    }
+  ],
+  "chamada_final": "Salve este post para aplicar essas pausas amanhã e compartilhe com um amigo.",
+  "legenda": "Você sente que a energia acaba muito antes do fim do expediente? Muitas vezes o problema não é o volume de trabalho, mas a falta de descanso real entre as tarefas.\n\nFazer pequenas pausas ao longo do dia ajuda a manter o foco alto e evita aquela exaustão no final da tarde. Deslize para o lado para ver cinco hábitos fáceis de aplicar agora mesmo.\n\nQual dessas pausas você vai testar hoje? Deixe nos comentários!",
+  "hashtags": [
+    "produtividade",
+    "bemestar",
+    "saudemental",
+    "pausaparaocafe",
+    "foco",
+    "rotina",
+    "trabalhorendimento",
+    "descanso",
+    "vidasaudavel"
+  ],
+  "foto_capa": "person stretching at desk",
+  "assunto_foto": "productivity wellness",
+  "modelo": "gemini/gemini-3.5-flash-lite",
+  "gerado_em": "2026-09-27T13:43-03:00"
+}
