@@ -1,0 +1,68 @@
+name: 2. Postar da fila
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_id:
+        description: "ID do post (nome da pasta em fila/). Vazio = o mais antigo da fila"
+        required: false
+        type: string
+  workflow_call:
+    inputs:
+      post_id:
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  postar:
+    runs-on: ubuntu-latest
+    # O ambiente "instagram" é o que segura o post até você aprovar.
+    # Configure em Settings > Environments > instagram > Required reviewers.
+    environment: instagram
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # pega a versão mais nova (inclui suas edições na legenda)
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Publicar no Instagram
+        env:
+          POST_ID: ${{ inputs.post_id }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_API_VERSION: ${{ vars.IG_API_VERSION }}
+          NOVO_TOKEN_PATH: ${{ runner.temp }}/novo_token.txt
+        run: python main.py postar "$POST_ID"
+
+      - name: Mover para publicados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A fila publicados
+          git commit -m "publicado: ${{ inputs.post_id || 'fila' }}"
+          git pull --rebase
+          git push
+
+      - name: Salvar token renovado (opcional, precisa do secret GH_PAT)
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          ARQ="$RUNNER_TEMP/novo_token.txt"
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Sem GH_PAT: troque o IG_TOKEN manualmente a cada ~50 dias."
+            exit 0
+          fi
+          if [ -s "$ARQ" ]; then
+            echo "::add-mask::$(cat "$ARQ")"
+            gh secret set IG_TOKEN --repo "$GITHUB_REPOSITORY" < "$ARQ"
+            echo "IG_TOKEN atualizado."
+          fi

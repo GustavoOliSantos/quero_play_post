@@ -1,0 +1,10 @@
+# chaves: nunca subir
+.env
+
+# prévia local (é recriada com "python main.py ver")
+preview.html
+
+__pycache__/
+*.pyc
+.venv/
+venv/
