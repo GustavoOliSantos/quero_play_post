@@ -1,0 +1,44 @@
+{
+  "tema": "Recordes mundiais incríveis do vôlei",
+  "titulo": "Recordes malucos que você não sabia!",
+  "subtitulo": "Descubra marcas impressionantes alcançadas pelos maiores atletas da história do voleibol mundial.",
+  "slides": [
+    {
+      "titulo": "O saque mais rápido do mundo",
+      "texto": "O búlgaro Matey Kaziyski registrou um saque impressionante de 132 km/h. É a mesma velocidade de um carro na rodovia, vindo direto na direção dos recebedores!"
+    },
+    {
+      "titulo": "O maior salto vertical da história",
+      "texto": "O cubano Osmany Juantorena alcançou a marca surreal de 1,12 metro de impulsão vertical. Ele praticamente conseguia tocar o aro de basquete com a cabeça!"
+    },
+    {
+      "titulo": "A partida mais longa de todas",
+      "texto": "Em 2012, um jogo na Coreia do Sul durou 4 horas e 25 minutos. Foram cinco sets intensos e exaustivos que testaram o limite físico dos atletas."
+    },
+    {
+      "titulo": "Maior público em uma partida",
+      "texto": "Em 1983, o Estádio do Maracanã recebeu 95.887 pessoas para ver Brasil e União Soviética. É o recorde mundial absoluto de público no voleibol."
+    },
+    {
+      "titulo": "O jogador mais alto da história",
+      "texto": "O russo Dmitriy Muserskiy mede 2,18 metros de altura. Com seus longos braços, ele se tornava uma verdadeira muralha intransponível na rede."
+    }
+  ],
+  "chamada_final": "Qual desses recordes te impressionou mais? Deixe nos comentários e siga o perfil!",
+  "legenda": "Você tem ideia de quão longe os atletas de vôlei conseguem chegar? 🏐 Os recordes desse esporte são simplesmente absurdos e mostram a superação humana em outro nível.\n\nArraste para o lado para conferir marcas históricas que vão explodir a sua mente hoje mesmo. 🚀\n\nQual recorde você achou mais impossível de bater? Comente aqui embaixo e compartilhe com aquele amigo fã de vôlei!",
+  "hashtags": [
+    "volei",
+    "voleibol",
+    "curiosidadesdovolei",
+    "fatossobrevolei",
+    "esportes",
+    "recordes",
+    "superacao",
+    "jogadores",
+    "vôlei"
+  ],
+  "prompt_imagem": "A dramatic indoor volleyball court with bright stadium lights, cinematic lighting, highly detailed, no text, photorealistic",
+  "modelo": "gemini/gemini-3.5-flash-lite",
+  "gerado_em": "2026-09-26T22:38-03:00",
+  "paleta": 3
+}
