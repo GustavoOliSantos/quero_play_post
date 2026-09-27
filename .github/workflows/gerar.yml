@@ -40,14 +40,16 @@ jobs:
           NICHO: ${{ vars.NICHO }}
           PERFIL: ${{ vars.PERFIL }}
           SLIDES: ${{ vars.SLIDES }}
-          USAR_IMAGEM_IA: ${{ vars.USAR_IMAGEM_IA }}
+          TEMA: ${{ vars.TEMA }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          FOTOS: ${{ vars.FOTOS }}
         run: python main.py gerar
 
       - name: Colocar na fila (salvar no repositório)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add fila historico.json
+          git add fila historico.json fotos_usadas.json
           git commit -m "fila: ${{ steps.gerar.outputs.post_id }}"
           git pull --rebase
           git push

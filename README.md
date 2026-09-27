@@ -18,7 +18,9 @@ Nada vai para o Instagram sem você ver antes (a menos que você queira).
 | `.env.exemplo` | modelo do arquivo de chaves |
 | `config.py` | lê o `.env` (computador) ou os Secrets (GitHub) |
 | `conteudo.py` | pede o texto à IA (Gemini ou Groq) |
-| `slides.py` | desenha as imagens (capa, slides numerados, final) |
+| `fotos.py` | busca no Pexels uma foto que combina com cada slide |
+| `slides.py` | desenha as imagens: cada slide é uma quadra de vôlei vista de cima |
+| `fontes/` | fontes Anton e Barlow (gratuitas, licença livre OFL). Precisam ir para o GitHub junto |
 | `instagram.py` | publica o carrossel na API do Instagram |
 | `fila/` | posts esperando revisão, cada um numa pasta |
 | `publicados/` | posts que já foram ao ar (com o link) |
@@ -46,6 +48,7 @@ Rode qualquer comando uma vez, por exemplo `python main.py checar`. Ele cria o a
 - **GEMINI_API_KEY** e/ou **GROQ_API_KEY** → a IA que escreve os posts (basta uma; veja "Qual IA usar" abaixo)
 - **IG_TOKEN** → veja "Como pegar o token do Instagram" abaixo
 - **IG_USER_ID** → pode deixar vazio; o próximo passo mostra o seu
+- **PEXELS_API_KEY** → fotos que combinam com cada slide (opcional, veja "Fotos" abaixo)
 - **NICHO** e **PERFIL** → assunto dos posts e seu @
 
 ### 1.3 Conferir se está tudo certo (não posta nada)
@@ -67,6 +70,7 @@ Gera o carrossel, salva em `fila/` e **abre uma prévia no navegador** imitando 
 **Não gostou de algo?**
 - **Legenda:** edite `fila/<ID>/legenda.txt`. É exatamente o que vai ser postado.
 - **Texto dos slides:** edite `fila/<ID>/post.json` e rode `python main.py redesenhar <ID>`.
+- **Uma foto não combinou:** `python main.py trocar-foto <ID> <N>` (0 = capa, 1, 2... = slides). Ele busca outra foto e refaz as imagens.
 - **Não quer esse post:** apague a pasta dele.
 - **Quer só ver de novo:** `python main.py ver`
 
@@ -108,11 +112,12 @@ No GitHub as chaves não usam o `.env`: vão em *Settings → Secrets and variab
 |---|---|
 | `GEMINI_API_KEY` | chave do Gemini (se usar) |
 | `GROQ_API_KEY` | chave do Groq (se usar) |
+| `PEXELS_API_KEY` | chave do Pexels (para as fotos) |
 | `IG_TOKEN` | token do Instagram |
 | `IG_USER_ID` | ID da conta (o `checar` mostra) |
 | `GH_PAT` | opcional, veja "Token que não expira" |
 
-**Aba Variables** (opcionais): `NICHO`, `PERFIL`, `SLIDES`, `USAR_IMAGEM_IA`, com os mesmos valores do `.env`.
+**Aba Variables** (opcionais): `NICHO`, `PERFIL`, `SLIDES`, `TEMA`, `FOTOS`, com os mesmos valores do `.env`.
 
 ---
 
@@ -144,6 +149,30 @@ Também dá para aprovar pelo app do GitHub no celular.
 **Mudar o horário:** linha `cron` em `.github/workflows/gerar.yml` (horário em UTC = Brasília + 3h).
 
 ---
+
+## Visual dos slides
+
+Cada slide é desenhado como uma quadra de vôlei vista de cima: a capa tem a rede com as antenas e a bola saindo pela direita (convidando a arrastar), os slides de conteúdo têm o número no estilo camisa, e o último tem a chamada e o botão "Siga".
+
+Escolha o visual pela opção `TEMA` (no `.env` e nas Variables do GitHub):
+
+- `quadra`: quadra coberta azul com zona livre laranja (padrão)
+- `areia`: vôlei de praia, areia com linhas azuis
+- `alternar`: um post de cada, para variar o feed
+
+Para ver um post da fila com outro tema, troque o `TEMA` no `.env` e rode `python main.py redesenhar <ID>`.
+
+## Fotos
+
+Com a chave do Pexels, cada post ganha fotos reais que combinam com o assunto: a IA sugere uma busca para a capa e uma para cada slide, e o programa escolhe fotos que ainda não foram usadas no perfil (a lista fica em `fotos_usadas.json`).
+
+- **Capa:** a foto ocupa a quadra e se funde com a cor do piso embaixo do título.
+- **Slides de conteúdo:** a foto ocupa a parte de cima, com o número por cima.
+- **Slide final:** sem foto, com a bola.
+
+Para pegar a chave: crie uma conta em https://www.pexels.com, abra https://www.pexels.com/api/ e peça a chave (é grátis e sai na hora). Cole no `.env` como `PEXELS_API_KEY=` e, no GitHub, crie o secret `PEXELS_API_KEY`.
+
+O Pexels pede que os fotógrafos recebam crédito quando possível, então o programa acrescenta uma linha "📷 Fotos: ..." no fim da legenda. Sem a chave (ou com `FOTOS=nao`), os slides saem só com o desenho da quadra, como antes.
 
 ## Qual IA usar
 

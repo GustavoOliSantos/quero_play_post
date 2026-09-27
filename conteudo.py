@@ -203,6 +203,8 @@ NÃO repita estes temas já usados: {evitar}
 
 Regras: cada slide traz UMA ideia prática e específica, fácil de ler no celular.
 Os slides seguem uma sequência lógica (passos, dicas, erros, mitos x verdades etc.).
+Nos títulos e textos dos slides: sem emojis, sem hashtags e sem tudo em maiúsculas
+(escreva normal, só a primeira letra maiúscula). Emojis só na legenda.
 
 Responda SOMENTE com um JSON neste formato:
 {{
@@ -210,13 +212,18 @@ Responda SOMENTE com um JSON neste formato:
   "titulo": "título da capa que dá vontade de arrastar, no máximo 9 palavras",
   "subtitulo": "complemento da capa, no máximo 18 palavras",
   "slides": [
-    {{"titulo": "título do slide, no máximo 7 palavras", "texto": "explicação do slide, no máximo 35 palavras"}}
+    {{"titulo": "título do slide, no máximo 7 palavras", "texto": "explicação do slide, no máximo 35 palavras", "foto": "busca EM INGLÊS para uma foto de banco de imagens que mostre o assunto deste slide, 2 a 4 palavras"}}
   ],
   "chamada_final": "frase do último slide pedindo para salvar/seguir/comentar, no máximo 14 palavras",
   "legenda": "legenda em português do Brasil, 2 a 4 parágrafos curtos, tom próximo, alguns emojis, convide a arrastar para o lado e termine com uma chamada para ação",
   "hashtags": ["8 a 12 hashtags relevantes sem o símbolo #"],
-  "prompt_imagem": "descrição curta EM INGLÊS de uma foto de fundo bonita e sem texto que combine com o tema"
-}}"""
+  "foto_capa": "busca EM INGLÊS para a foto da capa, 2 a 4 palavras, algo bem visual do tema",
+  "assunto_foto": "o assunto principal do perfil EM INGLÊS em 1 ou 2 palavras (usado se as outras buscas não acharem nada)"
+}}
+
+Para as buscas de foto: pense em fotos reais que existem em bancos de imagem (pessoas jogando,
+treinando, a bola, a quadra, a rede, detalhes de mãos e tênis). Evite coisas abstratas ou muito
+específicas que ninguém fotografou. Sempre inclua o esporte/assunto na busca (ex: "volleyball block at net")."""
 
 
 def gerar_texto(temas_usados):
@@ -260,18 +267,19 @@ def testar_provedor(prov):
 def texto_de_teste():
     return {
         "tema": "teste de carrossel",
-        "titulo": "5 hábitos que mudam sua rotina",
-        "subtitulo": "Pequenas ações diárias que somam muito no fim do mês.",
+        "titulo": "Você sabia destas regras estranhas do vôlei?",
+        "subtitulo": "Detalhes do regulamento oficial que quase ninguém conhece nas quadras.",
         "slides": [
-            {"titulo": "Acorde no mesmo horário", "texto": "Seu corpo se ajusta ao ritmo e você passa a acordar com mais disposição, até nos fins de semana."},
-            {"titulo": "Planeje o dia na véspera", "texto": "Anote 3 prioridades antes de dormir. De manhã você já começa sabendo o que importa."},
-            {"titulo": "Beba água ao acordar", "texto": "Um copo logo cedo ajuda a despertar e cria um gatilho para os próximos hábitos."},
-            {"titulo": "Blocos de foco de 25 min", "texto": "Trabalhe sem notificações por 25 minutos e descanse 5. Repita quatro vezes e faça uma pausa maior."},
-            {"titulo": "Revise a semana no domingo", "texto": "Dez minutos para ver o que funcionou e ajustar o que não funcionou valem mais que qualquer app."},
+            {"titulo": "O líbero não pode atacar acima da rede", "texto": "Ele pode defender e passar à vontade, mas nunca completar um ataque com a bola acima da altura da fita.", "foto": "volleyball libero dig"},
+            {"titulo": "Tocar a rede nem sempre é falta", "texto": "Só é falta quando o toque atrapalha a jogada ou acontece entre as antenas durante a ação de jogar a bola.", "foto": "volleyball net block"},
+            {"titulo": "Pisar na linha central é permitido", "texto": "Você pode invadir com parte do pé, desde que alguma parte dele continue em contato com a linha ou acima dela.", "foto": "volleyball court line shoes"},
+            {"titulo": "Dois toques no primeiro contato valem", "texto": "Na recepção, a bola pode encostar em partes diferentes do corpo, desde que seja numa mesma ação.", "foto": "volleyball reception pass"},
+            {"titulo": "O saque tem só 8 segundos", "texto": "Depois do apito do árbitro, o sacador tem oito segundos para bater na bola. Passou disso, é ponto do adversário.", "foto": "volleyball serve"},
         ],
-        "chamada_final": "Salve este post e comece hoje por um hábito só.",
-        "legenda": "Post de TESTE gerado sem o Gemini. ✨\n\nArraste para o lado para ver os 5 hábitos 👉\n\nSalve para lembrar depois 📌",
-        "hashtags": ["produtividade", "habitos", "rotina"],
-        "prompt_imagem": "calm minimalist desk with plants, morning light",
+        "chamada_final": "Salve para mostrar pro seu time no próximo treino",
+        "legenda": "Post de TESTE gerado sem IA. 🏐\n\nArraste para o lado e veja 5 regras que pegam muita gente de surpresa 👉\n\nMarca aquele amigo que vive discutindo com o juiz 😂",
+        "hashtags": ["volei", "voleibol", "regrasdovolei"],
+        "foto_capa": "volleyball referee whistle",
+        "assunto_foto": "volleyball",
         "modelo": "teste",
     }

@@ -4,6 +4,9 @@
 # prévia local (é recriada com "python main.py ver")
 preview.html
 
+# fotos originais baixadas (os slides prontos já têm elas; são baixadas de novo se precisar)
+fotos/
+
 __pycache__/
 *.pyc
 .venv/

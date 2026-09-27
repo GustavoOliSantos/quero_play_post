@@ -8,6 +8,7 @@ Comandos:
   python main.py listar            mostra o que está na fila e o que já foi publicado
   python main.py ver [ID]          abre a prévia do post no navegador (padrão: o mais recente da fila)
   python main.py redesenhar ID     refaz as imagens depois que você editar o post.json
+  python main.py trocar-foto ID N  troca uma foto que não combinou (0 = capa, 1, 2... = slides)
   python main.py postar [ID]       publica um post da fila (padrão: o mais antigo)
 
 Fluxo: gerar -> revisar (e editar se quiser) -> postar.
@@ -28,6 +29,7 @@ from config import FILA, HISTORICO, NA_NUVEM, PUBLICADOS, RAIZ, cfg, erro
 config.carregar_env()  # precisa vir antes de usar qualquer chave
 
 import conteudo  # noqa: E402
+import fotos  # noqa: E402
 import instagram  # noqa: E402
 import slides  # noqa: E402
 
@@ -70,7 +72,8 @@ def achar_post(post_id, padrao="antigo"):
 
 def montar_legenda(dados):
     tags = " ".join("#" + re.sub(r"[^\wÀ-ÿ]", "", h.lstrip("#")) for h in dados.get("hashtags", [])[:15])
-    return f"{dados['legenda'].strip()}\n\n{tags}".strip()
+    partes = [dados["legenda"].strip(), fotos.credito(dados), tags]
+    return "\n\n".join(p for p in partes if p)
 
 
 def git(*args):
@@ -127,6 +130,7 @@ def escrever_previas(pasta, dados):
     md += ["", "---",
            "**Quer mudar algo?** Edite o `legenda.txt` para trocar a legenda, ou o `post.json` para trocar "
            "os textos dos slides (depois rode `python main.py redesenhar " + pasta.name + "`).",
+           "Foto não combinou? `python main.py trocar-foto " + pasta.name + " N` (0 = capa, 1, 2... = slides).",
            "Para descartar este post, apague esta pasta."]
     (pasta / "README.md").write_text("\n".join(md) + "\n", encoding="utf-8")
 
@@ -204,6 +208,7 @@ def cmd_gerar():
 
     post_id = agora_brasilia().strftime("%Y-%m-%d_%H%M%S") + ("_teste" if teste else "")
     pasta = FILA / post_id
+    fotos.buscar_para_post(dados, pasta)
     slides.desenhar_carrossel(dados, pasta)
     salvar_json(pasta / "post.json", dados)
     (pasta / "legenda.txt").write_text(montar_legenda(dados), encoding="utf-8")
@@ -256,6 +261,29 @@ def cmd_redesenhar(post_id):
     salvar_json(pasta / "post.json", dados)
     escrever_previas(pasta, dados)
     print(f"🎨 Imagens refeitas: {len(imagens_do_post(pasta))} slides")
+    abrir_previa(pasta)
+
+
+def cmd_trocar_foto(post_id, qual):
+    if not post_id or qual is None or not qual.isdigit():
+        erro("Use: python main.py trocar-foto ID N   (N: 0 = capa, 1, 2... = slides de conteúdo)")
+    if not fotos.ativo():
+        erro("Preencha PEXELS_API_KEY no .env para usar fotos (veja o README).")
+    pasta = achar_post(post_id)
+    dados = ler_json(pasta / "post.json", {})
+    n = int(qual)
+    if n > len(dados.get("slides", [])):
+        erro(f"Este post tem só {len(dados['slides'])} slides de conteúdo (use 0 a {len(dados['slides'])}).")
+    if not fotos.trocar(dados, pasta, n):
+        erro("Não achei outra foto para essa busca. Edite o campo 'foto' no post.json e tente de novo.")
+    slides.desenhar_carrossel(dados, pasta)
+    salvar_json(pasta / "post.json", dados)
+    # atualiza o crédito dos fotógrafos na legenda, preservando edições feitas à mão
+    legenda = (pasta / "legenda.txt").read_text(encoding="utf-8")
+    legenda = re.sub(r"📷 Fotos: .*", fotos.credito(dados), legenda)
+    (pasta / "legenda.txt").write_text(legenda, encoding="utf-8")
+    escrever_previas(pasta, dados)
+    print(f"🔄 Foto {'da capa' if n == 0 else f'do slide {n}'} trocada.")
     abrir_previa(pasta)
 
 
@@ -321,12 +349,14 @@ def main():
         print(__doc__)
         return
     cmd, alvo = args[0], (args[1] if len(args) > 1 else None)
+    extra = args[2] if len(args) > 2 else None
     comandos = {
         "checar": lambda: cmd_checar(),
         "gerar": lambda: cmd_gerar(),
         "listar": lambda: cmd_listar(),
         "ver": lambda: cmd_ver(alvo),
         "redesenhar": lambda: cmd_redesenhar(alvo),
+        "trocar-foto": lambda: cmd_trocar_foto(alvo, extra),
         "postar": lambda: cmd_postar(alvo),
         "resumo": lambda: cmd_resumo(alvo),
     }

@@ -1,0 +1,101 @@
+{
+  "tema": "areia",
+  "titulo": "segredos da bola de futebol de areia",
+  "subtitulo": "descubra o que torna a bola oficial usada nas praias completamente diferente da de campo",
+  "slides": [
+    {
+      "titulo": "peso e tamanho oficial",
+      "texto": "a bola de futebol de areia pesa entre 400 e 440 gramas. ela é um pouco mais leve e menor que a de campo para facilitar o controle com os pés descalços.",
+      "foto": "soccer ball on sand"
+    },
+    {
+      "titulo": "tecnologia impermeável",
+      "texto": "para evitar que a bola absorva água do mar e fique pesada, ela é construída com materiais sintéticos especiais que repelem totalmente a umidade e a água salgada.",
+      "foto": "water resistant soccer ball"
+    },
+    {
+      "titulo": "pressão interna reduzida",
+      "texto": "a calibragem é bem menor que no futebol tradicional. isso deixa a bola mais macia ao toque, reduzindo o impacto nos pés dos atletas durante as finalizações.",
+      "foto": "player kicking sand ball"
+    },
+    {
+      "titulo": "cores muito vibrantes",
+      "texto": "as cores fortes e chamativas não são apenas estética. elas servem para que jogadores, árbitros e torcedores consigam rastrear facilmente a bola voando sobre a areia clara.",
+      "foto": "bright colorful soccer ball"
+    },
+    {
+      "titulo": "flutuação na água",
+      "texto": "como as partidas acontecem perto do mar, a bola foi projetada para flutuar caso caia na água, agilizando a reposição de jogo pelas equipes.",
+      "foto": "soccer ball near ocean"
+    }
+  ],
+  "chamada_final": "curtiu saber disso? salve este post e compartilhe com um amigo que ama futebol",
+  "legenda": "Você sabia que a bola de praia passa por um desenvolvimento totalmente diferente daquela que rola nos gramados tradicionais? ⚽️\n\nTudo nela é pensado para o esporte na areia: desde o peso reduzido até a tecnologia que impede que ela encharque na beira do mar. É um equipamento feito sob medida para o espetáculo nas praias!\n\nArraste pro lado para entender cada detalhe exclusivo e me conta nos comentários: você imaginava que a pressão dela era tão diferente assim? 👇",
+  "hashtags": [
+    "futeboldeareia",
+    "beachsoccer",
+    "curiosidades",
+    "futebol",
+    "esportesnaareia",
+    "futebolecia",
+    "praia",
+    "atletas",
+    "dicasdefutebol"
+  ],
+  "foto_capa": "beach soccer ball close up",
+  "assunto_foto": "beach soccer",
+  "modelo": "gemini/gemini-3.5-flash-lite",
+  "gerado_em": "2026-09-26T23:21-03:00",
+  "fotos": {
+    "capa": {
+      "id": 12877477,
+      "busca": "beach soccer ball close up",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/12877477/pexels-photo-12877477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Ayoub El kaouani",
+      "pagina": "https://www.pexels.com/photo/a-soccer-ball-on-the-sand-12877477/"
+    },
+    "slides": [
+      {
+        "id": 9569173,
+        "busca": "soccer ball on sand",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9569173/pexels-photo-9569173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Fabio Teixeira",
+        "pagina": "https://www.pexels.com/photo/person-playing-ball-on-beachside-9569173/"
+      },
+      {
+        "id": 32348702,
+        "busca": "water resistant soccer ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32348702/pexels-photo-32348702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Renjith Tomy Pkm",
+        "pagina": "https://www.pexels.com/photo/boy-playing-football-in-water-outdoors-32348702/"
+      },
+      {
+        "id": 30726643,
+        "busca": "player kicking sand ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30726643/pexels-photo-30726643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/intensity-of-soccer-game-captured-during-play-30726643/"
+      },
+      {
+        "id": 39309604,
+        "busca": "bright colorful soccer ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/39309604/pexels-photo-39309604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Mahmoud Zakariya",
+        "pagina": "https://www.pexels.com/photo/vibrant-green-and-orange-soccer-balls-reflection-39309604/"
+      },
+      {
+        "id": 37950644,
+        "busca": "soccer ball near ocean",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37950644/pexels-photo-37950644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "bahar 𓆰",
+        "pagina": "https://www.pexels.com/photo/old-soccer-ball-on-a-beach-37950644/"
+      }
+    ]
+  }
+}
