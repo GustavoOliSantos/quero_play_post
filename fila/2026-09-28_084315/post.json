@@ -1,0 +1,97 @@
+{
+  "tema": "quadra",
+  "titulo": "Melhore seu jogo em 5 passos",
+  "subtitulo": "Pequenas mudanças que elevam performance no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Aqueça de forma específica",
+      "texto": "Faça 5 minutos de corrida leve, depois exercícios de mobilidade para quadris, tornozelos e ombros, preparando corpo para movimentos explosivos",
+      "foto": "football warm up"
+    },
+    {
+      "titulo": "Posicione os pés corretamente",
+      "texto": "No futebol, mantenha o pé de apoio ligeiramente aberto; no vôlei, afaste os pés na largura dos ombros para estabilidade ao receber ou sacar",
+      "foto": "volleyball foot position"
+    },
+    {
+      "titulo": "Controle da bola com toque leve",
+      "texto": "Use o peito ou a parte interna do pé para conduzir a bola suavemente, evitando impactos fortes que desperdicam energia",
+      "foto": "football ball control"
+    },
+    {
+      "titulo": "Treine resistência intervalada",
+      "texto": "Alterne 30 segundos de sprints ou saques máximos com 30 segundos de descanso ativo; melhora cardio e explosão para ambos esportes",
+      "foto": "interval training sports"
+    },
+    {
+      "titulo": "Revise e registre seu progresso",
+      "texto": "Anote tempos, acertos e sensações após cada sessão; analise padrões e ajuste treinos para evolução constante",
+      "foto": "sports progress journal"
+    }
+  ],
+  "chamada_final": "Salve este post e treine hoje!",
+  "legenda": "Quer levar seu futebol e vôlei ao próximo nível? 🚀 Descubra cinco passos simples que vão transformar seus treinos.\n\nDo aquecimento ao registro, cada dica foi pensada para quem treina de verdade. 📋 Não perca nenhum detalhe, deslize para o lado e veja!\n\nCurtiu? Marca aquele amigo que precisa melhorar e comenta qual passo você vai aplicar primeiro. 👊 Não esqueça de seguir para mais curiosidades e dicas!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasesporte",
+    "treinamento",
+    "performance",
+    "esportes",
+    "futebolbrasil",
+    "voleiBrasil",
+    "treinoeficaz",
+    "esporteparatodos",
+    "motivacao",
+    "melhoria"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-09-28T08:43-03:00",
+  "fotos": {
+    "capa": {
+      "id": 17582301,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/17582301/pexels-photo-17582301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Tom Fisk",
+      "pagina": "https://www.pexels.com/photo/girl-playing-volleyball-17582301/"
+    },
+    "slides": [
+      {
+        "id": 30726603,
+        "busca": "football warm up",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30726603/pexels-photo-30726603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/soccer-team-training-on-outdoor-field-30726603/"
+      },
+      {
+        "id": 6203686,
+        "busca": "volleyball foot position",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203686/pexels-photo-6203686.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/man-holding-a-ball-with-both-hands-6203686/"
+      },
+      {
+        "id": 38615889,
+        "busca": "football ball control",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38615889/pexels-photo-38615889.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-athlete-practicing-soccer-dribbling-skills-38615889/"
+      },
+      {
+        "id": 12698194,
+        "busca": "interval training sports",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12698194/pexels-photo-12698194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RUN 4 FFWPU",
+        "pagina": "https://www.pexels.com/photo/back-view-of-a-people-doing-track-and-field-12698194/"
+      },
+      null
+    ]
+  }
+}
