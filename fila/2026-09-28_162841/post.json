@@ -1,0 +1,103 @@
+{
+  "tema": "areia",
+  "titulo": "5 truques simples para jogar melhor",
+  "subtitulo": "Aprenda técnicas rápidas que vão elevar seu desempenho tanto no campo quanto na quadra",
+  "slides": [
+    {
+      "titulo": "Aquecimento dinâmico eficaz",
+      "texto": "Faça 5 minutos de movimentos explosivos: polichinelos, lunges e rotações de braço para preparar músculos e evitar lesões.",
+      "foto": "dynamic warmup athletes"
+    },
+    {
+      "titulo": "Posicionamento defensivo no voleibol",
+      "texto": "Mantenha os joelhos levemente dobrados e distribua o peso entre os pés, pronto para reagir a cada ataque.",
+      "foto": "volleyball defensive stance"
+    },
+    {
+      "titulo": "Controle de bola no futebol",
+      "texto": "Use a parte interna do pé e faça passes curtos, focando na precisão antes da velocidade.",
+      "foto": "football foot control"
+    },
+    {
+      "titulo": "Saída de bola no vôlei",
+      "texto": "Ao receber o saque, eleve os pés e direcione a bola com o antebraço para abrir a quadra.",
+      "foto": "volleyball serve receive"
+    },
+    {
+      "titulo": "Finalização rápida no futebol",
+      "texto": "Ao entrar na área, chute com o peito do pé e siga o movimento da perna para maior potência.",
+      "foto": "football finishing shot"
+    }
+  ],
+  "chamada_final": "Salve este post e treine essas dicas hoje",
+  "legenda": "Quer melhorar no futebol e no vôlei sem complicações? 🏐⚽\n\nCada slide traz um exercício ou ajuste que você pode aplicar agora mesmo. 🔥\n\nDeslize para o lado e descubra como evoluir seu desempenho. 👉\n\nMarque um amigo que precisa dessas dicas e siga para mais curiosidades esportivas! 📲",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdefutebol",
+    "dicasdovolei",
+    "treinamento",
+    "esporte",
+    "curiosidades",
+    "performance",
+    "treinar",
+    "motivacao",
+    "aprendizado"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-09-28T16:28-03:00",
+  "fotos": {
+    "capa": {
+      "id": 29236376,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/29236376/pexels-photo-29236376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Renan Braz",
+      "pagina": "https://www.pexels.com/photo/dynamic-futevolei-action-on-ilheus-beach-29236376/"
+    },
+    "slides": [
+      {
+        "id": 7187839,
+        "busca": "dynamic warmup athletes",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7187839/pexels-photo-7187839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-warming-up-before-the-training-7187839/"
+      },
+      {
+        "id": 6203590,
+        "busca": "volleyball defensive stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203590/pexels-photo-6203590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/players-midair-blocking-a-ball-6203590/"
+      },
+      {
+        "id": 4622751,
+        "busca": "football foot control",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/4622751/pexels-photo-4622751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Godson Babu",
+        "pagina": "https://www.pexels.com/photo/man-playing-soccer-4622751/"
+      },
+      {
+        "id": 6203671,
+        "busca": "volleyball serve receive",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203671/pexels-photo-6203671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/photograph-of-a-man-serving-a-volleyball-6203671/"
+      },
+      {
+        "id": 12783338,
+        "busca": "football finishing shot",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Arturo A",
+        "pagina": "https://www.pexels.com/photo/men-playing-soccer-12783338/"
+      }
+    ]
+  }
+}
