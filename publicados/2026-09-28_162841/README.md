@@ -1,6 +1,6 @@
 # areia
 
-**Status:** aguardando revisão · 7 slides · gerado com `groq/openai/gpt-oss-120b`
+**Status:** ✅ publicado · [ver no Instagram](https://www.instagram.com/p/Dd2i6-zlrMu/) · 7 slides · gerado com `groq/openai/gpt-oss-120b`
 
 <img src="01.jpg" width="240"> <img src="02.jpg" width="240"> <img src="03.jpg" width="240"> <img src="04.jpg" width="240"> <img src="05.jpg" width="240"> <img src="06.jpg" width="240"> <img src="07.jpg" width="240">
 
