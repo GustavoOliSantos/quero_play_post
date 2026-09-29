@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Como melhorar seu saque em 5 passos",
+  "subtitulo": "Dicas práticas para deixar a bola mais rápida e precisa nos dois esportes",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "Ajuste a base em largura dos ombros, joelhos levemente flexionados, para gerar força e equilíbrio",
+      "foto": "volleyball serve stance"
+    },
+    {
+      "titulo": "Movimento de impulso",
+      "texto": "Use a perna traseira como impulso, transferindo energia do chão para o braço, aumentando velocidade",
+      "foto": "football kicking motion"
+    },
+    {
+      "titulo": "Contato com a bola",
+      "texto": "Bata a bola no ponto mais alto da extensão do braço, mantendo o punho firme para controle",
+      "foto": "volleyball hand contact"
+    },
+    {
+      "titulo": "Follow‑through eficaz",
+      "texto": "Continue o movimento após o contato, direcionando a mão para o alvo, garante precisão e potência",
+      "foto": "football follow through"
+    },
+    {
+      "titulo": "Treino de velocidade",
+      "texto": "Faça séries curtas de saques explosivos, descansando 30 segundos, para melhorar potência sem fadiga",
+      "foto": "sports training drill"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique seu saque hoje!",
+  "legenda": "Quer melhorar seu saque no futebol ou no vôlei? ⚽🏐\nDeslize para o lado e descubra passos simples que vão transformar sua potência e precisão.\nTeste cada dica nos treinos e sinta a diferença na próxima partida.\nMarque um amigo que precisa dessas dicas e não esqueça de seguir para mais curiosidades esportivas! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "saque",
+    "dicasdesportivas",
+    "treinamento",
+    "esportes",
+    "bola",
+    "técnica",
+    "treino",
+    "performance",
+    "esportesbrasil",
+    "curiosidades"
+  ],
+  "foto_capa": "volleyball football serve",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-09-28T22:05-03:00",
+  "fotos": {
+    "capa": {
+      "id": 36866642,
+      "busca": "volleyball football serve",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/36866642/pexels-photo-36866642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "maximiliano morgante",
+      "pagina": "https://www.pexels.com/photo/female-volleyball-player-serving-in-action-shot-36866642/"
+    },
+    "slides": [
+      {
+        "id": 6203519,
+        "busca": "volleyball serve stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203519/pexels-photo-6203519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-standing-on-the-wooden-floor-in-the-sports-hall-6203519/"
+      },
+      {
+        "id": 33826780,
+        "busca": "football kicking motion",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/33826780/pexels-photo-33826780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/dynamic-football-player-kicking-ball-on-field-33826780/"
+      },
+      {
+        "id": 6203631,
+        "busca": "volleyball hand contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203631/pexels-photo-6203631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/hands-of-team-standing-together-6203631/"
+      },
+      {
+        "id": 9367717,
+        "busca": "football follow through",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9367717/pexels-photo-9367717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/a-man-kicking-a-ball-9367717/"
+      },
+      {
+        "id": 30585239,
+        "busca": "sports training drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30585239/pexels-photo-30585239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-training-session-on-green-field-30585239/"
+      }
+    ]
+  }
+}
