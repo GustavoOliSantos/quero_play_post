@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Eleve seu jogo em 5 passos",
+  "subtitulo": "Técnicas simples que aumentam sua eficiência em campo e quadra",
+  "slides": [
+    {
+      "titulo": "Aquecimento específico por esporte",
+      "texto": "Faça 5 minutos de corrida leve seguida de alongamento dinâmico focado em pernas e ombros para evitar lesões.",
+      "foto": "soccer warm up"
+    },
+    {
+      "titulo": "Posicionamento defensivo eficaz",
+      "texto": "No futebol, mantenha a linha de defesa compacta; no vôlei, fique ligeiro ao centro da quadra para cobrir bolas rápidas.",
+      "foto": "volleyball defensive stance"
+    },
+    {
+      "titulo": "Treino de visão periférica",
+      "texto": "Use bolas de cores diferentes e pratique passes curtos enquanto observa o movimento de colegas ao redor, melhora a percepção espacial.",
+      "foto": "soccer peripheral vision"
+    },
+    {
+      "titulo": "Comunicação no ataque",
+      "texto": "No futebol, sinalize jogadas com palavras curtas; no vôlei, grite o número da jogada antes do saque.",
+      "foto": "volleyball team communication"
+    },
+    {
+      "titulo": "Recuperação ativa pós-jogo",
+      "texto": "Faça 10 minutos de caminhada leve e alongamento estático para reduzir a fadiga muscular e acelerar a recuperação.",
+      "foto": "soccer cool down"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com quem treina!",
+  "legenda": "Quer melhorar seu desempenho tanto no futebol quanto no vôlei? 🙌 Descubra 5 dicas práticas que vão transformar seus treinos.\nDeslize para a direita 👉 e veja cada passo detalhado. Salve, marque um amigo e conte nos comentários qual dica você vai aplicar primeiro! ⚽🏐",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "performance",
+    "treinamento",
+    "dicasdeesporte",
+    "esportelife",
+    "jogadores",
+    "saudeesportiva",
+    "tacticas",
+    "motivacao"
+  ],
+  "foto_capa": "football and volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-09-29T14:55-03:00",
+  "fotos": {
+    "capa": {
+      "id": 6720979,
+      "busca": "football and volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/6720979/pexels-photo-6720979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Luiz Fernando",
+      "pagina": "https://www.pexels.com/photo/a-group-of-men-playing-football-at-the-beach-6720979/"
+    },
+    "slides": [
+      {
+        "id": 7188053,
+        "busca": "soccer warm up",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7188053/pexels-photo-7188053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/an-active-man-stretching-his-body-7188053/"
+      },
+      {
+        "id": 6203560,
+        "busca": "volleyball defensive stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203560/pexels-photo-6203560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-6203560/"
+      },
+      {
+        "id": 2768303,
+        "busca": "soccer peripheral vision",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/2768303/pexels-photo-2768303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Alesia Talkachova",
+        "pagina": "https://www.pexels.com/photo/black-side-mirror-2768303/"
+      },
+      {
+        "id": 6180458,
+        "busca": "volleyball team communication",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180458/pexels-photo-6180458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/people-holding-the-volleyball-6180458/"
+      },
+      {
+        "id": 13097466,
+        "busca": "soccer cool down",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/13097466/pexels-photo-13097466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Misha Zimin",
+        "pagina": "https://www.pexels.com/photo/soccer-playing-lying-down-on-green-grass-13097466/"
+      }
+    ]
+  }
+}
