@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Defesa perfeita: futebol e vôlei",
+  "subtitulo": "5 passos simples para melhorar seu posicionamento em campo e quadra",
+  "slides": [
+    {
+      "titulo": "Observe a linha de fundo",
+      "texto": "No futebol, fique próximo à linha de fundo para cortar cruzamentos; no vôlei, posicione-se atrás da linha de ataque para cobrir bolas baixas.",
+      "foto": "football back line"
+    },
+    {
+      "titulo": "Use posicionamento lateral",
+      "texto": "Mova-se lateralmente mantendo a distância correta dos adversários; no vôlei, deslize para o lado ao receber saque, mantendo a base estável.",
+      "foto": "volleyball lateral movement"
+    },
+    {
+      "titulo": "Antecipe o saque ou chute",
+      "texto": "Observe a postura do atacante; no futebol, preveja a direção do chute; no vôlei, identifique a posição da mão para antecipar a bola.",
+      "foto": "football anticipating kick"
+    },
+    {
+      "titulo": "Comunique com sinais claros",
+      "texto": "Use palavras curtas ou gestos; no voleibol, sinalize a cobertura da rede; no futebol, avise sobre marcação ou troca de posições.",
+      "foto": "volleyball hand signal"
+    },
+    {
+      "titulo": "Treine com marcações no chão",
+      "texto": "Desenhe linhas ou cones para simular zonas de defesa; pratique deslocamentos rápidos entre elas, reforçando o tempo de reação.",
+      "foto": "football training cones"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique hoje mesmo!",
+  "legenda": "Você sabia que pequenas mudanças no posicionamento podem transformar sua defesa tanto no futebol quanto no vôlei? 🏐⚽\n\nConfira cada dica nos slides, coloque em prática nos treinos e sinta a diferença na próxima partida. 💪\n\nDeslize para o lado, curta se ajudou e marque quem precisa melhorar a defesa! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "defesa",
+    "posicionamento",
+    "treino",
+    "dicasdefensivas",
+    "esporte",
+    "jogadores",
+    "taticas",
+    "aprendizado"
+  ],
+  "foto_capa": "football volleyball defense",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-09-30T14:50-03:00",
+  "fotos": {
+    "capa": {
+      "id": 16643975,
+      "busca": "football volleyball defense",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/16643975/pexels-photo-16643975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "veysel boz",
+      "pagina": "https://www.pexels.com/photo/men-playing-beach-volleyball-16643975/"
+    },
+    "slides": [
+      {
+        "id": 9935444,
+        "busca": "football back line",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9935444/pexels-photo-9935444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Sean P. Twomey",
+        "pagina": "https://www.pexels.com/photo/game-of-american-football-9935444/"
+      },
+      {
+        "id": 6203582,
+        "busca": "volleyball lateral movement",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203582/pexels-photo-6203582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/photo-of-men-and-women-playing-volleyball-6203582/"
+      },
+      {
+        "id": 15837447,
+        "busca": "football anticipating kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/15837447/pexels-photo-15837447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/man-playing-soccer-15837447/"
+      },
+      {
+        "id": 6180456,
+        "busca": "volleyball hand signal",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180456/pexels-photo-6180456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/friends-holding-the-volleyball-6180456/"
+      },
+      {
+        "id": 37628687,
+        "busca": "football training cones",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37628687/pexels-photo-37628687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Jay Brand",
+        "pagina": "https://www.pexels.com/photo/soccer-ball-on-grass-field-with-training-cones-37628687/"
+      }
+    ]
+  }
+}
