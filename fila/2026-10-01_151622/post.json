@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Como melhorar seu desempenho no futebol e vôlei",
+  "subtitulo": "Dicas práticas que você pode aplicar hoje nos treinos e partidas",
+  "slides": [
+    {
+      "titulo": "Aquecimento específico para futebol",
+      "texto": "Faça 5 minutos de corrida curta, seguido de dribles curtos e passes rápidos para preparar músculos e mente.",
+      "foto": "soccer warm up"
+    },
+    {
+      "titulo": "Posicionamento defensivo eficiente",
+      "texto": "No futebol, mantenha 2 passos entre você e o atacante; no vôlei, fique sempre entre a rede e o atacante adversário.",
+      "foto": "defensive positioning soccer"
+    },
+    {
+      "titulo": "Treino de reação rápida",
+      "texto": "Use dois cones e uma bola; ao sinal, corra para o cone oposto e chute ou manche a bola em menos de 2 segundos.",
+      "foto": "ball reaction drill"
+    },
+    {
+      "titulo": "Comunicação clara em quadra",
+      "texto": "Chame o nome do companheiro antes de tocar a bola, use termos curtos como 'mim' ou 'eu' para evitar colisões.",
+      "foto": "volleyball team communication"
+    },
+    {
+      "titulo": "Recuperação pós-jogo essencial",
+      "texto": "Faça alongamento leve, hidratação com eletrólitos e 5 minutos de respiração profunda para reduzir fadiga e acelerar a recuperação.",
+      "foto": "post game recovery"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com amigos",
+  "legenda": "Quer subir de nível no futebol ou no vôlei? 🚀 Cada dica aqui foi pensada para ser prática e fácil de aplicar nos treinos.\n\nDeslize para o lado e descubra o que fazer antes, durante e depois das partidas. 👟⚽🏐\n\nCurtiu? Deixe um comentário, siga o perfil e salve para consultar sempre que precisar! 👍",
+  "hashtags": [
+    "curiosidadesfutebol",
+    "curiosidadesvolei",
+    "futeboldicas",
+    "volei",
+    "dicas",
+    "treino",
+    "esportes",
+    "brasil",
+    "futebolvolei",
+    "performance"
+  ],
+  "foto_capa": "soccer and volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-01T15:16-03:00",
+  "fotos": {
+    "capa": {
+      "id": 16583041,
+      "busca": "soccer and volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/16583041/pexels-photo-16583041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Guilherme Stecanella",
+      "pagina": "https://www.pexels.com/photo/people-playing-football-on-an-outdoor-court-16583041/"
+    },
+    "slides": [
+      {
+        "id": 30584996,
+        "busca": "soccer warm up",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30584996/pexels-photo-30584996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-soccer-players-practicing-on-field-30584996/"
+      },
+      {
+        "id": 37926243,
+        "busca": "defensive positioning soccer",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37926243/pexels-photo-37926243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-on-sunny-day-37926243/"
+      },
+      {
+        "id": 13464775,
+        "busca": "ball reaction drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/13464775/pexels-photo-13464775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Gaspar Zaldo",
+        "pagina": "https://www.pexels.com/photo/a-woman-in-black-jacket-holding-a-tennis-racket-13464775/"
+      },
+      {
+        "id": 6203632,
+        "busca": "volleyball team communication",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203632/pexels-photo-6203632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-6203632/"
+      },
+      {
+        "id": 27730474,
+        "busca": "post game recovery",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/27730474/pexels-photo-27730474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Jonathan Borba",
+        "pagina": "https://www.pexels.com/photo/two-women-are-working-out-in-a-gym-27730474/"
+      }
+    ]
+  }
+}
