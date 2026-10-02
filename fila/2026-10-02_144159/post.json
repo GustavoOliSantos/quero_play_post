@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 segredos que mudam seu jogo",
+  "subtitulo": "Descubra erros, mitos e truques para brilhar no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Erro no saque básico",
+      "texto": "Muitos jogadores puxam a bola demais, reduzindo força e precisão. Use o pulso firme e ponto de contato à altura do ombro.",
+      "foto": "volleyball serving technique"
+    },
+    {
+      "titulo": "Posicionamento no contra-ataque",
+      "texto": "No futebol, avance com dois atacantes centralizados e um lateral aberto, criando espaço para passes rápidos e chutes precisos.",
+      "foto": "football counter attack"
+    },
+    {
+      "titulo": "Mito: salto alto garante bloqueio",
+      "texto": "Alto salto não substitui timing. O bloqueio eficaz depende da leitura do atacante e da posição das mãos, não só da altura.",
+      "foto": "volleyball block timing"
+    },
+    {
+      "titulo": "Treino rápido de reflexo",
+      "texto": "Use bola de tênis contra a parede, pegando-a após um único salto. 5 minutos diários aumentam reação nos defesas.",
+      "foto": "tennis ball reflex drill"
+    },
+    {
+      "titulo": "Resultado: jogo mais inteligente",
+      "texto": "Aplicando essas dicas, sua taxa de acertos aumenta, a equipe controla melhor o ritmo e você se destaca como líder em campo.",
+      "foto": "football team strategy"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe sua evolução!",
+  "legenda": "Você sabia que pequenos ajustes no saque ou no posicionamento podem mudar totalmente o desempenho? 🤔\n\nNeste carrossel, revelei erros comuns, desmistifiquei crenças e dei treinos simples para melhorar sua velocidade e leitura de jogo. 🚀\n\nDeslize para o lado, teste as dicas e me conta nos comentários como foi! Não esqueça de salvar e seguir para mais curiosidades. 🙌",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdefutebol",
+    "dicasdevolei",
+    "treinos",
+    "curiosidades",
+    "esporte",
+    "performance",
+    "futebolbrasil",
+    "voleibol"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-02T14:41-03:00",
+  "fotos": {
+    "capa": {
+      "id": 5662641,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/5662641/pexels-photo-5662641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Abi Greer",
+      "pagina": "https://www.pexels.com/photo/grayscale-photo-of-a-man-playing-beach-volleyball-5662641/"
+    },
+    "slides": [
+      {
+        "id": 6203678,
+        "busca": "volleyball serving technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203678/pexels-photo-6203678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/photo-of-a-woman-preparing-to-serve-a-volleyball-6203678/"
+      },
+      {
+        "id": 38039900,
+        "busca": "football counter attack",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38039900/pexels-photo-38039900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-on-grass-field-38039900/"
+      },
+      {
+        "id": 6203595,
+        "busca": "volleyball block timing",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203595/pexels-photo-6203595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/player-jumping-near-net-with-arms-raised-6203595/"
+      },
+      {
+        "id": 8224724,
+        "busca": "tennis ball reflex drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8224724/pexels-photo-8224724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/close-up-view-of-a-person-holding-tennis-balls-8224724/"
+      },
+      {
+        "id": 38615873,
+        "busca": "football team strategy",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38615873/pexels-photo-38615873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-training-session-on-grass-field-38615873/"
+      }
+    ]
+  }
+}
