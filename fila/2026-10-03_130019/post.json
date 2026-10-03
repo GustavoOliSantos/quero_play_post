@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "5 truques que mudam seu jogo",
+  "subtitulo": "Pequenas dicas para brilhar no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Posicionamento defensivo no futebol",
+      "texto": "Mantenha a linha de defesa a 10 metros da bola e cubra o espaço entre os laterais para impedir passes curtos.",
+      "foto": "soccer defensive positioning"
+    },
+    {
+      "titulo": "Leitura de jogada no voleibol",
+      "texto": "Observe a postura do levantador; se ele está inclinado, o ataque será rápido. Antecipe o bloqueio antes do salto.",
+      "foto": "volleyball reading play"
+    },
+    {
+      "titulo": "Chute potente no futebol",
+      "texto": "Use a perna de apoio ao lado da bola, incline o tronco levemente para trás e siga o movimento até o final para gerar mais força.",
+      "foto": "soccer powerful kick"
+    },
+    {
+      "titulo": "Toque de bola preciso",
+      "texto": "Mantenha os dedos levemente curvados e a palma aberta; isso dá controle e evita que a bola escape.",
+      "foto": "soccer ball control"
+    },
+    {
+      "titulo": "Bloqueio efetivo no vôlei",
+      "texto": "Aponte as mãos na direção da trajetória da bola e mantenha os cotovelos alinhados com os ombros para máxima resistência.",
+      "foto": "volleyball effective block"
+    }
+  ],
+  "chamada_final": "Salve, siga e comente seu truque favorito!",
+  "legenda": "⚽️ Você sabia que pequenos ajustes podem mudar o rumo de uma partida? Descubra como melhorar seu posicionamento, chute e toque de bola no futebol.\n🏐 No vôlei, a leitura da jogada e o bloqueio eficaz são fundamentais. Cada detalhe conta para elevar seu nível.\nDeslize para o lado e aprenda cada dica prática. Salve este carrossel para treinar e compartilhe com quem também ama esses esportes! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "dicas",
+    "treinamento",
+    "habilidade",
+    "apaixonados",
+    "futebolbrasil",
+    "volei2024",
+    "esportebrasil",
+    "aprendizado"
+  ],
+  "foto_capa": "soccer volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-03T13:00-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38582960,
+      "busca": "soccer volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38582960/pexels-photo-38582960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Miguel Guerra",
+      "pagina": "https://www.pexels.com/photo/female-athlete-playing-volleyball-outdoors-38582960/"
+    },
+    "slides": [
+      {
+        "id": 29719228,
+        "busca": "soccer defensive positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29719228/pexels-photo-29719228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-goalkeeper-in-action-on-green-field-29719228/"
+      },
+      {
+        "id": 36681495,
+        "busca": "volleyball reading play",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36681495/pexels-photo-36681495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thang Nguyen",
+        "pagina": "https://www.pexels.com/photo/outdoor-volleyball-game-in-urban-setting-36681495/"
+      },
+      {
+        "id": 8941651,
+        "busca": "soccer powerful kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8941651/pexels-photo-8941651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/person-kicking-a-soccer-ball-8941651/"
+      },
+      {
+        "id": 38616123,
+        "busca": "soccer ball control",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38616123/pexels-photo-38616123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-player-practicing-on-outdoor-field-38616123/"
+      },
+      {
+        "id": 6203576,
+        "busca": "volleyball effective block",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203576/pexels-photo-6203576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-6203576/"
+      }
+    ]
+  }
+}
