@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Melhore seu jogo com treinos cruzados",
+  "subtitulo": "5 exercícios que unem futebol e vôlei para performance máxima",
+  "slides": [
+    {
+      "titulo": "Aquecimento de pés rápidos",
+      "texto": "Faça dribles curtos de futebol por 2 minutos, depois toque a bola de vôlei no ar, ativando agilidade e coordenação nos dois esportes.",
+      "foto": "soccer footwork drill"
+    },
+    {
+      "titulo": "Saltos explosivos combinados",
+      "texto": "Execute salto de voleibol com braços estendidos, em seguida, corra 10 metros e faça chute potente; repita 4 séries para melhorar potência de salto e chute.",
+      "foto": "volleyball jump training"
+    },
+    {
+      "titulo": "Treino de reação rápida",
+      "texto": "Posicione uma bola de voleibol ao centro; parceiro lança bolas de futebol aleatoriamente; reaja e devolva com as mãos ou pés, aumentando tempo de reação.",
+      "foto": "soccer volley reaction"
+    },
+    {
+      "titulo": "Core forte, dois esportes",
+      "texto": "Faça prancha com toque de bola: segure prancha e, a cada 30 segundos, passe a bola de voleibol entre as mãos; fortalece core e coordenação.",
+      "foto": "core exercise ball"
+    },
+    {
+      "titulo": "Finaliza com precisão",
+      "texto": "Treine finalizações de futebol em rede baixa de vôlei; ajuste ângulo e força para acertar alvos, aprimorando precisão de chute e controle de altura.",
+      "foto": "volleyball net soccer"
+    }
+  ],
+  "chamada_final": "Salve este post e treine agora!",
+  "legenda": "Já pensou em usar treinos de futebol para melhorar no vôlei e vice‑versa? 🤔\n\nNos slides mostro 5 exercícios práticos que combinam agilidade, potência e precisão dos dois esportes. Cada um pode ser feito em 15 minutos, sozinho ou com parceiro.\n\nDeslize para a esquerda e descubra como potencializar sua performance. 👉 Salve, comente qual exercício você vai testar e siga para mais dicas!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "treinocrossado",
+    "agilidade",
+    "potencia",
+    "esporte",
+    "dicasdeesporte",
+    "treinamentofuncional",
+    "performance",
+    "atletismo",
+    "esportelife",
+    "treinos"
+  ],
+  "foto_capa": "soccer volleyball training",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-04T13:41-03:00",
+  "fotos": {
+    "capa": {
+      "id": 10350345,
+      "busca": "soccer volleyball training",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/10350345/pexels-photo-10350345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "cottonbro studio",
+      "pagina": "https://www.pexels.com/photo/photo-of-a-person-holding-a-ball-10350345/"
+    },
+    "slides": [
+      {
+        "id": 30585001,
+        "busca": "soccer footwork drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30585001/pexels-photo-30585001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-player-practicing-on-green-field-30585001/"
+      },
+      {
+        "id": 6180410,
+        "busca": "volleyball jump training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180410/pexels-photo-6180410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/a-man-playing-volleyball-on-the-beach-6180410/"
+      },
+      {
+        "id": 30585029,
+        "busca": "soccer volley reaction",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30585029/pexels-photo-30585029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/goalkeeper-making-a-save-on-grassy-field-30585029/"
+      },
+      {
+        "id": 4587682,
+        "busca": "core exercise ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/4587682/pexels-photo-4587682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anna Shvets",
+        "pagina": "https://www.pexels.com/photo/woman-exercising-with-stability-ball-in-raised-arms-4587682/"
+      },
+      {
+        "id": 28963890,
+        "busca": "volleyball net soccer",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/28963890/pexels-photo-28963890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Cristiano Junior",
+        "pagina": "https://www.pexels.com/photo/beach-volleyball-players-at-rio-s-ipanema-beach-28963890/"
+      }
+    ]
+  }
+}
