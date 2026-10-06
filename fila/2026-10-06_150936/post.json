@@ -1,0 +1,101 @@
+{
+  "tema": "areia",
+  "titulo": "Como ler o jogo como pros",
+  "subtitulo": "5 dicas práticas para melhorar sua visão em campo e quadra",
+  "slides": [
+    {
+      "titulo": "Observe a posição dos pés",
+      "texto": "No futebol, a forma como o adversário posiciona os pés indica a direção da jogada; no vôlei, a base dos pés revela a intenção de ataque ou defesa.",
+      "foto": "football player foot positioning"
+    },
+    {
+      "titulo": "Leia a postura corporal",
+      "texto": "Corpos tensos sinalizam preparação para salto ou chute; relaxados indicam recuperação. Use isso para antecipar a jogada e interceptar passes.",
+      "foto": "volleyball player body language"
+    },
+    {
+      "titulo": "Preste atenção ao olhar",
+      "texto": "Olhar focado no adversário revela intenção de passe ou bloqueio; no futebol, olhos na bola indicam próximo drible ou chute.",
+      "foto": "soccer player eye focus"
+    },
+    {
+      "titulo": "Escute o som da bola",
+      "texto": "No vôlei, o som do toque indica velocidade e spin; no futebol, o batimento da bola ao chão revela força do chute.",
+      "foto": "volleyball ball impact"
+    },
+    {
+      "titulo": "Use a antecipação em treinos",
+      "texto": "Pratique exercícios de leitura rápida, como simular jogadas e reagir a pistas visuais, para transformar observação em ação eficaz em ambos esportes.",
+      "foto": "football volleyball drill"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com amigos",
+  "legenda": "Já percebeu como pequenos detalhes podem mudar o rumo de uma partida? 📚⚽️🏐\n\nNeste carrossel eu trouxe 5 dicas práticas para você observar a posição dos pés, postura, olhar, som da bola e treinar a antecipação. Cada detalhe ajuda a prever a jogada antes que ela aconteça.\n\nDeslize para a esquerda e descubra como aplicar essas técnicas no seu próximo treino. 🚀 Não esqueça de salvar, curtir e marcar quem vai curtir essas dicas!",
+  "hashtags": [
+    "futebolcuriosidades",
+    "voleiCuriosidades",
+    "leituradejogo",
+    "dicasesportivas",
+    "treinamento",
+    "taticas",
+    "esporte",
+    "aprendizado",
+    "jogadores"
+  ],
+  "foto_capa": "football volleyball spectators",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-06T15:09-03:00",
+  "fotos": {
+    "capa": {
+      "id": 33535231,
+      "busca": "football volleyball spectators",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/33535231/pexels-photo-33535231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Axel Sandoval",
+      "pagina": "https://www.pexels.com/photo/outdoor-sports-stadium-with-spectators-33535231/"
+    },
+    "slides": [
+      {
+        "id": 32941076,
+        "busca": "football player foot positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32941076/pexels-photo-32941076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "El gringo photo",
+        "pagina": "https://www.pexels.com/photo/close-up-of-soccer-player-s-feet-on-green-field-32941076/"
+      },
+      {
+        "id": 6203712,
+        "busca": "volleyball player body language",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203712/pexels-photo-6203712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/smiling-women-doing-a-hand-gesture-6203712/"
+      },
+      {
+        "id": 37926205,
+        "busca": "soccer player eye focus",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37926205/pexels-photo-37926205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-on-green-field-37926205/"
+      },
+      {
+        "id": 6203514,
+        "busca": "volleyball ball impact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203514/pexels-photo-6203514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/woman-in-white-and-black-stripe-shirt-playing-basketball-6203514/"
+      },
+      {
+        "id": 13204962,
+        "busca": "football volleyball drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/13204962/pexels-photo-13204962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Chris K",
+        "pagina": "https://www.pexels.com/photo/players-legs-behind-balls-on-grass-13204962/"
+      }
+    ]
+  }
+}
