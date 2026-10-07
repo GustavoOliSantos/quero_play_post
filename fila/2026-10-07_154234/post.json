@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Aumente sua visão de jogo em 5 passos",
+  "subtitulo": "Dicas práticas para melhorar percepções e decisões rápidas no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Observe a movimentação dos companheiros",
+      "texto": "Antes de tocar a bola, escaneie o campo ou a quadra para identificar onde estão seus colegas e criar opções de passe.",
+      "foto": "players scanning field"
+    },
+    {
+      "titulo": "Posicione-se em ângulo aberto",
+      "texto": "Fique em posições que ofereçam linhas de passe claras, evitando ficar atrás de defensores ou bloqueadores.",
+      "foto": "angled player passing"
+    },
+    {
+      "titulo": "Use o corpo para enganar",
+      "texto": "Simule um movimento em uma direção e, no último instante, troque para o lado oposto, confundindo adversários.",
+      "foto": "fake move soccer"
+    },
+    {
+      "titulo": "Comunicação constante",
+      "texto": "Grite instruções curtas como “cuidado”, “vou”, “agora” para coordenar jogadas rápidas e evitar colisões.",
+      "foto": "team shouting field"
+    },
+    {
+      "titulo": "Pratique a leitura de jogadas",
+      "texto": "Assista a partidas e anote padrões de ataque e defesa; reproduza esses movimentos nos treinos para antecipar ações.",
+      "foto": "analyzing game footage"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e treine sua visão hoje",
+  "legenda": "Quer saber como ler melhor o jogo e tomar decisões certeiras? 🧠⚽🏐\nDeslize para o lado e descubra 5 dicas simples que você pode aplicar nos treinos e nas partidas.\nCurtiu? Deixe seu comentário, compartilhe e siga para mais curiosidades e técnicas esportivas! 👍",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "esporte",
+    "dicasdesportivas",
+    "treinamento",
+    "visãodejogo",
+    "técnicas",
+    "performance",
+    "jogadores",
+    "jogos"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "football volleyball",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-07T15:42-03:00",
+  "fotos": {
+    "capa": {
+      "id": 6203540,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/6203540/pexels-photo-6203540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Pavel Danilyuk",
+      "pagina": "https://www.pexels.com/photo/men-playing-volleyball-6203540/"
+    },
+    "slides": [
+      {
+        "id": 29292737,
+        "busca": "players scanning field",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29292737/pexels-photo-29292737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Ollie Craig",
+        "pagina": "https://www.pexels.com/photo/college-rugby-match-on-green-field-29292737/"
+      },
+      {
+        "id": 3361471,
+        "busca": "angled player passing",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/3361471/pexels-photo-3361471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Yogendra  Singh",
+        "pagina": "https://www.pexels.com/photo/people-playing-soccer-on-grass-field-during-day-3361471/"
+      },
+      {
+        "id": 40013103,
+        "busca": "fake move soccer",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/40013103/pexels-photo-40013103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Taiye Salawu",
+        "pagina": "https://www.pexels.com/photo/soccer-match-action-in-almaty-kazakhstan-40013103/"
+      },
+      {
+        "id": 10475564,
+        "busca": "team shouting field",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10475564/pexels-photo-10475564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Martin Boháč",
+        "pagina": "https://www.pexels.com/photo/football-players-shaking-hands-10475564/"
+      },
+      {
+        "id": 1528172,
+        "busca": "analyzing game footage",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/1528172/pexels-photo-1528172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kobe -",
+        "pagina": "https://www.pexels.com/photo/man-sitting-holding-earphones-1528172/"
+      }
+    ]
+  }
+}
