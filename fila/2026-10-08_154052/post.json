@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Domine o passe perfeito em duas esportes",
+  "subtitulo": "5 dicas práticas para acertar a bola com precisão",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "Mantenha os pés paralelos à direção da bola, flexione levemente os joelhos e distribua o peso uniformemente para maior controle.",
+      "foto": "soccer foot positioning"
+    },
+    {
+      "titulo": "Olho na bola",
+      "texto": "Observe a trajetória da bola até o último segundo, focando no ponto de contato para acertar o passe na altura ideal.",
+      "foto": "volleyball eye contact"
+    },
+    {
+      "titulo": "Uso dos dedos",
+      "texto": "No voleibol, espalhe os dedos ao tocar a bola; no futebol, use o interior do pé para direção e força.",
+      "foto": "volleyball finger contact"
+    },
+    {
+      "titulo": "Movimento do tronco",
+      "texto": "Gire levemente o tronco na hora do passe, transferindo energia dos quadris para a bola e melhorando a precisão.",
+      "foto": "soccer torso twist"
+    },
+    {
+      "titulo": "Treino de alvo",
+      "texto": "Reserve 10 minutos por treino para acertar passes em cones ou alvos específicos; repita até alcançar consistência.",
+      "foto": "volleyball target drill"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique todos os dias",
+  "legenda": "⚽️ Já pensou em melhorar seus passes tanto no futebol quanto no vôlei? Cada detalhe conta e hoje eu trouxe 5 dicas rápidas para você arrasar nas quadras e nos campos.\nDeslize para o lado e descubra cada passo: posicionamento, foco, dedos, tronco e treino de alvo. Simples, prático e fácil de aplicar no seu dia a dia.\nCurtiu? Deixe seu comentário, compartilhe com os amigos e siga para mais curiosidades esportivas! 🏐",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "esporte",
+    "dicas",
+    "treino",
+    "passes",
+    "precisao",
+    "curiosidades",
+    "futebolbrasil",
+    "volebrazil",
+    "sporttips",
+    "atletas"
+  ],
+  "foto_capa": "soccer volleyball action",
+  "assunto_foto": "football",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-08T15:40-03:00",
+  "fotos": {
+    "capa": {
+      "id": 10521374,
+      "busca": "soccer volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/10521374/pexels-photo-10521374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Alejandra D",
+      "pagina": "https://www.pexels.com/photo/man-playing-beach-volleyball-10521374/"
+    },
+    "slides": [
+      {
+        "id": 23848540,
+        "busca": "soccer foot positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/23848540/pexels-photo-23848540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/leg-of-football-player-chasing-ball-23848540/"
+      },
+      {
+        "id": 36866658,
+        "busca": "volleyball eye contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36866658/pexels-photo-36866658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "maximiliano morgante",
+        "pagina": "https://www.pexels.com/photo/young-athlete-spinning-volleyball-indoors-36866658/"
+      },
+      {
+        "id": 28207837,
+        "busca": "volleyball finger contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/28207837/pexels-photo-28207837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Renan Braz",
+        "pagina": "https://www.pexels.com/photo/brasil-futevolei-28207837/"
+      },
+      {
+        "id": 5247134,
+        "busca": "soccer torso twist",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/5247134/pexels-photo-5247134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thirdman",
+        "pagina": "https://www.pexels.com/photo/football-player-standing-in-corner-of-playing-field-with-ball-5247134/"
+      },
+      {
+        "id": 6203575,
+        "busca": "volleyball target drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203575/pexels-photo-6203575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/men-and-women-playing-volleyball-6203575/"
+      }
+    ]
+  }
+}
