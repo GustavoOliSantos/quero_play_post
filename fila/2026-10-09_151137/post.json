@@ -1,0 +1,103 @@
+{
+  "tema": "areia",
+  "titulo": "Melhore sua comunicação e posicionamento",
+  "subtitulo": "5 passos simples para dominar campo e quadra",
+  "slides": [
+    {
+      "titulo": "Observe a formação inicial",
+      "texto": "Antes de iniciar, analise rapidamente a disposição dos companheiros e adversários para saber onde deve se posicionar.",
+      "foto": "soccer team formation"
+    },
+    {
+      "titulo": "Use sinais de mão claros",
+      "texto": "Combine gestos curtos e padronizados com o time; no vôlei sinalize toque, bloqueio e cobertura, no futebol indique passes e corridas.",
+      "foto": "volleyball hand signals"
+    },
+    {
+      "titulo": "Mantenha contato visual constante",
+      "texto": "Olhe para o parceiro antes de receber ou passar a bola; isso reduz erros e aumenta a confiança entre os jogadores.",
+      "foto": "players eye contact"
+    },
+    {
+      "titulo": "Treine deslocamento lateral rápido",
+      "texto": "Faça exercícios de laterais curtas e explosivas, melhorando a capacidade de cobrir espaços vazios tanto no gramado quanto na quadra.",
+      "foto": "lateral movement drill"
+    },
+    {
+      "titulo": "Revise o jogo em vídeo",
+      "texto": "Assista trechos curtos focando nas trocas de posição e comunicação; anote o que funcionou e ajuste para a próxima partida.",
+      "foto": "game footage analysis"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com o time!",
+  "legenda": "Comunicação e posicionamento são a base de qualquer equipe vencedora, seja no futebol ou no vôlei. 💬⚽🏐\nDescubra 5 dicas práticas que você pode aplicar já nos treinos e jogos. Deslize para o lado e veja cada passo.\nTeste as técnicas, ajuste ao seu estilo e veja a diferença na próxima partida. Marque quem precisa melhorar também! 💡\nCurtiu? Deixe um comentário, siga para mais curiosidades e salve para rever sempre!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "comunicacaoesportiva",
+    "posicionamento",
+    "dicasdefutebol",
+    "dicasdevolei",
+    "treinamento",
+    "esportelivre",
+    "time",
+    "taticasesportivas",
+    "jogoem equipe"
+  ],
+  "foto_capa": "team communication on field",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-09T15:11-03:00",
+  "fotos": {
+    "capa": {
+      "id": 35499492,
+      "busca": "team communication on field",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/35499492/pexels-photo-35499492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "César O'neill",
+      "pagina": "https://www.pexels.com/photo/football-training-session-in-puebla-mexico-35499492/"
+    },
+    "slides": [
+      {
+        "id": 29558649,
+        "busca": "soccer team formation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29558649/pexels-photo-29558649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anh Lee",
+        "pagina": "https://www.pexels.com/photo/soccer-teams-lining-up-for-match-in-ha-n-i-29558649/"
+      },
+      {
+        "id": 10350342,
+        "busca": "volleyball hand signals",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10350342/pexels-photo-10350342.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/close-up-photo-of-a-person-holding-a-ball-10350342/"
+      },
+      {
+        "id": 264382,
+        "busca": "players eye contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/264382/pexels-photo-264382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pixabay",
+        "pagina": "https://www.pexels.com/photo/selective-focus-photography-of-two-men-playing-american-football-264382/"
+      },
+      {
+        "id": 37926448,
+        "busca": "lateral movement drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37926448/pexels-photo-37926448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/two-soccer-players-in-defensive-training-drill-outdoors-37926448/"
+      },
+      {
+        "id": 8341887,
+        "busca": "game footage analysis",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8341887/pexels-photo-8341887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/warning-sign-as-gift-for-fathers-day-8341887/"
+      }
+    ]
+  }
+}
