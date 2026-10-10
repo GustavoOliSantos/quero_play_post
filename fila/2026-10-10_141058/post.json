@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Domine jogadas essenciais em 5 passos",
+  "subtitulo": "Dicas práticas para melhorar sua performance no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Aquecimento dinâmico combinado",
+      "texto": "Faça 5 minutos de corrida leve seguida de polichinelos e rotação de quadril para ativar músculos antes de jogar",
+      "foto": "soccer warm up"
+    },
+    {
+      "titulo": "Passes curtos e precisos",
+      "texto": "Treine passes de 10 metros usando ambos os pés, focando no toque leve e direção correta para evitar perdas de bola",
+      "foto": "football short pass"
+    },
+    {
+      "titulo": "Posicionamento defensivo no vôlei",
+      "texto": "Mantenha os joelhos dobrados, mãos à altura da rede e olhos na trajetória da bola para reagir rapidamente a ataques adversários",
+      "foto": "volleyball defensive stance"
+    },
+    {
+      "titulo": "Saques estratégicos alternados",
+      "texto": "Varie entre saque curto e forte, mirando cantos opostos da quadra para confundir a recepção e abrir oportunidades de ataque",
+      "foto": "volleyball serve variation"
+    },
+    {
+      "titulo": "Finalização com precisão",
+      "texto": "Treine finalizações de 1 a 2 metros antes da linha de gol ou rede, focando no ponto exato para aumentar a taxa de sucesso",
+      "foto": "soccer finishing drill"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique hoje mesmo!",
+  "legenda": "Descubra como pequenos ajustes podem transformar seu jogo tanto no futebol quanto no vôlei. 📚\n\nCada slide traz um passo simples para você aplicar já nos treinos. 🚀\n\nDeslize para o lado e comece a melhorar sua performance agora! 🔥\n\nCurtiu? Compartilhe, comente sua dica favorita e siga para mais curiosidades esportivas.",
+  "hashtags": [
+    "futebolcuriosidades",
+    "voleiboldicas",
+    "esportesbrasil",
+    "futeboltreino",
+    "voleiboltreino",
+    "curiosidadessport",
+    "dicasfutebol",
+    "dicasvoleibol",
+    "esportesvida",
+    "treinoeficaz"
+  ],
+  "foto_capa": "soccer volleyball combo",
+  "assunto_foto": "Sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-10T14:10-03:00",
+  "fotos": {
+    "capa": {
+      "id": 12678632,
+      "busca": "soccer volleyball combo",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/12678632/pexels-photo-12678632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "GaNesh Gyawalee",
+      "pagina": "https://www.pexels.com/photo/boys-standing-beside-each-other-while-looking-at-the-camera-12678632/"
+    },
+    "slides": [
+      {
+        "id": 7187827,
+        "busca": "soccer warm up",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7187827/pexels-photo-7187827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-kicking-the-soccer-ball-7187827/"
+      },
+      {
+        "id": 33826794,
+        "busca": "football short pass",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/33826794/pexels-photo-33826794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/youth-soccer-player-kicking-football-on-field-33826794/"
+      },
+      {
+        "id": 6203637,
+        "busca": "volleyball defensive stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203637/pexels-photo-6203637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/women-playing-volleyball-6203637/"
+      },
+      {
+        "id": 6203499,
+        "busca": "volleyball serve variation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203499/pexels-photo-6203499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/man-spiking-a-volley-ball-over-the-net-6203499/"
+      },
+      {
+        "id": 30585000,
+        "busca": "soccer finishing drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30585000/pexels-photo-30585000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-training-session-with-ball-and-cones-30585000/"
+      }
+    ]
+  }
+}
