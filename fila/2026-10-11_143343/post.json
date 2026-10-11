@@ -1,0 +1,100 @@
+{
+  "tema": "areia",
+  "titulo": "Saques que mudam o jogo",
+  "subtitulo": "Descubra técnicas de saque no futebol e voleibol que surpreendem adversários",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "No voleibol, pés paralelos ao chão dão estabilidade; no futebol, ângulo aberto gera mais potência.",
+      "foto": "volleyball foot position"
+    },
+    {
+      "titulo": "Contato da mão",
+      "texto": "Use a palma aberta no voleibol para controlar a bola; no futebol, a parte interna do pé oferece maior precisão.",
+      "foto": "football foot contact"
+    },
+    {
+      "titulo": "Velocidade de impulsão",
+      "texto": "A força do salto eleva o saque no voleibol; no futebol, a corrida rápida aumenta a velocidade do chute.",
+      "foto": "volleyball jump serve"
+    },
+    {
+      "titulo": "Ângulo de lançamento",
+      "texto": "Um ângulo de 45° maximiza a distância no voleibol; no futebol, entre 30° e 40° favorece precisão e potência.",
+      "foto": "football kick angle"
+    },
+    {
+      "titulo": "Follow‑through efetivo",
+      "texto": "Mantenha o braço ou perna em movimento após o contato; isso aumenta rotação e controla a trajetória da bola.",
+      "foto": "volleyball follow through"
+    }
+  ],
+  "chamada_final": "Salve para melhorar seus saques agora",
+  "legenda": "Já pensou que o jeito de sacar pode transformar seu desempenho? ⚽️🏐\n\nNos slides a seguir, explicamos passo a passo como adaptar técnicas do futebol e do voleibol para melhorar a potência e precisão dos seus saques.\n\nDeslize para o lado, teste as dicas na próxima partida e conte nos comentários como foi! Não esqueça de curtir e seguir para mais curiosidades esportivas. 🚀",
+  "hashtags": [
+    "futebol",
+    "voleibol",
+    "curiosidades",
+    "saques",
+    "dicas",
+    "esporte",
+    "treinamento",
+    "bola"
+  ],
+  "foto_capa": "volleyball football serve",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-11T14:33-03:00",
+  "fotos": {
+    "capa": {
+      "id": 32681170,
+      "busca": "volleyball football serve",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/32681170/pexels-photo-32681170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Daniil Kondrashin",
+      "pagina": "https://www.pexels.com/photo/male-volleyball-player-performing-a-powerful-jump-serve-32681170/"
+    },
+    "slides": [
+      {
+        "id": 36681498,
+        "busca": "volleyball foot position",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36681498/pexels-photo-36681498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thang Nguyen",
+        "pagina": "https://www.pexels.com/photo/outdoor-foot-volleyball-match-in-a-park-setting-36681498/"
+      },
+      {
+        "id": 16607463,
+        "busca": "football foot contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/16607463/pexels-photo-16607463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pablo Hsm",
+        "pagina": "https://www.pexels.com/photo/leg-kicking-football-lying-on-grass-16607463/"
+      },
+      {
+        "id": 6203541,
+        "busca": "volleyball jump serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203541/pexels-photo-6203541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/group-of-people-playing-volleyball-6203541/"
+      },
+      {
+        "id": 32563038,
+        "busca": "football kick angle",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32563038/pexels-photo-32563038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "syah rizal ananda",
+        "pagina": "https://www.pexels.com/photo/young-man-playing-soccer-on-medan-field-32563038/"
+      },
+      {
+        "id": 6180404,
+        "busca": "volleyball follow through",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180404/pexels-photo-6180404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/a-man-playing-volleyball-6180404/"
+      }
+    ]
+  }
+}
