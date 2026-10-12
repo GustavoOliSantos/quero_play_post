@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 passos para controlar a bola",
+  "subtitulo": "Melhore seu toque, saque e chute com dicas práticas para jogar melhor",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos pés no saque",
+      "texto": "Afaste os pés na largura dos ombros, coloque o pé de apoio ligeiramente à frente e direcione energia para a bola.",
+      "foto": "volleyball serve foot"
+    },
+    {
+      "titulo": "Contato firme no passe",
+      "texto": "Use a parte interna do pé, mantenha o joelho levemente dobrado e encoste a bola no meio do pé para passes precisos.",
+      "foto": "football pass foot"
+    },
+    {
+      "titulo": "Treino de reflexos com parede",
+      "texto": "Bata a bola contra a parede e receba com diferentes ângulos, aumentando velocidade a cada rodada para melhorar reação.",
+      "foto": "volleyball wall drill"
+    },
+    {
+      "titulo": "Visualização antes do toque",
+      "texto": "Feche os olhos, imagine a trajetória da bola e a posição da rede ou gol antes de executar o movimento.",
+      "foto": "athlete visualizing ball"
+    },
+    {
+      "titulo": "Respire para evitar tensão",
+      "texto": "Inspire profundamente antes do saque ou chute e solte o ar ao contato, evitando músculos rígidos que reduzem potência.",
+      "foto": "sports breathing technique"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e pratique hoje mesmo!",
+  "legenda": "Quer melhorar seu toque tanto no futebol quanto no vôlei? 🚀\nDeslize para o lado e descubra 5 passos simples que vão transformar sua performance.\nTeste cada dica no treino de hoje e sinta a diferença na hora. ⚽🏐\nCurtiu? Salve, compartilhe e comente qual dica funcionou melhor para você!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdeesporte",
+    "controledebola",
+    "treinamento",
+    "esportebrasil",
+    "paixaopelojogo",
+    "aprendaesporte",
+    "futebolvolei",
+    "dicaspraticas"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-12T18:07-03:00",
+  "fotos": {
+    "capa": {
+      "id": 26630771,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/26630771/pexels-photo-26630771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Sebastian Dziomba",
+      "pagina": "https://www.pexels.com/photo/men-playing-volleyball-in-park-26630771/"
+    },
+    "slides": [
+      {
+        "id": 6203518,
+        "busca": "volleyball serve foot",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203518/pexels-photo-6203518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-6203518/"
+      },
+      {
+        "id": 38060743,
+        "busca": "football pass foot",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38060743/pexels-photo-38060743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-with-two-players-competing-38060743/"
+      },
+      {
+        "id": 36774542,
+        "busca": "volleyball wall drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36774542/pexels-photo-36774542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tahir Xəlfəquliyev",
+        "pagina": "https://www.pexels.com/photo/outdoor-volleyball-game-by-historic-castle-wall-36774542/"
+      },
+      {
+        "id": 28767588,
+        "busca": "athlete visualizing ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/28767588/pexels-photo-28767588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Steve A Johnson",
+        "pagina": "https://www.pexels.com/photo/vibrant-abstract-soccer-image-with-dynamic-energy-28767588/"
+      },
+      {
+        "id": 16769518,
+        "busca": "sports breathing technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/16769518/pexels-photo-16769518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Sergio Benavides",
+        "pagina": "https://www.pexels.com/photo/man-swimming-in-a-swimming-pool-16769518/"
+      }
+    ]
+  }
+}
