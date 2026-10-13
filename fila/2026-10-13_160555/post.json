@@ -1,0 +1,101 @@
+{
+  "tema": "areia",
+  "titulo": "Quando erros viram momentos épicos",
+  "subtitulo": "Veja como falhas no futebol e no vôlei se transformam em gols e pontos surpreendentes",
+  "slides": [
+    {
+      "titulo": "Posicionamento errado na bola parada",
+      "texto": "Quando o defensor deixa espaço entre ele e a bola, o atacante pode cobrar de primeira, surpreendendo o goleiro.",
+      "foto": "football free kick"
+    },
+    {
+      "titulo": "Como usar a mão livre no vôlei",
+      "texto": "A mão livre permite controle preciso na recepção; posicione a palma aberta e siga a trajetória da bola.",
+      "foto": "volleyball forearm pass"
+    },
+    {
+      "titulo": "Erro de comunicação que gera ponto",
+      "texto": "No ataque, se o levantador não avisa a jogada, os atacantes podem colidir, perdendo o ponto.",
+      "foto": "volleyball set collision"
+    },
+    {
+      "titulo": "Goleiro que driblou antes do gol",
+      "texto": "Em 2012, o goleiro avançou, driblou dois atacantes e marcou, mostrando ousadia permitida em contra‑ataques.",
+      "foto": "soccer goalkeeper dribble"
+    },
+    {
+      "titulo": "Treine a visão de jogo em 5 minutos",
+      "texto": "Assista a clipes curtos, pause e imagine a próxima jogada; repita para melhorar antecipação no campo.",
+      "foto": "football tactical board"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos",
+  "legenda": "Descubra como pequenos erros podem virar grandes momentos no futebol e no vôlei. 🤯\n\nDeslize para o lado e veja exemplos reais de lances inesperados que mudaram o rumo das partidas. Cada slide traz uma dica prática que você pode aplicar nos treinos.\n\nCurtiu? Salve, marque os amigos e siga para mais curiosidades esportivas! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "gols",
+    "ponto",
+    "taticas",
+    "jogadores",
+    "brasil"
+  ],
+  "foto_capa": "soccer volleyball surprise",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-13T16:05-03:00",
+  "fotos": {
+    "capa": {
+      "id": 36752650,
+      "busca": "soccer volleyball surprise",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/36752650/pexels-photo-36752650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Thang Nguyen",
+      "pagina": "https://www.pexels.com/photo/energetic-game-of-sepak-takraw-in-outdoor-setting-36752650/"
+    },
+    "slides": [
+      {
+        "id": 9407021,
+        "busca": "football free kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9407021/pexels-photo-9407021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/soccer-player-kicking-the-ball-9407021/"
+      },
+      {
+        "id": 6203645,
+        "busca": "volleyball forearm pass",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203645/pexels-photo-6203645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/volleyball-players-training-together-6203645/"
+      },
+      {
+        "id": 17557542,
+        "busca": "volleyball set collision",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17557542/pexels-photo-17557542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tom Fisk",
+        "pagina": "https://www.pexels.com/photo/women-playing-volleyball-17557542/"
+      },
+      {
+        "id": 38454853,
+        "busca": "soccer goalkeeper dribble",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38454853/pexels-photo-38454853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-player-dribbling-on-field-during-match-38454853/"
+      },
+      {
+        "id": 38116810,
+        "busca": "football tactical board",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38116810/pexels-photo-38116810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/teenage-soccer-player-focused-on-game-action-38116810/"
+      }
+    ]
+  }
+}
