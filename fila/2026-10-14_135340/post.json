@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Aumente sua visão de jogo hoje",
+  "subtitulo": "5 dicas práticas para ler jogadas e antecipar movimentos no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Observe a postura dos adversários",
+      "texto": "Preste atenção na posição dos ombros e quadris; indica direção da jogada e possíveis passes.",
+      "foto": "football player stance"
+    },
+    {
+      "titulo": "Use o olhar periférico",
+      "texto": "Treine olhar para a bola e, ao mesmo tempo, captar movimentos dos companheiros nas laterais.",
+      "foto": "volleyball peripheral vision"
+    },
+    {
+      "titulo": "Identifique padrões de movimento",
+      "texto": "Observe sequências repetidas de passes ou ataques; reconheça rotas favoritas e interrompa-as com cobertura.",
+      "foto": "soccer pattern analysis"
+    },
+    {
+      "titulo": "Comunique-se rapidamente",
+      "texto": "Use sinais curtos e palavras-chave; a comunicação clara acelera a tomada de decisão coletiva.",
+      "foto": "team communication on court"
+    },
+    {
+      "titulo": "Treine com vídeos lentos",
+      "texto": "Reveja gravações em câmera lenta para detectar micro-ajustes de postura e tempo de reação.",
+      "foto": "slow motion match footage"
+    }
+  ],
+  "chamada_final": "Salve estas dicas e compartilhe com a equipe!",
+  "legenda": "Você sabia que melhorar a visão de jogo pode mudar totalmente seu desempenho? 🤔\n\nConfira cada slide e coloque as técnicas em prática nos treinos e jogos. Cada detalhe conta para antecipar o próximo lance.\n\nDeslize para o lado, experimente e marque quem vai curtir essas dicas. 💪",
+  "hashtags": [
+    "futebol",
+    "voleibol",
+    "curiosidades",
+    "esportes",
+    "treinamento",
+    "dicas",
+    "visãodejogo",
+    "tática",
+    "performance",
+    "atleta"
+  ],
+  "foto_capa": "football volleyball vision",
+  "assunto_foto": "football volleyball",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-14T13:53-03:00",
+  "fotos": {
+    "capa": {
+      "id": 34076496,
+      "busca": "football volleyball vision",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/34076496/pexels-photo-34076496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Rahime Gül",
+      "pagina": "https://www.pexels.com/photo/beach-volleyball-net-at-sunset-on-sandy-shore-34076496/"
+    },
+    "slides": [
+      {
+        "id": 264380,
+        "busca": "football player stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/264380/pexels-photo-264380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pixabay",
+        "pagina": "https://www.pexels.com/photo/football-players-264380/"
+      },
+      {
+        "id": 10350346,
+        "busca": "volleyball peripheral vision",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10350346/pexels-photo-10350346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/man-holding-a-ball-behind-a-net-10350346/"
+      },
+      {
+        "id": 32205615,
+        "busca": "soccer pattern analysis",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32205615/pexels-photo-32205615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/goalkeeper-making-a-high-leap-save-in-soccer-match-32205615/"
+      },
+      {
+        "id": 6767002,
+        "busca": "team communication on court",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6767002/pexels-photo-6767002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/a-man-coaching-a-team-of-women-6767002/"
+      },
+      {
+        "id": 6800039,
+        "busca": "slow motion match footage",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6800039/pexels-photo-6800039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/unrecognizable-football-players-running-on-field-6800039/"
+      }
+    ]
+  }
+}
