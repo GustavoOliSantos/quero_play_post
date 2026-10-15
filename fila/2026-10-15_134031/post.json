@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 táticas que mudam o jogo",
+  "subtitulo": "Descubra estratégias usadas por profissionais para surpreender adversários",
+  "slides": [
+    {
+      "titulo": "Pressão alta no ataque",
+      "texto": "No futebol, aplicar pressão alta força erros defensivos e cria oportunidades de gol rapidamente.",
+      "foto": "soccer high press"
+    },
+    {
+      "titulo": "Saques estratégicos no vôlei",
+      "texto": "Varie a altura e o efeito do saque para desestabilizar a recepção e abrir a quadra.",
+      "foto": "volleyball jump serve"
+    },
+    {
+      "titulo": "Transição rápida no futebol",
+      "texto": "Recupere a bola e lance para o ataque em até três toques, surpreendendo a defesa.",
+      "foto": "soccer fast transition"
+    },
+    {
+      "titulo": "Bloqueio duplo no vôlei",
+      "texto": "Quando o atacante vem da direita, duas linhas de bloqueio aumentam a chance de ponto direto.",
+      "foto": "volleyball double block"
+    },
+    {
+      "titulo": "Finalizações de primeira",
+      "texto": "Treine chutes de primeira bola para aproveitar cruzamentos e bolas altas, aumentando a taxa de gol.",
+      "foto": "soccer first time shot"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e marque quem precisa melhorar!",
+  "legenda": "⚽️ Você sabia que pequenas mudanças táticas podem transformar o desempenho da sua equipe?\n\n🏐 No vôlei, ajustes simples no saque ou bloqueio dão vantagem enorme.\n\nDeslize para o lado e descubra cada dica prática que você pode aplicar agora mesmo.\n\nCurtiu? Salve, comente sua experiência e siga para mais curiosidades esportivas!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "taticas",
+    "esporte",
+    "curiosidades",
+    "treinamento",
+    "dicas",
+    "jogo",
+    "performance",
+    "coach"
+  ],
+  "foto_capa": "soccer volleyball tactics",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-15T13:40-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38881870,
+      "busca": "soccer volleyball tactics",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38881870/pexels-photo-38881870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Mateo Franciosi",
+      "pagina": "https://www.pexels.com/photo/intense-soccer-match-tackle-action-38881870/"
+    },
+    "slides": [
+      {
+        "id": 38120961,
+        "busca": "soccer high press",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38120961/pexels-photo-38120961.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-soccer-player-in-action-on-field-38120961/"
+      },
+      {
+        "id": 6203510,
+        "busca": "volleyball jump serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203510/pexels-photo-6203510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/men-playing-volley-inside-a-covered-court-6203510/"
+      },
+      {
+        "id": 14401516,
+        "busca": "soccer fast transition",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/14401516/pexels-photo-14401516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Laura Rincón",
+        "pagina": "https://www.pexels.com/photo/children-playing-soccer-on-field-14401516/"
+      },
+      {
+        "id": 6203564,
+        "busca": "volleyball double block",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203564/pexels-photo-6203564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/volleyball-players-spiking-a-ball-through-blockers-6203564/"
+      },
+      {
+        "id": 12046115,
+        "busca": "soccer first time shot",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12046115/pexels-photo-12046115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Iman Taufik",
+        "pagina": "https://www.pexels.com/photo/boys-playing-ball-on-the-street-12046115/"
+      }
+    ]
+  }
+}
