@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 segredos para melhorar seu jogo",
+  "subtitulo": "Descubra truques simples que podem mudar sua performance em campo",
+  "slides": [
+    {
+      "titulo": "Posicionamento na bola parada",
+      "texto": "Fique 2 metros da bola, observe a trajetória e ajuste o corpo antes de chutar para garantir maior precisão.",
+      "foto": "football free kick"
+    },
+    {
+      "titulo": "Controle da primeira bola",
+      "texto": "Ao receber, use a parte interna do pé e mantenha o olhar no chão por 2 segundos para melhorar o toque.",
+      "foto": "soccer ball control"
+    },
+    {
+      "titulo": "Leitura da defesa adversária",
+      "texto": "Observe a formação dos zagueiros; se eles recuam, vá mais profundo, se avançam, passe rápido.",
+      "foto": "soccer defensive line"
+    },
+    {
+      "titulo": "Erro comum ao cabecear",
+      "texto": "Muitos encostam a testa; use a fronte, alinhe o corpo e salto para direcionar a bola.",
+      "foto": "soccer header technique"
+    },
+    {
+      "titulo": "Aquecimento mental antes do jogo",
+      "texto": "Faça 3 minutos de visualização: imagine passes, dribles e gols para aumentar a confiança.",
+      "foto": "soccer mental preparation"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com amigos!",
+  "legenda": "⚽️ Quer elevar seu nível no futebol? Cada detalhe conta, e eu trouxe 5 dicas práticas para você aplicar já nos treinos.\nDeslize para o lado e descubra como melhorar posicionamento, controle, leitura da defesa, cabeceio e preparação mental.\nCurtiu? Deixe seu comentário, marque o parceiro de treino e não esqueça de seguir para mais curiosidades esportivas!",
+  "hashtags": [
+    "futebol",
+    "dicasdefutebol",
+    "treinamentofutebol",
+    "curiosidadesfutebol",
+    "jogadodefutebol",
+    "soccer",
+    "footballtips",
+    "sportslearning",
+    "futebolbrasileiro",
+    "jogadocriativo"
+  ],
+  "foto_capa": "football stadium action",
+  "assunto_foto": "football",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-16T13:23-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38895715,
+      "busca": "football stadium action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38895715/pexels-photo-38895715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Mateo Franciosi",
+      "pagina": "https://www.pexels.com/photo/intense-soccer-match-with-competing-players-38895715/"
+    },
+    "slides": [
+      {
+        "id": 20814951,
+        "busca": "football free kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/20814951/pexels-photo-20814951.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Davide Gargiulo",
+        "pagina": "https://www.pexels.com/photo/a-football-player-kicking-the-ball-during-a-match-20814951/"
+      },
+      {
+        "id": 38454855,
+        "busca": "soccer ball control",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38454855/pexels-photo-38454855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/teenager-playing-soccer-on-outdoor-field-38454855/"
+      },
+      {
+        "id": 35334508,
+        "busca": "soccer defensive line",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/35334508/pexels-photo-35334508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Federico Velazco",
+        "pagina": "https://www.pexels.com/photo/intense-indoor-soccer-match-with-goalkeeper-focused-35334508/"
+      },
+      {
+        "id": 12313947,
+        "busca": "soccer header technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12313947/pexels-photo-12313947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/people-playing-soccer-12313947/"
+      },
+      {
+        "id": 29811411,
+        "busca": "soccer mental preparation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29811411/pexels-photo-29811411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "César O'neill",
+        "pagina": "https://www.pexels.com/photo/soccer-team-huddle-pre-match-motivation-29811411/"
+      }
+    ]
+  }
+}
