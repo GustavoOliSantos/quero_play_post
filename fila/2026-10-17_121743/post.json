@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Domine salto e posicionamento",
+  "subtitulo": "5 passos práticos para elevar seu jogo no futebol e vôlei",
+  "slides": [
+    {
+      "titulo": "Aquecimento dinâmico",
+      "texto": "Faça 5 minutos de polichinelos, skipping e alongamento ativo para preparar músculos e evitar lesões.",
+      "foto": "dynamic warmup athletes"
+    },
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "No saque e no chute, alinhe o pé de apoio apontando para o alvo; isso gera mais força e precisão.",
+      "foto": "foot placement training"
+    },
+    {
+      "titulo": "Salto explosivo",
+      "texto": "Pratique o salto com agachamento profundo e explosão rápida; aumente a altura para bloqueios e cabeças dominantes.",
+      "foto": "explosive jump training"
+    },
+    {
+      "titulo": "Leitura da defesa",
+      "texto": "Observe a posição dos zagueiros e bloqueadores; antecipe a trajetória da bola e escolha o ponto ideal de ataque.",
+      "foto": "defensive line analysis"
+    },
+    {
+      "titulo": "Erros comuns",
+      "texto": "Evite saltar antes da bola chegar, não segure a respiração e não esqueça de seguir o movimento após o contato.",
+      "foto": "common mistake sports"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e treine com foco!",
+  "legenda": "Quer melhorar seu salto e posicionamento no futebol e vôlei? 🚀\nSegue o passo a passo que separei, fácil de aplicar nos treinos.\nDeslize para o lado e descubra cada dica. Depois comenta qual vai testar primeiro! 💬\nCurtiu? Salve, compartilhe e siga para mais curiosidades esportivas. 👍",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "treino",
+    "esporte",
+    "dicasdeesporte",
+    "salto",
+    "posicionamento",
+    "performance",
+    "jogos",
+    "atletismo"
+  ],
+  "foto_capa": "volleyball soccer jump",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-17T12:17-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38479449,
+      "busca": "volleyball soccer jump",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38479449/pexels-photo-38479449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Fer Strange",
+      "pagina": "https://www.pexels.com/photo/dynamic-volleyball-player-jumping-for-serve-38479449/"
+    },
+    "slides": [
+      {
+        "id": 6339353,
+        "busca": "dynamic warmup athletes",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6339353/pexels-photo-6339353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-stretching-in-a-gym-6339353/"
+      },
+      {
+        "id": 12350338,
+        "busca": "foot placement training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12350338/pexels-photo-12350338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Selvin Esteban",
+        "pagina": "https://www.pexels.com/photo/a-person-wearing-black-shoes-standing-beside-the-skatebord-12350338/"
+      },
+      {
+        "id": 5586409,
+        "busca": "explosive jump training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/5586409/pexels-photo-5586409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tima Miroshnichenko",
+        "pagina": "https://www.pexels.com/photo/a-man-doing-a-dunk-5586409/"
+      },
+      {
+        "id": 38877604,
+        "busca": "defensive line analysis",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38877604/pexels-photo-38877604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Rafael Minguet Delgado",
+        "pagina": "https://www.pexels.com/photo/stock-market-analysis-chart-with-trend-lines-38877604/"
+      },
+      {
+        "id": 6203647,
+        "busca": "common mistake sports",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203647/pexels-photo-6203647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/a-player-doing-a-hand-signal-behind-her-back-6203647/"
+      }
+    ]
+  }
+}
