@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Domine a precisão nos passes",
+  "subtitulo": "5 dicas práticas para melhorar seus passes no futebol e no voleibol",
+  "slides": [
+    {
+      "titulo": "Aquecimento específico para mãos e pés",
+      "texto": "Faça 5 minutos de alongamento dinâmico focado nos dedos, punhos e tornozelos para aumentar mobilidade e prevenir lesões.",
+      "foto": "volleyball hand drill"
+    },
+    {
+      "titulo": "Posicionamento dos dedos e dos pés",
+      "texto": "No voleibol, use os dedos curvados ao tocar; no futebol, coloque o pé ao lado da bola para controle preciso.",
+      "foto": "football foot placement"
+    },
+    {
+      "titulo": "Foco visual no ponto de contato",
+      "texto": "Mantenha os olhos fixos no ponto onde a bola será tocada; isso aumenta a precisão e reduz erros.",
+      "foto": "volleyball eye focus"
+    },
+    {
+      "titulo": "Treine com alvos pequenos",
+      "texto": "Distribua cones ou alvos na quadra e pratique passes tentando acertar o centro, aumentando a consistência.",
+      "foto": "football target drill"
+    },
+    {
+      "titulo": "Erros comuns e como evitá-los",
+      "texto": "Evite segurar a bola, olhar para a cabeça e usar força excessiva; prefira toque leve e direção correta.",
+      "foto": "volleyball mistake correction"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e treine hoje mesmo",
+  "legenda": "Quer melhorar seus passes no futebol e no vôlei? 🎯 Descubra 5 dicas simples que vão transformar sua precisão.\nDeslize para o lado e veja cada passo: aquecimento, posicionamento, foco visual, alvos e erros a evitar.\nCurtiu? Deixe um comentário, marque um amigo e siga o perfil para mais curiosidades esportivas!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "passes",
+    "dicasesportivas",
+    "treinamento",
+    "precisao",
+    "esporte",
+    "curiosidades",
+    "jogadores",
+    "melhorejogo"
+  ],
+  "foto_capa": "football volleyball precision",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-18T12:39-03:00",
+  "fotos": {
+    "capa": {
+      "id": 4266913,
+      "busca": "football volleyball precision",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/4266913/pexels-photo-4266913.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Karl  Groendal",
+      "pagina": "https://www.pexels.com/photo/people-playing-soccer-on-a-beach-during-sunset-4266913/"
+    },
+    "slides": [
+      {
+        "id": 10350341,
+        "busca": "volleyball hand drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10350341/pexels-photo-10350341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/handsome-man-holding-a-ball-10350341/"
+      },
+      {
+        "id": 33660699,
+        "busca": "football foot placement",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/33660699/pexels-photo-33660699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Eden FC",
+        "pagina": "https://www.pexels.com/photo/soccer-player-preparing-for-free-kick-33660699/"
+      },
+      {
+        "id": 10350348,
+        "busca": "volleyball eye focus",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10350348/pexels-photo-10350348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/person-holding-a-ball-beside-a-net-10350348/"
+      },
+      {
+        "id": 30584997,
+        "busca": "football target drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30584997/pexels-photo-30584997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-team-training-session-on-green-field-30584997/"
+      },
+      {
+        "id": 6192335,
+        "busca": "volleyball mistake correction",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6192335/pexels-photo-6192335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "KATRIN  BOLOVTSOVA",
+        "pagina": "https://www.pexels.com/photo/notebook-and-eraser-6192335/"
+      }
+    ]
+  }
+}
