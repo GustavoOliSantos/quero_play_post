@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 hábitos que potencializam sua performance",
+  "subtitulo": "Descubra práticas usadas por craques do futebol e do vôlei",
+  "slides": [
+    {
+      "titulo": "Alongamento dinâmico completo",
+      "texto": "Dedique 10 minutos a movimentos que ativam pernas, quadris e ombros antes de treinar ou jogar, evitando lesões e aumentando a mobilidade.",
+      "foto": "soccer dynamic stretch"
+    },
+    {
+      "titulo": "Exercícios de explosão diária",
+      "texto": "Faça sprints curtos, saltos e lançamentos de bola 3 vezes por semana para melhorar velocidade e potência nos chutes e saques.",
+      "foto": "volleyball jump training"
+    },
+    {
+      "titulo": "Visualização de jogadas",
+      "texto": "Antes do treino, feche os olhos e imagine lances perfeitos, posicionamento e timing; isso treina o cérebro e aumenta a confiança.",
+      "foto": "soccer mental rehearsal"
+    },
+    {
+      "titulo": "Nutrição pré-jogo inteligente",
+      "texto": "Coma carboidratos complexos e proteínas leves 2‑3 horas antes; hidratação constante garante energia sustentada para 90 minutos ou 5 sets.",
+      "foto": "volleyball nutrition snack"
+    },
+    {
+      "titulo": "Recuperação ativa pós-treino",
+      "texto": "Faça caminhada leve, alongamento estático e rolo de espuma; reduz a dor muscular e acelera a recuperação para o próximo dia.",
+      "foto": "soccer recovery foam"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e evolua seu jogo!",
+  "legenda": "Você sabia que pequenos hábitos diários podem transformar sua performance no futebol e no vôlei? ⚽🏐\nDeslize para descobrir 5 práticas simples usadas pelos grandes atletas e comece a aplicar já nos seus treinos.\nCurtiu? Deixe seu comentário, compartilhe com amigos e siga @seuperfil para mais curiosidades esportivas!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "esporte",
+    "treino",
+    "dicasdesportivas",
+    "performance",
+    "saude",
+    "nutricao",
+    "recuperacao",
+    "motivacao"
+  ],
+  "foto_capa": "athlete training montage",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-19T15:34-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38011352,
+      "busca": "athlete training montage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38011352/pexels-photo-38011352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "CRISTIAN CAMILO  ESTRADA",
+      "pagina": "https://www.pexels.com/photo/women-engaging-in-outdoor-fitness-activities-38011352/"
+    },
+    "slides": [
+      {
+        "id": 7187811,
+        "busca": "soccer dynamic stretch",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7187811/pexels-photo-7187811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-doing-leg-stretches-7187811/"
+      },
+      {
+        "id": 6203528,
+        "busca": "volleyball jump training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203528/pexels-photo-6203528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/men-playing-volleyball-inside-a-building-6203528/"
+      },
+      {
+        "id": 8198163,
+        "busca": "soccer mental rehearsal",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8198163/pexels-photo-8198163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-and-a-woman-playing-musical-instruments-together-8198163/"
+      },
+      {
+        "id": 11509787,
+        "busca": "volleyball nutrition snack",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/11509787/pexels-photo-11509787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Towfiqu barbhuiya",
+        "pagina": "https://www.pexels.com/photo/handful-of-nuts-on-hand-11509787/"
+      },
+      {
+        "id": 9519544,
+        "busca": "soccer recovery foam",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9519544/pexels-photo-9519544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anastasia  Shuraeva",
+        "pagina": "https://www.pexels.com/photo/injured-woman-lying-on-grass-field-9519544/"
+      }
+    ]
+  }
+}
