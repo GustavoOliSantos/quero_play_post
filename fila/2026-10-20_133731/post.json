@@ -1,0 +1,103 @@
+{
+  "tema": "areia",
+  "titulo": "Acerte passes como um profissional",
+  "subtitulo": "Descubra 5 passos simples para melhorar sua precisão no futebol e no vôlei",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "Mantenha os pés alinhados à direção da bola; isso cria uma base estável para passes precisos no campo e na quadra.",
+      "foto": "soccer foot positioning"
+    },
+    {
+      "titulo": "Olho na bola",
+      "texto": "Observe o centro da bola antes de tocar; focar no ponto de contato garante direção e força adequadas em cada toque.",
+      "foto": "volleyball player eyes ball"
+    },
+    {
+      "titulo": "Uso do quadril",
+      "texto": "Gire o quadril ao passar; a rotação gera mais potência e controle, evitando passes curtos ou desviados.",
+      "foto": "soccer hip rotation"
+    },
+    {
+      "titulo": "Comunicação constante",
+      "texto": "Avise companheiros com voz ou gestos antes de tocar; a sinalização evita colisões e melhora a fluidez das jogadas.",
+      "foto": "volleyball team communication"
+    },
+    {
+      "titulo": "Prática de alvo",
+      "texto": "Reserve treinos curtos focados em acertar cones ou alvos específicos; a repetição desenvolve consistência nos passes de ambos esportes.",
+      "foto": "soccer volley target drill"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique hoje mesmo!",
+  "legenda": "Quer melhorar a precisão dos seus passes no futebol e no vôlei? ⚽🏐\nConfira 5 dicas simples que vão transformar sua técnica: posicionamento, foco, rotação, comunicação e treino de alvo.\nDeslize para o lado, teste cada passo nos treinos e marque alguém que precisa ver isso. 👉 Salve, curta e siga para mais curiosidades!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdefutebol",
+    "dicasdevolei",
+    "precisao",
+    "treinamento",
+    "esporte",
+    "curiosidades",
+    "passes",
+    "tecnica",
+    "treinar"
+  ],
+  "foto_capa": "soccer volley precision",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-20T13:37-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38728258,
+      "busca": "soccer volley precision",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38728258/pexels-photo-38728258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Mateo Franciosi",
+      "pagina": "https://www.pexels.com/photo/dynamic-soccer-player-kicking-ball-in-action-38728258/"
+    },
+    "slides": [
+      {
+        "id": 10923060,
+        "busca": "soccer foot positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10923060/pexels-photo-10923060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Gonzalo Acuña",
+        "pagina": "https://www.pexels.com/photo/person-s-foot-on-a-ball-10923060/"
+      },
+      {
+        "id": 6203680,
+        "busca": "volleyball player eyes ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203680/pexels-photo-6203680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/man-in-black-long-sleeve-shirt-holding-white-and-black-ball-6203680/"
+      },
+      {
+        "id": 38403718,
+        "busca": "soccer hip rotation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38403718/pexels-photo-38403718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Go Journal",
+        "pagina": "https://www.pexels.com/photo/vietnamese-military-helicopter-in-flight-38403718/"
+      },
+      {
+        "id": 6203566,
+        "busca": "volleyball team communication",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203566/pexels-photo-6203566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/athletes-playing-volleyball-6203566/"
+      },
+      {
+        "id": 30585009,
+        "busca": "soccer volley target drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30585009/pexels-photo-30585009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-training-session-showing-multiple-players-30585009/"
+      }
+    ]
+  }
+}
