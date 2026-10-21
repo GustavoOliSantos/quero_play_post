@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 erros que atrapalham seu desempenho",
+  "subtitulo": "Descubra falhas simples que podem melhorar seu futebol e vôlei em poucos treinos",
+  "slides": [
+    {
+      "titulo": "Posicionamento ao receber passe",
+      "texto": "Fique de frente para a bola, pés na largura dos ombros e joelhos levemente dobrados para reagir rápido.",
+      "foto": "football player receiving ball"
+    },
+    {
+      "titulo": "Ângulo de chute no futebol",
+      "texto": "Apontar a perna externa ao alvo gera curva; pratique chutes de dentro e fora para variar o ângulo.",
+      "foto": "football kick angle"
+    },
+    {
+      "titulo": "Contato firme ao bloquear",
+      "texto": "Mantenha as mãos alinhadas com a rede e pressione a bola ao contato, usando força do tronco, não só dos braços.",
+      "foto": "volleyball block closeup"
+    },
+    {
+      "titulo": "Leitura da defesa no voleibol",
+      "texto": "Observe a posição dos bloqueadores adversários; se estão baixos, ataque pela zona rápida, se altos, escolha a bola alta.",
+      "foto": "volleyball defense reading"
+    },
+    {
+      "titulo": "Treino de explosão para salto",
+      "texto": "Faça 3 séries de 8 repetições de saltos em caixa, descansando 60 segundos entre séries, para melhorar altura.",
+      "foto": "jump training box"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com quem treina",
+  "legenda": "Você sabia que pequenos ajustes podem transformar seu jogo tanto no futebol quanto no vôlei? 🚀 Deslize para ver 5 erros comuns e como corrigi‑los de forma simples e prática. Cada dica cabe num treino rápido! Curtiu? Salve o post, compartilhe com a galera e me conta nos comentários qual dica você já usa!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esportes",
+    "treino",
+    "dicas",
+    "performance",
+    "salto",
+    "chute",
+    "bloqueio"
+  ],
+  "foto_capa": "football volleyball training",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-21T13:56-03:00",
+  "fotos": {
+    "capa": {
+      "id": 10350235,
+      "busca": "football volleyball training",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/10350235/pexels-photo-10350235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "cottonbro studio",
+      "pagina": "https://www.pexels.com/photo/a-woman-holding-a-volleyball-10350235/"
+    },
+    "slides": [
+      {
+        "id": 9645966,
+        "busca": "football player receiving ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9645966/pexels-photo-9645966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/photograph-of-a-goalkeeper-playing-football-9645966/"
+      },
+      {
+        "id": 3618529,
+        "busca": "football kick angle",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/3618529/pexels-photo-3618529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RF._.studio _",
+        "pagina": "https://www.pexels.com/photo/woman-in-black-t-shirt-and-black-shorts-playing-soccer-3618529/"
+      },
+      {
+        "id": 6203569,
+        "busca": "volleyball block closeup",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203569/pexels-photo-6203569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/photo-of-athletes-playing-volleyball-6203569/"
+      },
+      {
+        "id": 6203583,
+        "busca": "volleyball defense reading",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203583/pexels-photo-6203583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/athletes-on-volleyball-court-playing-6203583/"
+      },
+      {
+        "id": 7675405,
+        "busca": "jump training box",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7675405/pexels-photo-7675405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/woman-practicing-plyometrics-7675405/"
+      }
+    ]
+  }
+}
