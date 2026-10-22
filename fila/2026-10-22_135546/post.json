@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Posicionamento ideal para marcar gols",
+  "subtitulo": "Aprenda onde estar no campo e na quadra para criar mais oportunidades",
+  "slides": [
+    {
+      "titulo": "Futebol: infiltração pelos flancos",
+      "texto": "Use os laterais para romper a defesa. Corra em linha diagonal, receba o passe e avance para o centro, criando espaço para o atacante central.",
+      "foto": "soccer flank run"
+    },
+    {
+      "titulo": "Futebol: timing da corrida",
+      "texto": "Cronometre a corrida para o passe, chegando antes da bola. Isso impede que a defesa ajuste e aumenta a chance de receber o passe livremente.",
+      "foto": "soccer timing run"
+    },
+    {
+      "titulo": "Vôlei: leitura da bola",
+      "texto": "Observe a posição das mãos do levantador. Quando o braço está alto, a bola virá mais alta; prepare-se para a primeira linha ou ataque rápido.",
+      "foto": "volleyball ball reading"
+    },
+    {
+      "titulo": "Vôlei: posicionamento no bloqueio",
+      "texto": "Alinhe os blocadores com o atacante adversário, mantendo os pés firmes e os braços estendidos, para fechar a zona de ataque.",
+      "foto": "volleyball block position"
+    },
+    {
+      "titulo": "Vôlei: cobertura após bloqueio",
+      "texto": "Depois de bloquear, desça rapidamente para cobrir a zona de ataque, evitando que o atacante faça um toque de segunda bola.",
+      "foto": "volleyball defensive cover"
+    }
+  ],
+  "chamada_final": "Salve estas dicas e marque quem precisa melhorar!",
+  "legenda": "⚽️ Já pensou como o posicionamento pode mudar o jogo? No futebol, pequenos ajustes criam grandes oportunidades.\n\n🏐 No voleibol, estar no lugar certo na hora certa faz a diferença entre ponto e defesa.\n\nDeslize para o lado e descubra cada dica prática. Salve para treinar e compartilhe com a galera!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdeesporte",
+    "posicionamento",
+    "taticas",
+    "treinamento",
+    "esporte",
+    "futebolbrasileiro",
+    "voleibol",
+    "jogandocominteligencia"
+  ],
+  "foto_capa": "soccer and volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-22T13:55-03:00",
+  "fotos": {
+    "capa": {
+      "id": 6203559,
+      "busca": "soccer and volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/6203559/pexels-photo-6203559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Pavel Danilyuk",
+      "pagina": "https://www.pexels.com/photo/volleyball-players-setting-a-play-6203559/"
+    },
+    "slides": [
+      {
+        "id": 30726640,
+        "busca": "soccer flank run",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30726640/pexels-photo-30726640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/intense-football-match-on-green-field-30726640/"
+      },
+      {
+        "id": 38012152,
+        "busca": "soccer timing run",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38012152/pexels-photo-38012152.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-soccer-player-dribbling-on-field-38012152/"
+      },
+      {
+        "id": 12169096,
+        "busca": "volleyball ball reading",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169096/pexels-photo-12169096.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/young-handsome-man-sitting-on-sandy-beach-with-ball-12169096/"
+      },
+      {
+        "id": 1263426,
+        "busca": "volleyball block position",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/1263426/pexels-photo-1263426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Jim De Ramos",
+        "pagina": "https://www.pexels.com/photo/two-men-playing-volleyball-near-red-canopy-1263426/"
+      },
+      {
+        "id": 6203525,
+        "busca": "volleyball defensive cover",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203525/pexels-photo-6203525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/men-and-women-playing-volleyball-6203525/"
+      }
+    ]
+  }
+}
