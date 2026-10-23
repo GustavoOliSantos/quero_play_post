@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 fatos que unem futebol e vôlei",
+  "subtitulo": "Descubra como esses esportes se cruzam em detalhes surpreendentes",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos jogadores",
+      "texto": "No futebol e no vôlei, a posição inicial influencia a estratégia de ataque e defesa.",
+      "foto": "soccer formation aerial"
+    },
+    {
+      "titulo": "Movimento sem bola",
+      "texto": "Em ambos esportes, deslocar-se sem a bola cria espaço e confunde o adversário, essencial para jogadas rápidas.",
+      "foto": "volleyball players movement"
+    },
+    {
+      "titulo": "Importância do saque",
+      "texto": "No vôlei o saque inicia a jogada; no futebol, o chute inicial de bola parada pode mudar o ritmo.",
+      "foto": "soccer free kick"
+    },
+    {
+      "titulo": "Comunicação silenciosa",
+      "texto": "Gestos e olhares coordenam a defesa no vôlei e o posicionamento no futebol, reduzindo ruídos e erros.",
+      "foto": "volleyball hand signal"
+    },
+    {
+      "titulo": "Treino de explosão",
+      "texto": "Exercícios pliométricos melhoram salto no vôlei e arrancadas no futebol, aumentando potência e velocidade.",
+      "foto": "soccer sprint drill"
+    }
+  ],
+  "chamada_final": "Salve este post e siga para mais curiosidades esportivas!",
+  "legenda": "Você sabia que futebol e vôlei compartilham estratégias que vão além da bola? 🤔\n\nConfira cada slide e descubra como o posicionamento, o movimento sem bola, o saque, a comunicação e o treino de explosão se conectam nos dois esportes.\n\nDeslize para a esquerda e aprenda algo novo hoje! 💡 Marque um amigo que adora esses esportes e não esqueça de salvar.",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esportes",
+    "taticas",
+    "treinamento",
+    "dicas",
+    "aprendizado",
+    "jogos",
+    "athlete"
+  ],
+  "foto_capa": "soccer volleyball crossover",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-23T13:47-03:00",
+  "fotos": {
+    "capa": {
+      "id": 30447024,
+      "busca": "soccer volleyball crossover",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/30447024/pexels-photo-30447024.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Uiliam Nörnberg",
+      "pagina": "https://www.pexels.com/photo/female-volleyball-player-in-indoor-sports-arena-30447024/"
+    },
+    "slides": [
+      {
+        "id": 9410605,
+        "busca": "soccer formation aerial",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9410605/pexels-photo-9410605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Emiliano Arano",
+        "pagina": "https://www.pexels.com/photo/football-field-with-dirt-ground-9410605/"
+      },
+      {
+        "id": 6203527,
+        "busca": "volleyball players movement",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203527/pexels-photo-6203527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/men-in-sports-wear-playing-volleyball-6203527/"
+      },
+      {
+        "id": 34775708,
+        "busca": "soccer free kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/34775708/pexels-photo-34775708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Daniel Flores",
+        "pagina": "https://www.pexels.com/photo/action-shot-of-soccer-player-kicking-ball-outdoors-34775708/"
+      },
+      {
+        "id": 6203711,
+        "busca": "volleyball hand signal",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203711/pexels-photo-6203711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/teammates-holding-hands-6203711/"
+      },
+      {
+        "id": 30584994,
+        "busca": "soccer sprint drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30584994/pexels-photo-30584994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-player-training-on-field-in-daytime-30584994/"
+      }
+    ]
+  }
+}
