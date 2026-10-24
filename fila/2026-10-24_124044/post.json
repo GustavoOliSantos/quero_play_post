@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Como surpreender a defesa em 5 passos",
+  "subtitulo": "Dicas práticas de ataque para futebol e vôlei que poucos conhecem",
+  "slides": [
+    {
+      "titulo": "Observe a movimentação dos laterais",
+      "texto": "No futebol, analise o posicionamento dos laterais para escolher a melhor linha de passe e criar espaço na defesa.",
+      "foto": "football fullback movement"
+    },
+    {
+      "titulo": "Use o pé de apoio firme",
+      "texto": "Ao chutar, mantenha o pé de apoio ao lado da bola, direcionado ao alvo, aumentando precisão e potência no disparo.",
+      "foto": "soccer shooting foot"
+    },
+    {
+      "titulo": "Varie o tipo de saque",
+      "texto": "No voleibol, alterne entre saque flutuante e por cima para confundir a recepção e forçar erros adversários.",
+      "foto": "volleyball serve variation"
+    },
+    {
+      "titulo": "Ataque em zona alta",
+      "texto": "Posicione o atacante na zona alta da quadra, aproveitando a altura da rede para cruzar a bola com força e ângulo.",
+      "foto": "volleyball front row attack"
+    },
+    {
+      "titulo": "Finalização rápida no contra‑ataque",
+      "texto": "Após recuperar a bola, avance rapidamente e finalize com um chute ou cortada antes que a defesa se reorganize.",
+      "foto": "football counter attack"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e pratique essas táticas hoje",
+  "legenda": "Quer melhorar seu ataque no futebol e no vôlei? 🚀\n\nDescubra 5 dicas práticas que vão deixar a defesa adversária sem resposta. Cada slide traz uma técnica simples que você pode aplicar já nos treinos.\n\nDeslize para o lado e absorva cada passo. Depois, conte nos comentários qual dica você já usa ou qual vai testar primeiro! ⚽🏐\n\nNão esqueça de salvar e seguir para mais curiosidades e estratégias esportivas.",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "ataque",
+    "dicas",
+    "curiosidades",
+    "treinamentofutebol",
+    "treinamentovolei",
+    "tatica",
+    "esportes",
+    "futebolbrasileiro",
+    "voleibol",
+    "aprendendo"
+  ],
+  "foto_capa": "football volleyball attack",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-24T12:40-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38259032,
+      "busca": "football volleyball attack",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38259032/pexels-photo-38259032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Mateo Franciosi",
+      "pagina": "https://www.pexels.com/photo/intense-soccer-match-in-action-on-a-sunny-day-38259032/"
+    },
+    "slides": [
+      {
+        "id": 12239376,
+        "busca": "football fullback movement",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12239376/pexels-photo-12239376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/football-player-shooting-ball-12239376/"
+      },
+      {
+        "id": 16285151,
+        "busca": "soccer shooting foot",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/16285151/pexels-photo-16285151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Vladimir Srajber",
+        "pagina": "https://www.pexels.com/photo/men-playing-football-16285151/"
+      },
+      {
+        "id": 6203532,
+        "busca": "volleyball serve variation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203532/pexels-photo-6203532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/athletic-people-playing-volleyball-6203532/"
+      },
+      {
+        "id": 6203531,
+        "busca": "volleyball front row attack",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203531/pexels-photo-6203531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-game-6203531/"
+      },
+      {
+        "id": 38849274,
+        "busca": "football counter attack",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38849274/pexels-photo-38849274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Sinan KRIYA",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-on-green-grass-field-38849274/"
+      }
+    ]
+  }
+}
