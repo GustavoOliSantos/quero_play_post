@@ -1,0 +1,103 @@
+{
+  "tema": "areia",
+  "titulo": "5 dicas de posicionamento para brilhar",
+  "subtitulo": "Melhore sua leitura de jogo e ganhe mais pontos",
+  "slides": [
+    {
+      "titulo": "Observe a trajetória da bola",
+      "texto": "Foque nos primeiros metros após o chute ou saque e identifique a direção provável. Isso ajuda a se posicionar antes que o jogo chegue ao seu lado.",
+      "foto": "football ball trajectory"
+    },
+    {
+      "titulo": "Use ângulos de visão curtos",
+      "texto": "Mantenha a cabeça levemente inclinada para ampliar o campo de visão lateral, facilitando a percepção de movimentos dos adversários e companheiros.",
+      "foto": "volleyball player side view"
+    },
+    {
+      "titulo": "Antecipe passes e saques",
+      "texto": "Observe o posicionamento dos levantadores e o balanço do braço do sacador; isso indica a direção e a velocidade da bola antes de tocar.",
+      "foto": "volleyball serve anticipation"
+    },
+    {
+      "titulo": "Mantenha distância ideal",
+      "texto": "Fique a 2 a 3 metros da linha de ataque no futebol e a 1,5 metro da rede no vôlei; distância correta garante tempo de reação.",
+      "foto": "football player distance"
+    },
+    {
+      "titulo": "Comunique-se constantemente",
+      "texto": "Fale alto e use sinais simples como 'cobertura' ou 'troca' para coordenar movimentos; a comunicação evita colisões e cria jogadas mais eficientes.",
+      "foto": "team communication sports"
+    }
+  ],
+  "chamada_final": "Salve este post e siga para mais dicas de posicionamento!",
+  "legenda": "Você já percebeu como um bom posicionamento muda o resultado de um jogo? 🤔\n\nNeste carrossel eu trouxe 5 dicas práticas para melhorar sua leitura de jogo tanto no futebol quanto no vôlei. Cada passo é rápido de aplicar e vai te dar mais segurança em quadra ou campo.\n\nDeslize para a esquerda e confira! 👉 Salve, comente qual dica você já usa e siga o perfil para não perder as próximas!",
+  "hashtags": [
+    "futebol",
+    "voleibol",
+    "posicionamento",
+    "dicasdeesporte",
+    "aprendizado",
+    "jogadordefutebol",
+    "jogadordevôlei",
+    "treinos",
+    "estrategia",
+    "esportes",
+    "performance"
+  ],
+  "foto_capa": "football volleyball positioning",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-25T12:51-03:00",
+  "fotos": {
+    "capa": {
+      "id": 30290766,
+      "busca": "football volleyball positioning",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/30290766/pexels-photo-30290766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Oleksandr Plakhota",
+      "pagina": "https://www.pexels.com/photo/indoor-volleyballs-on-sports-court-in-kyiv-30290766/"
+    },
+    "slides": [
+      {
+        "id": 32285150,
+        "busca": "football ball trajectory",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32285150/pexels-photo-32285150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/dynamic-soccer-game-action-with-player-in-focus-32285150/"
+      },
+      {
+        "id": 10350694,
+        "busca": "volleyball player side view",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10350694/pexels-photo-10350694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/man-and-woman-standing-near-a-volleyball-net-10350694/"
+      },
+      {
+        "id": 29804147,
+        "busca": "volleyball serve anticipation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29804147/pexels-photo-29804147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Miťo",
+        "pagina": "https://www.pexels.com/photo/outdoor-volleyball-game-with-male-player-in-action-29804147/"
+      },
+      {
+        "id": 30612723,
+        "busca": "football player distance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30612723/pexels-photo-30612723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-player-practicing-in-open-field-30612723/"
+      },
+      {
+        "id": 31658151,
+        "busca": "team communication sports",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/31658151/pexels-photo-31658151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Chris wade NTEZICIMPA",
+        "pagina": "https://www.pexels.com/photo/lively-sports-event-with-enthusiastic-crowd-31658151/"
+      }
+    ]
+  }
+}
