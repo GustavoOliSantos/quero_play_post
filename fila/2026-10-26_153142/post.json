@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Eleve seu jogo: 5 truques essenciais",
+  "subtitulo": "Pequenas mudanças que transformam sua performance em campo e quadra",
+  "slides": [
+    {
+      "titulo": "Aquecimento dinâmico eficaz",
+      "texto": "Faça 5 minutos de corridas curtas, polichinelos e movimentos laterais para preparar músculos e evitar lesões.",
+      "foto": "dynamic warmup athletes"
+    },
+    {
+      "titulo": "Posicionamento correto no saque",
+      "texto": "Mantenha os pés na largura dos ombros, ombro da bola alinhado ao peito e lance a bola à frente, não acima.",
+      "foto": "volleyball serve technique"
+    },
+    {
+      "titulo": "Uso da visão periférica",
+      "texto": "Treine observar os movimentos dos adversários sem focar apenas na bola, ampliando a percepção de jogadas rápidas.",
+      "foto": "football peripheral vision"
+    },
+    {
+      "titulo": "Comunicação clara entre parceiros",
+      "texto": "Use chamadas curtas como ‘eu vou’ ou ‘cobertura’ para evitar colisões e melhorar a cobertura defensiva.",
+      "foto": "team communication sports"
+    },
+    {
+      "titulo": "Recuperação pós-jogo rápida",
+      "texto": "Faça alongamento leve, hidratação e consumo de proteína em até 30 minutos para reduzir fadiga e acelerar a recuperação.",
+      "foto": "post game recovery"
+    }
+  ],
+  "chamada_final": "Salve estas dicas e compartilhe nos treinos!",
+  "legenda": "Descubra como pequenos ajustes podem elevar seu desempenho tanto no futebol quanto no vôlei. ⚽🏐\nDeslize para a direita e aprenda cada truque passo a passo. Cada slide traz uma prática simples que você pode aplicar já nos próximos treinos.\nMarque um amigo que precisa dessas dicas e não esqueça de salvar o post para consultar depois! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdeesporte",
+    "treinamento",
+    "curiosidades",
+    "performance",
+    "saudefisica",
+    "motivacao",
+    "esporte",
+    "treinos",
+    "futeboldicas",
+    "voeledicas"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-26T15:31-03:00",
+  "fotos": {
+    "capa": {
+      "id": 24850953,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/24850953/pexels-photo-24850953.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Thể Phạm",
+      "pagina": "https://www.pexels.com/photo/surprised-girl-while-playing-basketball-24850953/"
+    },
+    "slides": [
+      {
+        "id": 7894536,
+        "busca": "dynamic warmup athletes",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7894536/pexels-photo-7894536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "MART  PRODUCTION",
+        "pagina": "https://www.pexels.com/photo/women-in-black-tank-top-and-black-leggings-7894536/"
+      },
+      {
+        "id": 38803359,
+        "busca": "volleyball serve technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38803359/pexels-photo-38803359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Miguel Guerra",
+        "pagina": "https://www.pexels.com/photo/dynamic-volleyball-serve-in-action-38803359/"
+      },
+      {
+        "id": 38092663,
+        "busca": "football peripheral vision",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38092663/pexels-photo-38092663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/two-soccer-players-compete-on-field-38092663/"
+      },
+      {
+        "id": 32602540,
+        "busca": "team communication sports",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32602540/pexels-photo-32602540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Haberdoedas Photography",
+        "pagina": "https://www.pexels.com/photo/group-of-referees-discussing-on-sports-field-32602540/"
+      },
+      {
+        "id": 7648067,
+        "busca": "post game recovery",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7648067/pexels-photo-7648067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Artem Podrez",
+        "pagina": "https://www.pexels.com/photo/side-view-of-a-squash-player-drinking-water-while-resting-7648067/"
+      }
+    ]
+  }
+}
