@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Descubra segredos dos craques",
+  "subtitulo": "5 fatos surpreendentes que vão mudar sua visão sobre o futebol e o vôlei",
+  "slides": [
+    {
+      "titulo": "Posição ideal para chute",
+      "texto": "Aproveite o ângulo de 30 graus e o pé firme para gerar mais potência e precisão no chute.",
+      "foto": "football kicking technique"
+    },
+    {
+      "titulo": "Como melhorar o saque",
+      "texto": "Pratique o saque em movimento, alinhando ombro e braço, e use o salto para ganhar altura e velocidade.",
+      "foto": "volleyball serve practice"
+    },
+    {
+      "titulo": "Defesa rápida no bloqueio",
+      "texto": "Mantenha a base baixa e os braços ativos; ajuste a leitura do atacante para antecipar a bola.",
+      "foto": "volleyball block jump"
+    },
+    {
+      "titulo": "Leitura de jogada no contra-ataque",
+      "texto": "Observe a posição dos laterais e o espaço entre linhas para decidir quando avançar ou recuar.",
+      "foto": "football counter attack"
+    },
+    {
+      "titulo": "Recuperação pós-jogo",
+      "texto": "Faça alongamento leve, hidratação com eletrólitos e sono de 7 a 8 horas para acelerar a recuperação muscular.",
+      "foto": "athlete recovery stretching"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe suas dicas nos comentários",
+  "legenda": "Você sabia que pequenos ajustes podem mudar o desempenho tanto no futebol quanto no vôlei? 🤔\n\nDeslize para a esquerda e descubra dicas práticas que você pode aplicar hoje mesmo nos treinos. Cada slide traz um conselho simples, mas poderoso.\n\nTeste, compartilhe seus resultados e marque quem precisa ver isso! 💬",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "dicasdesportivas",
+    "treinoeficaz",
+    "aprendizado",
+    "vidadeatleta",
+    "taticasportivas",
+    "motivacao"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "football",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-27T14:46-03:00",
+  "fotos": {
+    "capa": {
+      "id": 36654858,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/36654858/pexels-photo-36654858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "ENIO ENGENHEIRO",
+      "pagina": "https://www.pexels.com/photo/beach-volleyball-player-with-ball-on-head-36654858/"
+    },
+    "slides": [
+      {
+        "id": 38616159,
+        "busca": "football kicking technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38616159/pexels-photo-38616159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-soccer-player-practicing-on-field-38616159/"
+      },
+      {
+        "id": 6203522,
+        "busca": "volleyball serve practice",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203522/pexels-photo-6203522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-standing-on-the-volleyball-court-waiting-for-the-ball-6203522/"
+      },
+      {
+        "id": 6203635,
+        "busca": "volleyball block jump",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203635/pexels-photo-6203635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/grayscale-photo-of-people-playing-volleyball-6203635/"
+      },
+      {
+        "id": 38455055,
+        "busca": "football counter attack",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38455055/pexels-photo-38455055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-with-goal-attempt-38455055/"
+      },
+      {
+        "id": 4804303,
+        "busca": "athlete recovery stretching",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/4804303/pexels-photo-4804303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Ketut Subiyanto",
+        "pagina": "https://www.pexels.com/photo/man-stretching-on-the-floor-4804303/"
+      }
+    ]
+  }
+}
