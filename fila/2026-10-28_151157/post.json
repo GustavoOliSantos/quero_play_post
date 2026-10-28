@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Dicas práticas para passes perfeitos",
+  "subtitulo": "Aprenda técnicas simples para acertar a bola em qualquer situação",
+  "slides": [
+    {
+      "titulo": "Posicione os pés corretamente",
+      "texto": "Mantenha o pé de apoio ao lado da bola, angule o outro pé para direcionar o chute com mais controle.",
+      "foto": "football foot positioning"
+    },
+    {
+      "titulo": "Foque no ponto de contato",
+      "texto": "Encoste a parte interna do pé no centro da bola e siga a trajetória desejada para passes mais retos.",
+      "foto": "soccer ball contact"
+    },
+    {
+      "titulo": "Antebraço firme no toque",
+      "texto": "Mantenha o antebraço alinhado ao tronco e os dedos firmes, garantindo controle ao direcionar a bola ao parceiro.",
+      "foto": "volleyball forearm pass"
+    },
+    {
+      "titulo": "Eleve os braços ao receber",
+      "texto": "Ao levantar a bola, estenda os braços acima da cabeça, criando ângulo que facilita um passe mais alto e preciso.",
+      "foto": "volleyball arm raise"
+    },
+    {
+      "titulo": "Alvos pequenos nos treinos",
+      "texto": "Distribua cones ou marcadores no campo e na quadra; tente acertar cada alvo para melhorar precisão sob pressão.",
+      "foto": "sports target cones"
+    }
+  ],
+  "chamada_final": "Salve este post e treine esses truques agora",
+  "legenda": "Você sabia que pequenos ajustes podem transformar seus passes? 🤔\n\nDeslize para descobrir cinco dicas práticas que funcionam tanto no futebol quanto no vôlei. Cada slide traz um passo simples que você pode aplicar já nos próximos treinos.\n\nTeste as técnicas, marque um amigo que precisa melhorar e conte nos comentários como foi sua evolução! 📈\n\nNão esqueça de salvar o post para consultar sempre que precisar e seguir para mais curiosidades esportivas.",
+  "hashtags": [
+    "futebol",
+    "voleibol",
+    "passes",
+    "tecnica",
+    "treino",
+    "dicas",
+    "esporte",
+    "futebolbrasileiro",
+    "volei",
+    "melhorasportiva",
+    "passesprecisos",
+    "treinamento"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-28T15:11-03:00",
+  "fotos": {
+    "capa": {
+      "id": 17397551,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/17397551/pexels-photo-17397551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Tom Fisk",
+      "pagina": "https://www.pexels.com/photo/woman-playing-volleyball-17397551/"
+    },
+    "slides": [
+      {
+        "id": 8941581,
+        "busca": "football foot positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8941581/pexels-photo-8941581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/a-person-playing-soccer-on-a-soccer-filed-8941581/"
+      },
+      {
+        "id": 9517917,
+        "busca": "soccer ball contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9517917/pexels-photo-9517917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anastasia  Shuraeva",
+        "pagina": "https://www.pexels.com/photo/a-woman-athlete-catching-a-soccer-ball-9517917/"
+      },
+      {
+        "id": 17397549,
+        "busca": "volleyball forearm pass",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17397549/pexels-photo-17397549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tom Fisk",
+        "pagina": "https://www.pexels.com/photo/women-playing-volleyball-17397549/"
+      },
+      {
+        "id": 6180390,
+        "busca": "volleyball arm raise",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180390/pexels-photo-6180390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/a-woman-playing-volleyball-6180390/"
+      },
+      {
+        "id": 6540680,
+        "busca": "sports target cones",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6540680/pexels-photo-6540680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/archery-target-range-6540680/"
+      }
+    ]
+  }
+}
