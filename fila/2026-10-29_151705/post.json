@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 segredos dos craques em campo",
+  "subtitulo": "Descubra táticas simples que elevam seu jogo",
+  "slides": [
+    {
+      "titulo": "Posicionamento defensivo no futebol",
+      "texto": "Mantenha a linha de defesa compacta, evitando espaços entre zagueiros e laterais para fechar linhas de passe.",
+      "foto": "soccer defensive line"
+    },
+    {
+      "titulo": "Leitura de bloqueio no vôlei",
+      "texto": "Observe a aproximação do levantador; o bloqueio deve ser alto e com as mãos alinhadas ao centro da rede.",
+      "foto": "volleyball block jump"
+    },
+    {
+      "titulo": "Transição rápida no ataque",
+      "texto": "Ao recuperar a bola, avance três passes antes de chutar ou armar o ataque, surpreendendo a defesa adversária.",
+      "foto": "football fast counter"
+    },
+    {
+      "titulo": "Comunicação no set",
+      "texto": "Use comandos curtos como ‘cuidado’, ‘libera’ e gestos de mão para coordenar o saque e a recepção sem ruído.",
+      "foto": "volleyball team communication"
+    },
+    {
+      "titulo": "Treino de visão periférica",
+      "texto": "Faça exercícios de focar em objetos laterais enquanto acompanha a bola, aumentando a percepção de movimentação dos adversários.",
+      "foto": "sports peripheral vision"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com amigos",
+  "legenda": "Curiosidades que fazem a diferença no seu jogo! ⚽🏐\nDeslize para descobrir dicas práticas de futebol e vôlei que você pode aplicar hoje.\nComente qual dica você já usa e marque alguém que precisa ver isso.\nNão esqueça de salvar e seguir para mais conteúdos como este!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "dicasdefutebol",
+    "dicasdevolei",
+    "esportes",
+    "treinamento",
+    "tática",
+    "aprendizado",
+    "jogabilidade"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-29T15:17-03:00",
+  "fotos": {
+    "capa": {
+      "id": 10350231,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/10350231/pexels-photo-10350231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "cottonbro studio",
+      "pagina": "https://www.pexels.com/photo/woman-in-white-shirt-playing-volleyball-10350231/"
+    },
+    "slides": [
+      {
+        "id": 40525027,
+        "busca": "soccer defensive line",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/40525027/pexels-photo-40525027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thiago Sepulveda",
+        "pagina": "https://www.pexels.com/photo/goalkeeper-making-a-save-during-a-soccer-match-40525027/"
+      },
+      {
+        "id": 17557539,
+        "busca": "volleyball block jump",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17557539/pexels-photo-17557539.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tom Fisk",
+        "pagina": "https://www.pexels.com/photo/teenager-girls-playing-volleyball-at-an-indoor-court-17557539/"
+      },
+      {
+        "id": 29661157,
+        "busca": "football fast counter",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29661157/pexels-photo-29661157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/dynamic-soccer-player-kicking-ball-on-field-29661157/"
+      },
+      {
+        "id": 6203646,
+        "busca": "volleyball team communication",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203646/pexels-photo-6203646.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/players-doing-hand-signals-behind-their-backs-6203646/"
+      },
+      {
+        "id": 5274990,
+        "busca": "sports peripheral vision",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/5274990/pexels-photo-5274990.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/jump-shot-of-a-person-playing-basketball-5274990/"
+      }
+    ]
+  }
+}
