@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 dicas rápidas para melhorar seu jogo",
+  "subtitulo": "Descubra truques simples que jogadores de elite usam em campo e quadra",
+  "slides": [
+    {
+      "titulo": "Posicionamento defensivo no futebol",
+      "texto": "Mantenha a linha de defesa a duas vezes a distância do atacante mais avançado. Isso dificulta passes em profundidade e protege o gol.",
+      "foto": "soccer defensive line"
+    },
+    {
+      "titulo": "Saída de bola rápida no vôlei",
+      "texto": "Use a postura baixa e braços em V ao receber saque. Isso aumenta a superfície de contato e reduz erros de passe.",
+      "foto": "volleyball serve receive"
+    },
+    {
+      "titulo": "Marcação homem a homem no futebol",
+      "texto": "Siga o movimento do atacante, mantendo a distância de 1,5 metros. Ajuste a pressão conforme a zona do campo para evitar desmarcações.",
+      "foto": "soccer man marking"
+    },
+    {
+      "titulo": "Leitura de bloqueio no vôlei",
+      "texto": "Observe a posição da mão do levantador e a inclinação da bola. Antecipe o tempo de salto para fechar o bloqueio na linha correta.",
+      "foto": "volleyball block timing"
+    },
+    {
+      "titulo": "Transição rápida entre defesa e ataque",
+      "texto": "Ao recuperar a bola, faça o passe curto para o atacante central. Isso gera opções imediatas e evita contra-ataques adversários.",
+      "foto": "soccer fast transition"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com quem ama futebol ou vôlei",
+  "legenda": "⚽️🏐 Você sabia que pequenos ajustes podem mudar totalmente o desempenho em campo ou na quadra? Hoje trago 5 dicas práticas para elevar seu nível no futebol e no vôlei.\n\nDeslize para o lado e descubra cada truque passo a passo. Cada slide traz uma ideia direta que você pode aplicar já nos treinos.\n\nCurtiu? Salve para rever depois, marque um amigo que precisa melhorar e siga o perfil para mais curiosidades esportivas! 🎯",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "dicasdefutebol",
+    "dicasdevolei",
+    "treinamento",
+    "esportelivre",
+    "jogadores",
+    "tacticas",
+    "aprenda"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-30T14:53-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38568826,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38568826/pexels-photo-38568826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Denis  Almeida",
+      "pagina": "https://www.pexels.com/photo/dynamic-beach-volleyball-game-action-shot-38568826/"
+    },
+    "slides": [
+      {
+        "id": 9468612,
+        "busca": "soccer defensive line",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9468612/pexels-photo-9468612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/men-playing-football-9468612/"
+      },
+      {
+        "id": 6203526,
+        "busca": "volleyball serve receive",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203526/pexels-photo-6203526.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/group-of-people-playing-volleyball-6203526/"
+      },
+      {
+        "id": 12585829,
+        "busca": "soccer man marking",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12585829/pexels-photo-12585829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "BOOM 💥 Photography",
+        "pagina": "https://www.pexels.com/photo/soccer-pitch-and-a-ball-12585829/"
+      },
+      {
+        "id": 6180408,
+        "busca": "volleyball block timing",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180408/pexels-photo-6180408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/man-blocking-a-ball-over-the-net-6180408/"
+      },
+      {
+        "id": 11221499,
+        "busca": "soccer fast transition",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/11221499/pexels-photo-11221499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Raditya Narendrasuta",
+        "pagina": "https://www.pexels.com/photo/soccer-players-during-a-football-match-11221499/"
+      }
+    ]
+  }
+}
