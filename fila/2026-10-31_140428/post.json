@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Descubra fatos inesperados no campo e quadra",
+  "subtitulo": "5 curiosidades que poucos sabem sobre futebol e vôlei",
+  "slides": [
+    {
+      "titulo": "Como surgiram as bolas",
+      "texto": "A bola de futebol evoluiu de peles de animais infladas; já o vôlei começou com uma bola de couro usada nas praias dos EUA.",
+      "foto": "football leather ball"
+    },
+    {
+      "titulo": "Número de jogadores ideal",
+      "texto": "No futebol, 11 por equipe é padrão; no vôlei, 6 na quadra, mas variações como beach volley usam 2.",
+      "foto": "volleyball indoor team"
+    },
+    {
+      "titulo": "Regra desconhecida do escanteio",
+      "texto": "Se a bola tocar o poste antes de entrar no gol, o gol ainda vale, mas só se não houver infração.",
+      "foto": "football corner kick"
+    },
+    {
+      "titulo": "Velocidade dos saques",
+      "texto": "O saque mais rápido registrado no vôlei ultrapassa 130 km/h; no futebol, o chute de 169 km/h foi o mais veloz.",
+      "foto": "volleyball serve speed"
+    },
+    {
+      "titulo": "Postura para potência",
+      "texto": "Mantendo o tronco ligeiro e o quadril alinhado, tanto chute quanto ataque ganham força e precisão.",
+      "foto": "athlete jumping action"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe sua curiosidade favorita!",
+  "legenda": "Já se pegou pensando por que algumas bolas parecem diferentes? 🤔 Vamos descobrir juntos! \nDeslize para o lado e mergulhe em curiosidades que poucos sabem sobre futebol e vôlei. \nCurtiu? Deixe seu comentário e marque um amigo que vai adorar essas curiosidades. 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "futebolbrasil",
+    "voleiBrasil",
+    "sportfacts",
+    "instasport",
+    "dicasdesport",
+    "curiosidadesdesporte"
+  ],
+  "foto_capa": "football volleyball collage",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-10-31T14:04-03:00",
+  "fotos": {
+    "capa": {
+      "id": 10350347,
+      "busca": "football volleyball collage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/10350347/pexels-photo-10350347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "cottonbro studio",
+      "pagina": "https://www.pexels.com/photo/photo-of-a-man-holding-a-ball-10350347/"
+    },
+    "slides": [
+      {
+        "id": 3846666,
+        "busca": "football leather ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/3846666/pexels-photo-3846666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Eric Steinhauer",
+        "pagina": "https://www.pexels.com/photo/football-on-the-ground-3846666/"
+      },
+      {
+        "id": 6203513,
+        "busca": "volleyball indoor team",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203513/pexels-photo-6203513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/group-of-people-playing-volleyball-6203513/"
+      },
+      {
+        "id": 33456923,
+        "busca": "football corner kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/33456923/pexels-photo-33456923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Haitham Almasari",
+        "pagina": "https://www.pexels.com/photo/soccer-ball-on-empty-green-football-field-33456923/"
+      },
+      {
+        "id": 6203639,
+        "busca": "volleyball serve speed",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203639/pexels-photo-6203639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/women-playing-volleyball-6203639/"
+      },
+      {
+        "id": 37927153,
+        "busca": "athlete jumping action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37927153/pexels-photo-37927153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Chris L",
+        "pagina": "https://www.pexels.com/photo/young-athlete-performing-long-jump-at-track-event-37927153/"
+      }
+    ]
+  }
+}
