@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Mitos e verdades sobre bolas no esporte",
+  "subtitulo": "Desvende o que é fato ou fake sobre a bola de futebol e de vôlei e seu jogo",
+  "slides": [
+    {
+      "titulo": "Mito: bola mais pesada voa mais longe",
+      "texto": "A ideia parece lógica, mas a massa extra diminui a velocidade inicial, dificultando a trajetória longa. Na prática, bolas leves alcançam maior alcance com o mesmo chute.",
+      "foto": "soccer ball in flight"
+    },
+    {
+      "titulo": "Verdade: pressão ideal melhora controle",
+      "texto": "A pressão recomendada (entre 0,8 e 1,0 bar) permite toque preciso e trajetória estável. Muito baixa deixa a bola mole; muito alta a torna imprevisível.",
+      "foto": "volleyball with pressure gauge"
+    },
+    {
+      "titulo": "Erro comum: segurar a bola ao sacar",
+      "texto": "Segurar a bola impede a rotação correta, reduz a velocidade e gera falta. Solte a bola no ponto exato da mão para um saque potente.",
+      "foto": "volleyball serve action"
+    },
+    {
+      "titulo": "Dica: dedos no ponto de contato",
+      "texto": "Posicione o polegar e indicadores formando um 'W' ao tocar a bola. Isso gera mais efeito e controle no passe ou saque.",
+      "foto": "hand ball contact"
+    },
+    {
+      "titulo": "Curiosidade: microchip nas bolas profissionais",
+      "texto": "Desde 2018, bolas de futebol e vôlei podem conter chips que enviam dados de velocidade e trajetória em tempo real, ajudando árbitros e treinadores.",
+      "foto": "sports ball microchip"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com quem ama o esporte",
+  "legenda": "Você sabia que muita gente ainda acredita em mitos sobre a bola? 🤔\n\nDeslize para descobrir a verdade por trás da pressão ideal, erros comuns e curiosidades que podem mudar seu desempenho.\n\nCurtiu? Salve, comente e siga para mais dicas de futebol e vôlei! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "bolas",
+    "dicas",
+    "treino",
+    "jogadores",
+    "futebolbrasil",
+    "voleiBrasil"
+  ],
+  "foto_capa": "soccer and volleyball collage",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-01T14:48-03:00",
+  "fotos": {
+    "capa": {
+      "id": 10350353,
+      "busca": "soccer and volleyball collage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/10350353/pexels-photo-10350353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "cottonbro studio",
+      "pagina": "https://www.pexels.com/photo/man-holding-a-ball-while-looking-down-10350353/"
+    },
+    "slides": [
+      {
+        "id": 8567620,
+        "busca": "soccer ball in flight",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8567620/pexels-photo-8567620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Hanna Auramenka",
+        "pagina": "https://www.pexels.com/photo/set-of-balls-on-green-grass-field-8567620/"
+      },
+      {
+        "id": 32602956,
+        "busca": "volleyball with pressure gauge",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32602956/pexels-photo-32602956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Critical Smith",
+        "pagina": "https://www.pexels.com/photo/volleyball-on-indoor-court-with-bright-lighting-32602956/"
+      },
+      {
+        "id": 6203506,
+        "busca": "volleyball serve action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203506/pexels-photo-6203506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-6203506/"
+      },
+      {
+        "id": 30401129,
+        "busca": "hand ball contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30401129/pexels-photo-30401129.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Manoj Poosam",
+        "pagina": "https://www.pexels.com/photo/close-up-of-cricket-ball-in-gloved-hands-outdoors-30401129/"
+      },
+      {
+        "id": 10350367,
+        "busca": "sports ball microchip",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10350367/pexels-photo-10350367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/volleyballs-on-the-floor-10350367/"
+      }
+    ]
+  }
+}
