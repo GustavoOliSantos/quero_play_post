@@ -1,0 +1,101 @@
+{
+  "tema": "areia",
+  "titulo": "5 fatos surpreendentes que poucos sabem",
+  "subtitulo": "Descubra curiosidades que mudam sua visão do jogo",
+  "slides": [
+    {
+      "titulo": "Origem da expressao gol",
+      "texto": "A palavra 'gol' vem do ingles 'goal', usado primeiro no rugby antes de chegar ao futebol em 1870",
+      "foto": "soccer goal net"
+    },
+    {
+      "titulo": "Primeiro placar oficial",
+      "texto": "O primeiro placar registrado foi 1 a 0 entre Inglaterra e Escocia em 1872, partida que marcou a estreia das selecoes",
+      "foto": "historic football match"
+    },
+    {
+      "titulo": "Volei nasceu em Harvard",
+      "texto": "William G. Morgan criou o voleibol em 1895 como alternativa ao basquete, combinando elementos de tenis, basquete e handebol",
+      "foto": "Harvard gym volleyball"
+    },
+    {
+      "titulo": "Bloqueio mais alto da historia",
+      "texto": "O iraniano Alireza Nadi atingiu 2,70m de bloqueio em 2023, superando o recorde anterior de 2,68m",
+      "foto": "volleyball block jump"
+    },
+    {
+      "titulo": "Mito bola nao curva",
+      "texto": "A curva da bola e causada pelo efeito Magnus, que gera diferenca de pressao ao girar, permitindo trajetorias curvilineas",
+      "foto": "soccer ball curve"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos",
+  "legenda": "⚽️ Você sabia que muitos termos do futebol têm origens curiosas? 🤔\nDeslize para descobrir fatos que poucos conhecem sobre futebol e vôlei.\n📚 Cada slide traz um detalhe que muda a sua perspectiva do esporte.\n🚀 Curta, comente qual curiosidade mais te surpreendeu e siga para mais conteúdos como este!",
+  "hashtags": [
+    "futebol",
+    "curiosidades",
+    "voleibol",
+    "fatos",
+    "esportes",
+    "historia",
+    "brasil",
+    "aprendizado",
+    "esporte"
+  ],
+  "foto_capa": "soccer volleyball collage",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-02T18:35-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38745773,
+      "busca": "soccer volleyball collage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38745773/pexels-photo-38745773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Miguel Guerra",
+      "pagina": "https://www.pexels.com/photo/young-man-playing-volleyball-outdoors-in-mexico-city-38745773/"
+    },
+    "slides": [
+      {
+        "id": 10397626,
+        "busca": "soccer goal net",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10397626/pexels-photo-10397626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/a-goal-on-a-soccer-field-10397626/"
+      },
+      {
+        "id": 32190700,
+        "busca": "historic football match",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32190700/pexels-photo-32190700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-football-match-at-night-stadium-32190700/"
+      },
+      {
+        "id": 6203568,
+        "busca": "Harvard gym volleyball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203568/pexels-photo-6203568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/athletes-volleyball-training-on-the-court-6203568/"
+      },
+      {
+        "id": 5815672,
+        "busca": "volleyball block jump",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/5815672/pexels-photo-5815672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thành Đỗ",
+        "pagina": "https://www.pexels.com/photo/group-of-men-playing-volleyball-5815672/"
+      },
+      {
+        "id": 39093647,
+        "busca": "soccer ball curve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/39093647/pexels-photo-39093647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Esra Erdoğdu",
+        "pagina": "https://www.pexels.com/photo/silhouette-of-child-playing-soccer-near-stairs-39093647/"
+      }
+    ]
+  }
+}
