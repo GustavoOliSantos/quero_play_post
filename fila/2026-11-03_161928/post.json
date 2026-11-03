@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Melhore seu ataque em 5 passos",
+  "subtitulo": "Dicas práticas para futebol e vôlei, evite erros comuns",
+  "slides": [
+    {
+      "titulo": "Entenda o papel do atacante",
+      "texto": "No futebol e no vôlei, o atacante deve ler a defesa e escolher o melhor ponto de ataque, usando tempo e espaço.",
+      "foto": "soccer forward action"
+    },
+    {
+      "titulo": "Posicionamento no voleibol",
+      "texto": "Fique próximo à rede, alinhe o pé de apoio ao bloqueio e aproveite a trajetória da bola para um ataque mais forte.",
+      "foto": "volleyball hitter jump"
+    },
+    {
+      "titulo": "Posicionamento no futebol",
+      "texto": "Ao receber a bola, posicione-se entre os defensores e o gol, mantendo o corpo aberto para chutar ou driblar com segurança.",
+      "foto": "football striker positioning"
+    },
+    {
+      "titulo": "Corrija seu ângulo de ataque",
+      "texto": "Treine movimentos laterais e uso de braços para ajustar o ângulo, garantindo que a bola siga a direção desejada.",
+      "foto": "athlete angle training"
+    },
+    {
+      "titulo": "Benefícios de melhorar o posicionamento",
+      "texto": "Mais gols e pontos, menor risco de bloqueio ou defesa, e aumento da confiança durante o jogo.",
+      "foto": "celebration goal volleyball"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique hoje!",
+  "legenda": "Você sabia que um pequeno ajuste no posicionamento pode mudar totalmente o resultado do ataque?\n\nNo carrossel de hoje, separei 5 dicas práticas para futebol e vôlei, fáceis de aplicar nos treinos.\n\nDeslize para o lado, descubra cada passo e comece a evoluir seu jogo agora mesmo!\n\nMarca alguém que precisa melhorar o ataque e não esqueça de seguir para mais curiosidades! 🚀⚽🏐",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "ataque",
+    "posicionamento",
+    "dicaspraticas",
+    "treinos",
+    "esporte",
+    "futebolbrasileiro",
+    "voleibolbrasil",
+    "aprendizado",
+    "jogadores"
+  ],
+  "foto_capa": "football volleyball attack",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-03T16:19-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38895716,
+      "busca": "football volleyball attack",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38895716/pexels-photo-38895716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Mateo Franciosi",
+      "pagina": "https://www.pexels.com/photo/intense-soccer-match-action-on-field-38895716/"
+    },
+    "slides": [
+      {
+        "id": 38012087,
+        "busca": "soccer forward action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38012087/pexels-photo-38012087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/teen-soccer-player-dribbling-in-intense-match-38012087/"
+      },
+      {
+        "id": 6203534,
+        "busca": "volleyball hitter jump",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203534/pexels-photo-6203534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/a-man-jumping-to-cath-the-ball-6203534/"
+      },
+      {
+        "id": 38060927,
+        "busca": "football striker positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38060927/pexels-photo-38060927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-player-kicking-ball-on-field-outdoors-38060927/"
+      },
+      {
+        "id": 4720780,
+        "busca": "athlete angle training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/4720780/pexels-photo-4720780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Ketut Subiyanto",
+        "pagina": "https://www.pexels.com/photo/muscular-man-lifting-barbell-4720780/"
+      },
+      {
+        "id": 6203713,
+        "busca": "celebration goal volleyball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203713/pexels-photo-6203713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/volleyball-players-doing-high-five-6203713/"
+      }
+    ]
+  }
+}
