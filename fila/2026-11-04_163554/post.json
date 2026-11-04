@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Acerte mais no ataque",
+  "subtitulo": "Pequenas mudanças que aumentam sua precisão no futebol e no voleibol",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "Mantenha os pés alinhados ao alvo, com a base ligeiramente aberta para estabilidade ao chutar ou sacar.",
+      "foto": "football foot positioning"
+    },
+    {
+      "titulo": "Ângulo de contato",
+      "texto": "Acertar a bola no ponto ideal, ligeiramente abaixo do centro, gera elevação ou curvatura controlada no chute ou saque.",
+      "foto": "volleyball ball contact"
+    },
+    {
+      "titulo": "Uso do quadril",
+      "texto": "Gire o quadril no momento do impacto, transferindo energia para a perna ou braço e aumentando a força do ataque.",
+      "foto": "hip rotation soccer"
+    },
+    {
+      "titulo": "Respiração controlada",
+      "texto": "Inspire profundamente antes do movimento e expire ao contato; a respiração controlada mantém a tensão baixa e o foco alto.",
+      "foto": "controlled breathing sport"
+    },
+    {
+      "titulo": "Treino de alvo pequeno",
+      "texto": "Treine com alvos pequenos, como cones ou marcadores, para forçar precisão e melhorar a tomada de decisão em jogo.",
+      "foto": "target practice training"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique hoje mesmo",
+  "legenda": "Quer melhorar a precisão nos seus ataques? 🤔\n\nDeslize para descobrir 5 dicas práticas que funcionam tanto no futebol quanto no vôlei.\n\nAplicando cada passo você sente a diferença nas partidas.\n\nComente qual dica você já usa e siga para mais curiosidades! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdesportivas",
+    "treinamento",
+    "precisao",
+    "ataque",
+    "esportelivre",
+    "melhorarjogo",
+    "gol",
+    "saque"
+  ],
+  "foto_capa": "soccer volley attack",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-04T16:35-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38528428,
+      "busca": "soccer volley attack",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38528428/pexels-photo-38528428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Miguel Guerra",
+      "pagina": "https://www.pexels.com/photo/competitive-women-s-football-match-in-mexico-city-38528428/"
+    },
+    "slides": [
+      {
+        "id": 29925640,
+        "busca": "football foot positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29925640/pexels-photo-29925640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Hồng Thắng Lê",
+        "pagina": "https://www.pexels.com/photo/soccer-player-balances-ball-on-foot-outdoors-29925640/"
+      },
+      {
+        "id": 12169310,
+        "busca": "volleyball ball contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169310/pexels-photo-12169310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-and-woman-sitting-on-a-beach-holding-a-volleyball-ball-and-smiling-12169310/"
+      },
+      {
+        "id": 8941656,
+        "busca": "hip rotation soccer",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8941656/pexels-photo-8941656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/a-boy-standing-with-hand-on-his-hip-8941656/"
+      },
+      {
+        "id": 16769533,
+        "busca": "controlled breathing sport",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/16769533/pexels-photo-16769533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Sergio Benavides",
+        "pagina": "https://www.pexels.com/photo/man-swimming-in-a-swimming-pool-16769533/"
+      },
+      {
+        "id": 6091287,
+        "busca": "target practice training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6091287/pexels-photo-6091287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tima Miroshnichenko",
+        "pagina": "https://www.pexels.com/photo/grayscale-photo-of-a-shooting-range-6091287/"
+      }
+    ]
+  }
+}
