@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Descubra segredos que mudam seu jogo",
+  "subtitulo": "5 fatos práticos que poucos sabem sobre futebol e vôlei para melhorar sua performance",
+  "slides": [
+    {
+      "titulo": "Posicionamento defensivo no futebol",
+      "texto": "Mantenha a linha de defesa compacta, reduzindo espaços entre zagueiros e laterais para impedir passes entre linhas.",
+      "foto": "soccer defensive line"
+    },
+    {
+      "titulo": "Saques poderosos no vôlei",
+      "texto": "Use o movimento de ombro completo e sincronize a extensão das pernas para gerar mais velocidade e profundidade no saque.",
+      "foto": "volleyball powerful serve"
+    },
+    {
+      "titulo": "Treino de finalizações rápidas",
+      "texto": "Pratique chutes de primeira com a bola entregue em velocidade, focando na precisão da parte interna do pé.",
+      "foto": "soccer quick finish"
+    },
+    {
+      "titulo": "Leitura de bloqueio no vôlei",
+      "texto": "Observe a posição dos atacantes e ajuste a altura das mãos antes do ataque para melhorar a eficácia do bloqueio.",
+      "foto": "volleyball block technique"
+    },
+    {
+      "titulo": "Rotação inteligente no futebol",
+      "texto": "Alterne entre passes curtos e longos para desorganizar a marcação adversária, criando espaços para avançar com segurança.",
+      "foto": "soccer rotation strategy"
+    }
+  ],
+  "chamada_final": "Salve este post e siga para mais dicas de futebol e vôlei!",
+  "legenda": "⚽️ Você sabia que pequenos ajustes no posicionamento defensivo podem reduzir quase 30% dos gols sofridos?\n\n🏐 E no vôlei, um saque bem executado abre a quadra para a vitória. Teste as dicas e sinta a diferença.\n\nDeslize para o lado e descubra cada truque. Curta, comente qual dica você vai aplicar primeiro e siga nosso perfil para não perder nada!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "dicasdeesporte",
+    "treinamento",
+    "posicionamento",
+    "saque",
+    "bloqueio",
+    "tacticas",
+    "performance"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-05T16:44-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38491941,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38491941/pexels-photo-38491941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Denis  Almeida",
+      "pagina": "https://www.pexels.com/photo/dynamic-beach-volleyball-game-action-shot-38491941/"
+    },
+    "slides": [
+      {
+        "id": 36429411,
+        "busca": "soccer defensive line",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36429411/pexels-photo-36429411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Willians Huerta",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-with-goalkeeper-save-36429411/"
+      },
+      {
+        "id": 6203681,
+        "busca": "volleyball powerful serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203681/pexels-photo-6203681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/monochrome-photo-of-a-man-serving-a-volleyball-6203681/"
+      },
+      {
+        "id": 6507967,
+        "busca": "soccer quick finish",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6507967/pexels-photo-6507967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/a-soccer-player-defending-the-goal-6507967/"
+      },
+      {
+        "id": 38745196,
+        "busca": "volleyball block technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38745196/pexels-photo-38745196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Célio Júnior",
+        "pagina": "https://www.pexels.com/photo/competitive-beach-volleyball-match-action-38745196/"
+      },
+      {
+        "id": 27394486,
+        "busca": "soccer rotation strategy",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/27394486/pexels-photo-27394486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/a-group-of-men-in-yellow-and-black-uniforms-standing-on-a-soccer-field-27394486/"
+      }
+    ]
+  }
+}
