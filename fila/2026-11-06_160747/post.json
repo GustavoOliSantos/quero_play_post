@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "5 fatos que poucos sabem",
+  "subtitulo": "Descubra curiosidades surpreendentes do futebol e do vôlei",
+  "slides": [
+    {
+      "titulo": "Posicionamento no saque",
+      "texto": "Pratique o saque colocando a bola no ponto mais alto da rede; aumenta a velocidade e reduz a previsibilidade.",
+      "foto": "volleyball serve action"
+    },
+    {
+      "titulo": "Chute com peito de pé",
+      "texto": "Ao chutar, mantenha o pé ao lado da bola e use a parte interna do pé; melhora precisão nas bolas rasteiras.",
+      "foto": "football foot strike"
+    },
+    {
+      "titulo": "Comunicação em quadra",
+      "texto": "Use palavras curtas como “eu” ou “cobro” antes de cada jogada; evita colisões e aumenta a organização.",
+      "foto": "volleyball team talk"
+    },
+    {
+      "titulo": "Treino de reflexo de goleiro",
+      "texto": "Faça exercícios com bolas de tênis lançadas aleatoriamente; treina reação rápida e posicionamento.",
+      "foto": "goalkeeper reflex drill"
+    },
+    {
+      "titulo": "Alongamento de ombros",
+      "texto": "Antes de jogar, faça rotação externa com elástico; diminui risco de lesões no saque e no arremesso.",
+      "foto": "shoulder stretch exercise"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos!",
+  "legenda": "🚀 Quer descobrir segredos que poucos conhecem no futebol e no vôlei? Deslize para o lado e aprenda dicas práticas que vão melhorar seu jogo imediatamente.\n\nCada slide traz um conselho simples, fácil de aplicar nos treinos e nas partidas. Experimente hoje e sinta a diferença!\n\nCurtiu? Deixe seu comentário, siga o perfil para mais curiosidades e marque quem vai adorar essas dicas. 💬⚽🏐",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "dicasdesportivas",
+    "futebolbrasil",
+    "voleibol",
+    "treinamentodesport",
+    "esporteeducativo",
+    "fatosinteressantes",
+    "paixaodesporte",
+    "curiosidadesdesportivas"
+  ],
+  "foto_capa": "football volleyball stadium",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-06T16:07-03:00",
+  "fotos": {
+    "capa": {
+      "id": 27486717,
+      "busca": "football volleyball stadium",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/27486717/pexels-photo-27486717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Carlos Reyes",
+      "pagina": "https://www.pexels.com/photo/futbol-27486717/"
+    },
+    "slides": [
+      {
+        "id": 6203587,
+        "busca": "volleyball serve action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203587/pexels-photo-6203587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/men-playing-volleyball-6203587/"
+      },
+      {
+        "id": 18144620,
+        "busca": "football foot strike",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/18144620/pexels-photo-18144620.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thanyakorn krisorn",
+        "pagina": "https://www.pexels.com/photo/man-legs-on-soccer-ball-18144620/"
+      },
+      {
+        "id": 12169170,
+        "busca": "volleyball team talk",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169170/pexels-photo-12169170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-and-woman-talking-and-laughing-on-a-beach-12169170/"
+      },
+      {
+        "id": 31067777,
+        "busca": "goalkeeper reflex drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/31067777/pexels-photo-31067777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Nicu Ene",
+        "pagina": "https://www.pexels.com/photo/dynamic-soccer-goalie-in-mid-air-save-31067777/"
+      },
+      {
+        "id": 4720274,
+        "busca": "shoulder stretch exercise",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/4720274/pexels-photo-4720274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Ketut Subiyanto",
+        "pagina": "https://www.pexels.com/photo/shallow-focus-photo-of-man-stretching-4720274/"
+      }
+    ]
+  }
+}
