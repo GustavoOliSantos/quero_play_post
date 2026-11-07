@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Domine habilidades surpreendentes",
+  "subtitulo": "5 dicas práticas para melhorar seu jogo no futebol e no vôlei",
+  "slides": [
+    {
+      "titulo": "Posicionamento defensivo no futebol",
+      "texto": "Mantenha a linha compacta, pressione a bola e cubra os espaços entre os atacantes para evitar finalizações.",
+      "foto": "soccer defensive positioning"
+    },
+    {
+      "titulo": "Leitura de saque no vôlei",
+      "texto": "Observe a posição dos pés do sacador e a inclinação do braço para antecipar a direção da bola.",
+      "foto": "volleyball serve read"
+    },
+    {
+      "titulo": "Finalização de cabeça precisa",
+      "texto": "Use o peito da testa, mire no canto oposto ao goleiro e siga a trajetória da bola até o impacto.",
+      "foto": "soccer header technique"
+    },
+    {
+      "titulo": "Bloqueio rápido no vôlei",
+      "texto": "Salte com os pés na largura dos ombros, estenda os braços e acompanhe a bola até a rede para fechar o bloqueio.",
+      "foto": "volleyball quick block"
+    },
+    {
+      "titulo": "Transição ataque-defesa eficiente",
+      "texto": "Após recuperar a bola, troque rapidamente para o contra-ataque, aproveitando a desorganização adversária.",
+      "foto": "soccer counter attack transition"
+    }
+  ],
+  "chamada_final": "Salve e compartilhe se quiser evoluir!",
+  "legenda": "Quer melhorar seu desempenho tanto no futebol quanto no vôlei? 🤔 Arraste para o lado e descubra dicas práticas que realmente funcionam. Cada slide traz uma técnica que você pode aplicar já nos treinos.\n\nTeste uma dica por semana e sinta a diferença nos jogos. ⚽🏐 Não esqueça de marcar aquele amigo que precisa dessas ideias!\n\nCurtiu? Salve o post, siga o perfil e deixe seu comentário com a dica que você mais gostou. 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdesportivas",
+    "treinos",
+    "tecnica",
+    "esportes",
+    "aprendizado",
+    "curiosidades",
+    "performance",
+    "jogo"
+  ],
+  "foto_capa": "soccer volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-07T14:38-03:00",
+  "fotos": {
+    "capa": {
+      "id": 9390014,
+      "busca": "soccer volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/9390014/pexels-photo-9390014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Henrique Morais",
+      "pagina": "https://www.pexels.com/photo/men-playing-at-the-beach-9390014/"
+    },
+    "slides": [
+      {
+        "id": 9519536,
+        "busca": "soccer defensive positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9519536/pexels-photo-9519536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anastasia  Shuraeva",
+        "pagina": "https://www.pexels.com/photo/woman-in-black-t-shirt-and-shorts-standing-on-green-field-9519536/"
+      },
+      {
+        "id": 6203523,
+        "busca": "volleyball serve read",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203523/pexels-photo-6203523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/a-woman-in-sports-wear-serving-the-ball-6203523/"
+      },
+      {
+        "id": 38455399,
+        "busca": "soccer header technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38455399/pexels-photo-38455399.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-soccer-player-performing-header-on-field-38455399/"
+      },
+      {
+        "id": 17365657,
+        "busca": "volleyball quick block",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17365657/pexels-photo-17365657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tom Fisk",
+        "pagina": "https://www.pexels.com/photo/girls-playing-volleyball-17365657/"
+      },
+      {
+        "id": 38454770,
+        "busca": "soccer counter attack transition",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38454770/pexels-photo-38454770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/youth-soccer-match-on-an-outdoor-field-38454770/"
+      }
+    ]
+  }
+}
