@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Domine a cabeça e o saque",
+  "subtitulo": "5 passos para melhorar seu cabeceio no futebol e o saque poderoso no vôlei",
+  "slides": [
+    {
+      "titulo": "Como surgiu o gol de cabeça",
+      "texto": "Nos anos 1900, jogadores começaram a usar a cabeça para marcar, aproveitando a falta de proteção nas traves. Hoje, é uma arte estratégica.",
+      "foto": "historic football header"
+    },
+    {
+      "titulo": "Posição ideal para cabecear",
+      "texto": "Mantenha o queixo levemente abaixado, olhos no trajeto da bola, salto explosivo e encoste a testa na bola para direcionar ao canto.",
+      "foto": "player heading technique"
+    },
+    {
+      "titulo": "Erros que perdem gols de cabeça",
+      "texto": "Olhar para o chão, pular cedo demais ou usar o peito ao invés da testa faz perder controle e força, resultando em chutes fracos.",
+      "foto": "missed header error"
+    },
+    {
+      "titulo": "Mito: cabeçada sempre perigosa",
+      "texto": "Muitos pensam que pode causar lesões graves, mas com técnica correta e aquecimento, o risco é baixo e o benefício, alto.",
+      "foto": "football header myth"
+    },
+    {
+      "titulo": "Treino rápido de cabeceio",
+      "texto": "Use uma bola leve, pratique 10 repetições diárias, concentre-se no ponto de contato e aumente a velocidade gradualmente.",
+      "foto": "header training drill"
+    }
+  ],
+  "chamada_final": "Salve este post, siga para mais dicas e compartilhe sua experiência!",
+  "legenda": "Você sabia que o cabeceio pode mudar o rumo de um jogo? 🤔\n\nNo carrossel de hoje, descubra como aprimorar essa técnica e ainda dominar o saque no vôlei, com dicas simples e eficientes. 🚀\n\nDeslize para o lado, experimente as dicas e conte nos comentários como foi. Não esqueça de salvar e seguir para mais curiosidades! 📲",
+  "hashtags": [
+    "futebol",
+    "voleibol",
+    "curiosidades",
+    "esporte",
+    "treino",
+    "dica",
+    "futebolbrasil",
+    "voleibrasil",
+    "cabeceio",
+    "saque",
+    "esporteeducativo",
+    "curiosidadessport"
+  ],
+  "foto_capa": "football volleyball combo",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-08T14:48-03:00",
+  "fotos": {
+    "capa": {
+      "id": 10350368,
+      "busca": "football volleyball combo",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/10350368/pexels-photo-10350368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "cottonbro studio",
+      "pagina": "https://www.pexels.com/photo/volleyball-player-holding-a-white-ball-10350368/"
+    },
+    "slides": [
+      {
+        "id": 37335296,
+        "busca": "historic football header",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37335296/pexels-photo-37335296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Stephen Leonardi",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-with-player-jumping-for-header-37335296/"
+      },
+      {
+        "id": 18190512,
+        "busca": "player heading technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/18190512/pexels-photo-18190512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Chris L",
+        "pagina": "https://www.pexels.com/photo/soccer-players-playing-a-game-on-the-playground-18190512/"
+      },
+      {
+        "id": 9504092,
+        "busca": "missed header error",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9504092/pexels-photo-9504092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Benjamin Farren",
+        "pagina": "https://www.pexels.com/photo/electronic-sign-no-signal-9504092/"
+      },
+      {
+        "id": 30726645,
+        "busca": "football header myth",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30726645/pexels-photo-30726645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-action-on-field-30726645/"
+      },
+      {
+        "id": 30542653,
+        "busca": "header training drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30542653/pexels-photo-30542653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/goalkeeper-practicing-dive-at-soccer-training-30542653/"
+      }
+    ]
+  }
+}
