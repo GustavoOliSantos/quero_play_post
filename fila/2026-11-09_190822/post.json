@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Domine passes precisos em dois esportes",
+  "subtitulo": "5 dicas práticas para acertar a bola sempre, no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Posição dos pés",
+      "texto": "Mantenha os pés paralelos ao alvo, flexione os joelhos e distribua o peso uniformemente.",
+      "foto": "soccer foot positioning"
+    },
+    {
+      "titulo": "Olhe antes de tocar",
+      "texto": "Foque no ponto de contato da bola e no movimento do companheiro antes de passar.",
+      "foto": "volleyball players eye contact"
+    },
+    {
+      "titulo": "Uso do quadril",
+      "texto": "Gire o quadril na direção do passe; isso gera mais força e precisão com menos esforço.",
+      "foto": "soccer hip rotation"
+    },
+    {
+      "titulo": "Toque suave na bola",
+      "texto": "Aplique a pressão mínima necessária; toques leves aumentam o controle e evitam rebotes inesperados.",
+      "foto": "volleyball gentle touch"
+    },
+    {
+      "titulo": "Treino de alvo fixo",
+      "texto": "Monte um alvo na parede ou rede e pratique passes diários, aumentando a distância gradualmente.",
+      "foto": "soccer target practice"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique hoje mesmo!",
+  "legenda": "Você já percebeu como um passe certeiro muda o jogo? 🤔\n\nDescubra 5 passos simples que funcionam tanto no futebol quanto no vôlei. Cada dica é fácil de aplicar no treino diário.\n\nDeslize para o lado e veja como melhorar sua precisão agora! 📈\n\nCurtiu? Marque um amigo e siga para mais curiosidades esportivas.",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "passes",
+    "treino",
+    "dicasdeesporte",
+    "precisao",
+    "esportelivre",
+    "aprendizado",
+    "jogadores",
+    "tactica"
+  ],
+  "foto_capa": "soccer volleyball passes",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-09T19:08-03:00",
+  "fotos": {
+    "capa": {
+      "id": 30227553,
+      "busca": "soccer volleyball passes",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/30227553/pexels-photo-30227553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Ansey Photography",
+      "pagina": "https://www.pexels.com/photo/exciting-outdoor-volleyball-game-in-action-30227553/"
+    },
+    "slides": [
+      {
+        "id": 12659348,
+        "busca": "soccer foot positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12659348/pexels-photo-12659348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "BOOM 💥 Photography",
+        "pagina": "https://www.pexels.com/photo/soccer-player-on-grass-12659348/"
+      },
+      {
+        "id": 6203633,
+        "busca": "volleyball players eye contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203633/pexels-photo-6203633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/men-and-women-playing-volleyball-6203633/"
+      },
+      {
+        "id": 7188056,
+        "busca": "soccer hip rotation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7188056/pexels-photo-7188056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/an-active-man-stretching-his-leg-7188056/"
+      },
+      {
+        "id": 6180426,
+        "busca": "volleyball gentle touch",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180426/pexels-photo-6180426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/man-playing-volleyball-on-the-beach-6180426/"
+      },
+      {
+        "id": 6540683,
+        "busca": "soccer target practice",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6540683/pexels-photo-6540683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/archery-target-on-green-grass-6540683/"
+      }
+    ]
+  }
+}
