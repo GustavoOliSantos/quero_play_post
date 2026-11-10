@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 segredos que mudam o jogo",
+  "subtitulo": "Descubra detalhes pouco conhecidos que podem melhorar sua performance",
+  "slides": [
+    {
+      "titulo": "Posicionamento defensivo no voleibol",
+      "texto": "Mantenha os joelhos levemente dobrados e os pés alinhados ao centro da quadra para reagir rápido aos ataques.",
+      "foto": "volleyball defensive stance"
+    },
+    {
+      "titulo": "Chute de primeira no futebol",
+      "texto": "Aproveite o peso do corpo para gerar potência, mantendo o pé de apoio próximo ao ponto de contato.",
+      "foto": "football first time kick"
+    },
+    {
+      "titulo": "Comunicação no bloqueio",
+      "texto": "Use comandos curtos como “cuidado” ou “foco” para alinhar a parede e evitar toques duplos.",
+      "foto": "volleyball block communication"
+    },
+    {
+      "titulo": "Leitura de jogada no contra‑ataque",
+      "texto": "Observe a posição dos laterais e dos atacantes para antecipar passes e abrir espaços na defesa.",
+      "foto": "football counter attack analysis"
+    },
+    {
+      "titulo": "Recuperação ativa entre pontos",
+      "texto": "Faça alongamentos leves e caminhe 30 segundos para reduzir fadiga e melhorar a circulação antes do próximo rally.",
+      "foto": "volleyball active recovery"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos",
+  "legenda": "⚽️ Você sabia que pequenos ajustes podem transformar seu desempenho? No futebol e no vôlei, detalhes fazem a diferença.\n\n🔍 Cada slide traz uma dica prática que você pode aplicar agora mesmo nos treinos ou partidas. Basta seguir o passo a passo.\n\n💡 Arraste para o lado e descubra os segredos que os profissionais usam. Gostou? Salve, comente e marque quem precisa ver isso!\n\n🚀 Continue acompanhando para mais curiosidades e estratégias que vão elevar seu jogo.",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "dicas",
+    "treinamento",
+    "performance",
+    "taticas",
+    "jogadores",
+    "historias"
+  ],
+  "foto_capa": "football volleyball collage",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-10T16:30-03:00",
+  "fotos": {
+    "capa": {
+      "id": 32456002,
+      "busca": "football volleyball collage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/32456002/pexels-photo-32456002.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Dr. Mohammad  Hoque",
+      "pagina": "https://www.pexels.com/photo/colorful-volleyball-resting-in-green-grass-32456002/"
+    },
+    "slides": [
+      {
+        "id": 6203571,
+        "busca": "volleyball defensive stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203571/pexels-photo-6203571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/photo-of-people-playing-volleyball-6203571/"
+      },
+      {
+        "id": 32285172,
+        "busca": "football first time kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32285172/pexels-photo-32285172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/dynamic-soccer-player-in-action-on-field-32285172/"
+      },
+      {
+        "id": 25824200,
+        "busca": "volleyball block communication",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/25824200/pexels-photo-25824200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Heriberto Jahir Medina",
+        "pagina": "https://www.pexels.com/photo/women-playing-volleyball-25824200/"
+      },
+      {
+        "id": 38615619,
+        "busca": "football counter attack analysis",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38615619/pexels-photo-38615619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-players-in-action-during-practice-session-38615619/"
+      },
+      {
+        "id": 12169159,
+        "busca": "volleyball active recovery",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169159/pexels-photo-12169159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/two-beach-volleyball-giving-fist-bump-gesture-12169159/"
+      }
+    ]
+  }
+}
