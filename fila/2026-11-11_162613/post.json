@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Domine truques pouco conhecidos no campo",
+  "subtitulo": "5 dicas práticas que mudam seu jogo em minutos",
+  "slides": [
+    {
+      "titulo": "Posicionamento da bola nos cantos",
+      "texto": "Use o canto da área para confundir a defesa e ganhar tempo, tanto no futebol quanto no vôlei de praia.",
+      "foto": "soccer corner kick"
+    },
+    {
+      "titulo": "Comunicação de bloqueio eficaz",
+      "texto": "Antes do bloqueio, grite “eu” ou “toca” para sinalizar quem vai à rede, evitando colisões e aumentando a defesa.",
+      "foto": "volleyball block communication"
+    },
+    {
+      "titulo": "Aproveite o contra-ataque rápido",
+      "texto": "Recupere a bola e avance em dois toques; no futebol e no voleibol isso pega o adversário despreparado.",
+      "foto": "soccer fast counterattack"
+    },
+    {
+      "titulo": "Use o saque flutuante",
+      "texto": "No vôlei, sacadas curtas e flutuantes dificultam a recepção; no futebol, chutes suaves ao gol surpreendem o goleiro.",
+      "foto": "volleyball floating serve"
+    },
+    {
+      "titulo": "Mantenha a postura correta",
+      "texto": "Coluna alinhada e joelhos levemente flexos dão mais potência e evitam lesões, essencial para chutes e saques.",
+      "foto": "athlete proper posture"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e mostre seu domínio!",
+  "legenda": "Você sabia que pequenos ajustes podem transformar seu desempenho no futebol e no vôlei? 🚀\nDeslize para a esquerda e descubra cada dica prática, fácil de aplicar nos treinos e jogos.\nCurtiu? Deixe um comentário, marque quem vai usar essas táticas e siga para mais curiosidades!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "dicaspraticas",
+    "esportes",
+    "treinamento",
+    "tática",
+    "contraataque",
+    "postura",
+    "saque",
+    "bloqueio",
+    "futebolbrasileiro"
+  ],
+  "foto_capa": "soccer volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-11T16:26-03:00",
+  "fotos": {
+    "capa": {
+      "id": 36718718,
+      "busca": "soccer volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/36718718/pexels-photo-36718718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Thang Nguyen",
+      "pagina": "https://www.pexels.com/photo/dramatic-action-shot-of-foot-volleyball-game-36718718/"
+    },
+    "slides": [
+      {
+        "id": 18075477,
+        "busca": "soccer corner kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/18075477/pexels-photo-18075477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Israel Torres",
+        "pagina": "https://www.pexels.com/photo/man-is-executing-corner-shot-18075477/"
+      },
+      {
+        "id": 6203572,
+        "busca": "volleyball block communication",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203572/pexels-photo-6203572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-6203572/"
+      },
+      {
+        "id": 30666130,
+        "busca": "soccer fast counterattack",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30666130/pexels-photo-30666130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-action-on-the-field-30666130/"
+      },
+      {
+        "id": 6203511,
+        "busca": "volleyball floating serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203511/pexels-photo-6203511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/volleyball-player-spiking-a-ball-over-the-net-6203511/"
+      },
+      {
+        "id": 12659357,
+        "busca": "athlete proper posture",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12659357/pexels-photo-12659357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "BOOM 💥 Photography",
+        "pagina": "https://www.pexels.com/photo/runner-at-the-starting-line-12659357/"
+      }
+    ]
+  }
+}
