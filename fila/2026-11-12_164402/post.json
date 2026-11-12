@@ -1,0 +1,101 @@
+{
+  "tema": "areia",
+  "titulo": "5 segredos que mudam o jogo",
+  "subtitulo": "Descubra fatos práticos que poucos sabem sobre futebol e vôlei",
+  "slides": [
+    {
+      "titulo": "Como melhorar a precisão de passes",
+      "texto": "Treine o passe curto usando a parede: 10 toques rápidos, foco no ponto de contato e na postura dos pés.",
+      "foto": "soccer pass training"
+    },
+    {
+      "titulo": "Aumente a potência do saque",
+      "texto": "Pratique o saque flutuante com bola leve, concentre o salto e use o punho em movimento rápido para mais força.",
+      "foto": "volleyball serve power"
+    },
+    {
+      "titulo": "Entenda a leitura de jogadas",
+      "texto": "Observe o posicionamento dos adversários e antecipe a jogada; isso reduz erros e cria oportunidades de gol ou ponto.",
+      "foto": "football tactical analysis"
+    },
+    {
+      "titulo": "Recupere a energia entre séries",
+      "texto": "Faça respirações profundas por 30 segundos e hidrate-se com água e eletrólitos para manter performance constante.",
+      "foto": "athlete hydration break"
+    },
+    {
+      "titulo": "Evite lesões comuns",
+      "texto": "Alongue quadríceps, panturrilhas e ombros antes de jogar; use calçados adequados e respeite limites de carga.",
+      "foto": "sports injury prevention"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe suas dicas nos comentários",
+  "legenda": "Você sabia que pequenos ajustes podem transformar seu desempenho no futebol e no vôlei? ⚽️🏐\n\nDeslize para o lado e descubra dicas práticas que você pode aplicar hoje nos treinos. 🔄\n\nCurtiu? Deixe um comentário, salve para rever depois e siga para mais curiosidades! 👍💬",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esportes",
+    "dicasdesporte",
+    "treino",
+    "performance",
+    "bola",
+    "atletismo"
+  ],
+  "foto_capa": "soccer volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-12T16:44-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38021507,
+      "busca": "soccer volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38021507/pexels-photo-38021507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Ezequiel Milano",
+      "pagina": "https://www.pexels.com/photo/acrobatic-beach-volleyball-action-shot-38021507/"
+    },
+    "slides": [
+      {
+        "id": 37926174,
+        "busca": "soccer pass training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37926174/pexels-photo-37926174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-training-session-on-a-sunny-day-37926174/"
+      },
+      {
+        "id": 6203515,
+        "busca": "volleyball serve power",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203515/pexels-photo-6203515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/volleyball-player-spiking-a-ball-6203515/"
+      },
+      {
+        "id": 38615470,
+        "busca": "football tactical analysis",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38615470/pexels-photo-38615470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-training-on-a-sunny-day-38615470/"
+      },
+      {
+        "id": 6699091,
+        "busca": "athlete hydration break",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6699091/pexels-photo-6699091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Gustavo Fring",
+        "pagina": "https://www.pexels.com/photo/boxer-taking-break-from-training-6699091/"
+      },
+      {
+        "id": 13907447,
+        "busca": "sports injury prevention",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/13907447/pexels-photo-13907447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Quyn Phạm",
+        "pagina": "https://www.pexels.com/photo/injured-soccer-player-with-a-doctor-13907447/"
+      }
+    ]
+  }
+}
