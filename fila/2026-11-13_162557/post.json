@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Evite erros que prejudicam seu chute e saque",
+  "subtitulo": "Descubra cinco falhas simples que podem reduzir sua potência e precisão no futebol e no vôlei",
+  "slides": [
+    {
+      "titulo": "Postura do corpo",
+      "texto": "Mantenha o tronco levemente inclinado e o ombro alinhado ao alvo para gerar mais força no chute ou saque.",
+      "foto": "soccer kick stance"
+    },
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "Coloque o pé de apoio ao lado da bola, apontando para o objetivo; no voleibol, o pé firme garante equilíbrio no saque.",
+      "foto": "volleyball serve foot"
+    },
+    {
+      "titulo": "Ponto de contato",
+      "texto": "Toque a bola na parte central do pé ou na palma da mão, evitando o canto para manter a direção.",
+      "foto": "soccer ball foot"
+    },
+    {
+      "titulo": "Ritmo de movimento",
+      "texto": "Execute o movimento em um fluxo contínuo, sem pausas; sincronize a corrida e o swing para maximizar energia.",
+      "foto": "football swing motion"
+    },
+    {
+      "titulo": "Treino específico",
+      "texto": "Pratique séries curtas de 5 repetições focadas na técnica, aumentando a carga gradualmente para evitar fadiga.",
+      "foto": "volleyball training drill"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e compartilhe com amigos!",
+  "legenda": "⚽️ Já percebeu que pequenos detalhes podem mudar tudo no chute e no saque? \n\n📈 No primeiro slide mostro a postura ideal, depois falamos sobre onde colocar os pés, o ponto exato de contato, o ritmo do movimento e, por fim, um treino prático. \n\nDeslize para aprender cada dica e eleve seu desempenho em campo ou quadra! \n\n💬 Comente qual erro você mais comete e siga para mais curiosidades esportivas.",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdesportivas",
+    "treinamento",
+    "potencial",
+    "tecnica",
+    "esporte",
+    "chute",
+    "saque",
+    "performance",
+    "curiosidades",
+    "athlete"
+  ],
+  "foto_capa": "football and volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-13T16:25-03:00",
+  "fotos": {
+    "capa": {
+      "id": 11577885,
+      "busca": "football and volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/11577885/pexels-photo-11577885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "joaquin Farias Plaza",
+      "pagina": "https://www.pexels.com/photo/grayscale-photo-of-people-playing-beach-volleyball-11577885/"
+    },
+    "slides": [
+      {
+        "id": 17955605,
+        "busca": "soccer kick stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17955605/pexels-photo-17955605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Israel Torres",
+        "pagina": "https://www.pexels.com/photo/football-player-kicking-ball-17955605/"
+      },
+      {
+        "id": 36692407,
+        "busca": "volleyball serve foot",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36692407/pexels-photo-36692407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thang Nguyen",
+        "pagina": "https://www.pexels.com/photo/energetic-outdoor-sepak-takraw-match-in-action-36692407/"
+      },
+      {
+        "id": 972513,
+        "busca": "soccer ball foot",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/972513/pexels-photo-972513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Markus Spiske",
+        "pagina": "https://www.pexels.com/photo/person-field-playing-school-972513/"
+      },
+      {
+        "id": 35064781,
+        "busca": "football swing motion",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/35064781/pexels-photo-35064781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "ANH LÊ",
+        "pagina": "https://www.pexels.com/photo/soccer-match-in-ha-n-i-with-players-in-action-35064781/"
+      },
+      {
+        "id": 6203591,
+        "busca": "volleyball training drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203591/pexels-photo-6203591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/player-spiking-a-ball-6203591/"
+      }
+    ]
+  }
+}
