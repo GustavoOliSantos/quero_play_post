@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Fatos surpreendentes que poucos sabem",
+  "subtitulo": "Descubra curiosidades que mudam a visão dos esportes",
+  "slides": [
+    {
+      "titulo": "Origem da bola de futebol",
+      "texto": "A primeira bola foi feita de bexiga de porco coberta por couro, usada na Inglaterra do século 14.",
+      "foto": "vintage football ball"
+    },
+    {
+      "titulo": "Primeiro saque no vôlei",
+      "texto": "O saque original era por baixo, como um passe, e só evoluiu para o salto nos anos 70.",
+      "foto": "volleyball underhand serve"
+    },
+    {
+      "titulo": "Número 10 no futebol",
+      "texto": "O número 10 simboliza criatividade; nasceu na Argentina dos anos 30 e virou ícone mundial.",
+      "foto": "football jersey number ten"
+    },
+    {
+      "titulo": "Bloqueio de mão no vôlei",
+      "texto": "Bloquear com as mãos abertas aumenta a área de contato e reduz a força do ataque adversário.",
+      "foto": "volleyball block action"
+    },
+    {
+      "titulo": "Curiosidade: gol de bicicleta",
+      "texto": "O primeiro gol de bicicleta registrado foi em 1933, no Uruguai, e ainda assusta goleiros.",
+      "foto": "football bicycle kick"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos",
+  "legenda": "Você sabia que a bola de futebol começou como uma bexiga de porco? 🤔\n\nNo vôlei, o saque evoluiu muito desde o simples passe por baixo. 🏐\n\nArraste para o lado e descubra mais curiosidades que vão impressionar sua galera! Marque alguém nos comentários e siga para não perder nada. 🚀",
+  "hashtags": [
+    "futebol",
+    "curiosidades",
+    "volei",
+    "esporte",
+    "historia",
+    "fatos",
+    "incrivel",
+    "aprendizado",
+    "sportlife",
+    "curiosidadeesportiva"
+  ],
+  "foto_capa": "football and volleyball collage",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-14T14:50-03:00",
+  "fotos": {
+    "capa": {
+      "id": 11894153,
+      "busca": "football and volleyball collage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/11894153/pexels-photo-11894153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Priscila Almeida",
+      "pagina": "https://www.pexels.com/photo/men-playing-volleyball-on-beach-11894153/"
+    },
+    "slides": [
+      {
+        "id": 30726628,
+        "busca": "vintage football ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30726628/pexels-photo-30726628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Omar Ramadan",
+        "pagina": "https://www.pexels.com/photo/soccer-goalkeeper-ready-to-kick-the-ball-30726628/"
+      },
+      {
+        "id": 6203520,
+        "busca": "volleyball underhand serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203520/pexels-photo-6203520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-6203520/"
+      },
+      {
+        "id": 5817858,
+        "busca": "football jersey number ten",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/5817858/pexels-photo-5817858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Robo Michalec",
+        "pagina": "https://www.pexels.com/photo/referee-talking-to-a-football-player-5817858/"
+      },
+      {
+        "id": 6180400,
+        "busca": "volleyball block action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180400/pexels-photo-6180400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/men-playing-volleyball-6180400/"
+      },
+      {
+        "id": 12585891,
+        "busca": "football bicycle kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12585891/pexels-photo-12585891.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "BOOM 💥 Photography",
+        "pagina": "https://www.pexels.com/photo/legs-of-a-soccer-player-kicking-the-ball-12585891/"
+      }
+    ]
+  }
+}
