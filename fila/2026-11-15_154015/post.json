@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 fatos que mudam seu jogo",
+  "subtitulo": "Descubra detalhes surpreendentes do futebol e do vôlei",
+  "slides": [
+    {
+      "titulo": "Bola de futebol tem 32 painéis",
+      "texto": "A bola oficial possui 32 hexágonos e pentágonos que garantem voo estável e controle preciso.",
+      "foto": "football ball closeup"
+    },
+    {
+      "titulo": "Voleibol tem toque de 3 mãos",
+      "texto": "No vôlei, cada equipe tem direito a três toques antes de devolver a bola, incluindo bloqueio que não conta como toque.",
+      "foto": "volleyball players spike"
+    },
+    {
+      "titulo": "Gol de falta mais rápido",
+      "texto": "A bola de Roberto Carlos em 1997 alcançou 137 km/h, sendo um dos chutes mais velozes já registrados.",
+      "foto": "football free kick"
+    },
+    {
+      "titulo": "Saques no vôlei evoluíram",
+      "texto": "Do saque por baixo ao salto poderoso, a técnica aumentou a velocidade média de 60 para 90 km/h em duas décadas.",
+      "foto": "volleyball serve action"
+    },
+    {
+      "titulo": "Arbitragem usa tecnologia VAR",
+      "texto": "No futebol, o VAR revisa lances críticos como gols, pênaltis e cartões vermelhos, reduzindo erros humanos e trazendo mais justiça ao jogo.",
+      "foto": "football VAR monitor"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos",
+  "legenda": "Você sabia que a bola de futebol tem 32 painéis e que o vôlei permite três toques? 🤔\n\nNeste carrossel trouxe curiosidades que mudam a forma de ver esses esportes. Deslize para descobrir!\n\nCurtiu? Deixe seu comentário, siga a página e salve para lembrar dessas dicas! 📲",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "bola",
+    "jogadores",
+    "tecnologia",
+    "VAR",
+    "saque",
+    "gol"
+  ],
+  "foto_capa": "football volleyball collage",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-15T15:40-03:00",
+  "fotos": {
+    "capa": {
+      "id": 36760802,
+      "busca": "football volleyball collage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/36760802/pexels-photo-36760802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "ENIO ENGENHEIRO",
+      "pagina": "https://www.pexels.com/photo/close-up-of-colorful-volleyballs-in-sports-setting-36760802/"
+    },
+    "slides": [
+      {
+        "id": 35579075,
+        "busca": "football ball closeup",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/35579075/pexels-photo-35579075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "atelierbyvineeth . . .",
+        "pagina": "https://www.pexels.com/photo/soccer-ball-in-goal-net-on-green-grass-35579075/"
+      },
+      {
+        "id": 6203500,
+        "busca": "volleyball players spike",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203500/pexels-photo-6203500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/low-angle-shot-of-a-man-playing-volleyball-6203500/"
+      },
+      {
+        "id": 7530622,
+        "busca": "football free kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7530622/pexels-photo-7530622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Danik Prihodko",
+        "pagina": "https://www.pexels.com/photo/people-playing-football-7530622/"
+      },
+      {
+        "id": 34544419,
+        "busca": "volleyball serve action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/34544419/pexels-photo-34544419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "MrP13",
+        "pagina": "https://www.pexels.com/photo/intense-women-s-indoor-volleyball-match-in-action-34544419/"
+      },
+      {
+        "id": 5833752,
+        "busca": "football VAR monitor",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/5833752/pexels-photo-5833752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "AlphaTradeZone",
+        "pagina": "https://www.pexels.com/photo/person-typing-on-a-keyboard-with-charts-on-the-monitors-5833752/"
+      }
+    ]
+  }
+}
