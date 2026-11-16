@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "5 fatos que você não sabia",
+  "subtitulo": "Descubra curiosidades surpreendentes do futebol e do vôlei em poucos segundos",
+  "slides": [
+    {
+      "titulo": "Origens do chute de calcanhar",
+      "texto": "No futebol, o chute de calcanhar foi popularizado nos anos 70, mas surgiu como estratégia defensiva nos anos 60.",
+      "foto": "football heel kick"
+    },
+    {
+      "titulo": "Primeiro saque por fora",
+      "texto": "No vôlei, o saque por fora (floater) foi introduzido nos anos 80 e mudou a dinâmica do jogo.",
+      "foto": "volleyball floating serve"
+    },
+    {
+      "titulo": "Bola mais leve em altitude",
+      "texto": "Bolas usadas em competições de alta altitude são ligeiramente mais leves para compensar a menor resistência do ar.",
+      "foto": "football high altitude"
+    },
+    {
+      "titulo": "Rede masculina mais alta",
+      "texto": "A altura oficial da rede masculina é 2,43 m, padrão desde 1994 para equilibrar bloqueios e ataques.",
+      "foto": "volleyball net height"
+    },
+    {
+      "titulo": "Gol contra mais rápido",
+      "texto": "O gol contra mais rápido da história foi marcado em 8,5 segundos, mostrando a importância da atenção desde o apito.",
+      "foto": "football fastest own goal"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe sua curiosidade favorita!",
+  "legenda": "Você sabia que o chute de calcanhar tem origem defensiva? ⚽️\n\nE que o saque por fora revolucionou o vôlei nos anos 80? 🏐\n\nDeslize para descobrir mais curiosidades que poucos conhecem.\n\nCurtiu? Salve, comente e siga para mais fatos incríveis!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "futebolcuriosidades",
+    "voelicuriosidades",
+    "fatosdesportivos",
+    "aprenda",
+    "sportfacts",
+    "football",
+    "volleyball",
+    "conhecimento"
+  ],
+  "foto_capa": "football volleyball collage",
+  "assunto_foto": "football",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-16T18:50-03:00",
+  "fotos": {
+    "capa": {
+      "id": 40645749,
+      "busca": "football volleyball collage",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/40645749/pexels-photo-40645749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "FOXES IABC",
+      "pagina": "https://www.pexels.com/photo/female-volleyball-player-in-action-at-indoor-game-40645749/"
+    },
+    "slides": [
+      {
+        "id": 32179312,
+        "busca": "football heel kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32179312/pexels-photo-32179312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/action-shot-of-soccer-player-kicking-ball-on-field-32179312/"
+      },
+      {
+        "id": 12169065,
+        "busca": "volleyball floating serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169065/pexels-photo-12169065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-midair-playing-beach-volleyball-12169065/"
+      },
+      {
+        "id": 31533169,
+        "busca": "football high altitude",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/31533169/pexels-photo-31533169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "mohammad majid",
+        "pagina": "https://www.pexels.com/photo/silhouetted-soccer-game-in-stunning-desert-landscape-31533169/"
+      },
+      {
+        "id": 12169032,
+        "busca": "volleyball net height",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169032/pexels-photo-12169032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/beach-volleyball-net-12169032/"
+      },
+      {
+        "id": 32285177,
+        "busca": "football fastest own goal",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32285177/pexels-photo-32285177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/dynamic-action-shot-of-a-footballer-mid-game-32285177/"
+      }
+    ]
+  }
+}
