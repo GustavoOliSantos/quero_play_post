@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 segredos que mudam o jogo",
+  "subtitulo": "Descubra truques pouco conhecidos no futebol e no vôlei que podem surpreender você",
+  "slides": [
+    {
+      "titulo": "Posição errada no saque",
+      "texto": "No vôlei, sacar do centro da linha aumenta a margem de erro; no futebol, usar o pé de apoio errado reduz a precisão do chute.",
+      "foto": "volleyball serve technique"
+    },
+    {
+      "titulo": "O poder do toque curto",
+      "texto": "Um toque de peito curto no futebol cria espaço rápido; no vôlei, um toque de manchete curto abre a bola para ataque veloz.",
+      "foto": "football chest pass"
+    },
+    {
+      "titulo": "Leitura da defesa",
+      "texto": "Observe a formação da defesa adversária; no futebol, identificar o zagueiro avançado permite passe em profundidade; no vôlei, detectar bloqueio baixo abre cortada.",
+      "foto": "defensive volleyball formation"
+    },
+    {
+      "titulo": "Rotação correta no ataque",
+      "texto": "No vôlei, rotacionar o ataque para o lado mais livre aumenta a taxa de ponto; no futebol, mudar a direção do ataque evita marcação compressiva.",
+      "foto": "volleyball attacking rotation"
+    },
+    {
+      "titulo": "Comunicação não verbal",
+      "texto": "Sinais de mão no vôlei coordenam bloqueio e defesa; no futebol, gestos rápidos entre atacantes organizam jogadas de bola parada com eficácia.",
+      "foto": "team hand signals"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e marque quem vai amar essas dicas",
+  "legenda": "Você sabia que pequenos ajustes podem transformar seu desempenho no futebol e no vôlei? ⚽🏐\n\nDeslize para o lado e descubra cada dica prática que vai elevar seu jogo e impressionar os adversários. 👈\n\nCurtiu? Deixe um comentário, compartilhe com os amigos e siga a página para mais curiosidades esportivas! 🚀",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esportes",
+    "dicasdeesporte",
+    "treinamento",
+    "jogada",
+    "aprendizado",
+    "passion",
+    "esportebrasil"
+  ],
+  "foto_capa": "football volleyball stadium",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-17T17:40-03:00",
+  "fotos": {
+    "capa": {
+      "id": 39222204,
+      "busca": "football volleyball stadium",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/39222204/pexels-photo-39222204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Samet Kaplan 🇹🇷",
+      "pagina": "https://www.pexels.com/photo/dynamic-soccer-match-in-malatya-stadium-39222204/"
+    },
+    "slides": [
+      {
+        "id": 6203537,
+        "busca": "volleyball serve technique",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203537/pexels-photo-6203537.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/a-woman-serving-a-ball-6203537/"
+      },
+      {
+        "id": 34756706,
+        "busca": "football chest pass",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/34756706/pexels-photo-34756706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Willians Huerta",
+        "pagina": "https://www.pexels.com/photo/two-women-competing-in-intense-flag-football-game-34756706/"
+      },
+      {
+        "id": 32711309,
+        "busca": "defensive volleyball formation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32711309/pexels-photo-32711309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Biong Abdalla",
+        "pagina": "https://www.pexels.com/photo/exciting-outdoor-volleyball-match-in-action-32711309/"
+      },
+      {
+        "id": 6203642,
+        "busca": "volleyball attacking rotation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203642/pexels-photo-6203642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-holding-ball-while-standing-on-volleyball-court-6203642/"
+      },
+      {
+        "id": 29582084,
+        "busca": "team hand signals",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29582084/pexels-photo-29582084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anh Lee",
+        "pagina": "https://www.pexels.com/photo/referee-in-action-during-soccer-match-29582084/"
+      }
+    ]
+  }
+}
