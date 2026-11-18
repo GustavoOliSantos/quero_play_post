@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Melhore sua defesa em 5 passos",
+  "subtitulo": "Técnicas simples para bloquear gols e pontos",
+  "slides": [
+    {
+      "titulo": "Observe a formação adversária",
+      "texto": "Antes de cada jogada, identifique onde o time rival costuma atacar e ajuste sua marcação para antecipar movimentos.",
+      "foto": "football defensive formation"
+    },
+    {
+      "titulo": "Mantenha a base baixa",
+      "texto": "No futebol e no vôlei, pernas dobradas dão mais equilíbrio e agilidade para reagir a passes rápidos.",
+      "foto": "low stance athletes"
+    },
+    {
+      "titulo": "Use a linha de visão lateral",
+      "texto": "Foque nos olhos do adversário e nos movimentos da bola, evitando olhar apenas para o chão ou a rede.",
+      "foto": "peripheral vision sports"
+    },
+    {
+      "titulo": "Comunicação constante",
+      "texto": "Chame companheiros ao perceber uma abertura; no vôlei, grite ‘eu’ ao se aproximar da bola; no futebol, sinalize cobertura.",
+      "foto": "team communication court"
+    },
+    {
+      "titulo": "Treine a transição rápida",
+      "texto": "Pratique mudar de defesa para ataque em segundos, usando exercícios de sprint e reposicionamento curtos.",
+      "foto": "quick transition drill"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e treine sua defesa agora!",
+  "legenda": "Descubra como melhorar sua defesa tanto no futebol quanto no vôlei com dicas práticas e fáceis de aplicar. 🚀\n\nDeslize para o lado e veja cada passo detalhado, do posicionamento à comunicação em quadra ou campo. 📖\n\nCurtiu? Salve, comente sua experiência e siga para mais curiosidades esportivas! 🙌",
+  "hashtags": [
+    "curiosidadesfutebol",
+    "curiosidadesvolei",
+    "futebol",
+    "volei",
+    "dicasdefesa",
+    "esporte",
+    "aprendizado",
+    "treinos",
+    "posicionamento",
+    "futebolbrasileiro"
+  ],
+  "foto_capa": "football volleyball defense",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-18T17:14-03:00",
+  "fotos": {
+    "capa": {
+      "id": 6203562,
+      "busca": "football volleyball defense",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/6203562/pexels-photo-6203562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Pavel Danilyuk",
+      "pagina": "https://www.pexels.com/photo/group-of-people-playing-volleyball-6203562/"
+    },
+    "slides": [
+      {
+        "id": 15338949,
+        "busca": "football defensive formation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/15338949/pexels-photo-15338949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tim Mossholder",
+        "pagina": "https://www.pexels.com/photo/players-in-field-during-american-football-match-15338949/"
+      },
+      {
+        "id": 8455978,
+        "busca": "low stance athletes",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/8455978/pexels-photo-8455978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Mikhail Nilov",
+        "pagina": "https://www.pexels.com/photo/a-person-in-a-running-start-position-8455978/"
+      },
+      {
+        "id": 10397662,
+        "busca": "peripheral vision sports",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/10397662/pexels-photo-10397662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "cottonbro studio",
+        "pagina": "https://www.pexels.com/photo/man-playing-basketball-10397662/"
+      },
+      {
+        "id": 3845095,
+        "busca": "team communication court",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/3845095/pexels-photo-3845095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "K",
+        "pagina": "https://www.pexels.com/photo/green-and-white-tennis-court-3845095/"
+      },
+      {
+        "id": 30584992,
+        "busca": "quick transition drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/30584992/pexels-photo-30584992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/football-players-training-on-green-field-30584992/"
+      }
+    ]
+  }
+}
