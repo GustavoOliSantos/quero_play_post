@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Como melhorar seu desempenho em campo",
+  "subtitulo": "5 truques simples que jogadores amadores ignoram",
+  "slides": [
+    {
+      "titulo": "Posicionamento dos pés no chute",
+      "texto": "Mantenha o pé de apoio ao lado da bola, 45° da direção, para maior precisão e potência.",
+      "foto": "soccer foot placement"
+    },
+    {
+      "titulo": "Apoio ao saque no voleibol",
+      "texto": "Coloque o pé oposto à mão que lança a bola levemente à frente, garantindo equilíbrio e força no saque.",
+      "foto": "volleyball serve stance"
+    },
+    {
+      "titulo": "Olho na bola ao cabecear",
+      "texto": "Fixe o olhar na bola até o contato; isso aumenta controle e reduz risco de lesão.",
+      "foto": "soccer heading closeup"
+    },
+    {
+      "titulo": "Comunicação no bloqueio",
+      "texto": "Grite 'bloco' ao pular; colegas ajustam a defesa, evitando colisões e aumentando eficácia.",
+      "foto": "volleyball block communication"
+    },
+    {
+      "titulo": "Respiração ao correr",
+      "texto": "Inspire pelo nariz e expire pela boca em intervalos curtos; mantém ritmo e evita fadiga.",
+      "foto": "athlete breathing running"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e treine essas dicas hoje!",
+  "legenda": "Você sabia que pequenos ajustes podem transformar seu jogo? ⚽🏐\n\nDeslize para descobrir 5 dicas práticas que vão elevar seu desempenho no futebol e no vôlei.\n\nTeste cada truque nos treinos e sinta a diferença. Compartilhe nos comentários como foi!\n\nCurtiu? Siga para mais curiosidades e marque quem vai gostar!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "dicasdesporte",
+    "treinamento",
+    "curiosidades",
+    "futebolbrasileiro",
+    "voleibolbrasil",
+    "esportes",
+    "melhorarjogo",
+    "praticasportiva",
+    "treinoeficaz",
+    "esporte"
+  ],
+  "foto_capa": "soccer volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-19T17:18-03:00",
+  "fotos": {
+    "capa": {
+      "id": 32626535,
+      "busca": "soccer volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/32626535/pexels-photo-32626535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Johanna",
+      "pagina": "https://www.pexels.com/photo/man-playing-volleyball-in-sunny-park-setting-32626535/"
+    },
+    "slides": [
+      {
+        "id": 38197591,
+        "busca": "soccer foot placement",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38197591/pexels-photo-38197591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pablo",
+        "pagina": "https://www.pexels.com/photo/youth-soccer-action-in-buenos-aires-38197591/"
+      },
+      {
+        "id": 6203509,
+        "busca": "volleyball serve stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203509/pexels-photo-6203509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/woman-playing-volley-ball-with-the-team-6203509/"
+      },
+      {
+        "id": 37927154,
+        "busca": "soccer heading closeup",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37927154/pexels-photo-37927154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Chris L",
+        "pagina": "https://www.pexels.com/photo/youth-soccer-players-competing-on-field-37927154/"
+      },
+      {
+        "id": 38319599,
+        "busca": "volleyball block communication",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38319599/pexels-photo-38319599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Marco   de Pexels",
+        "pagina": "https://www.pexels.com/photo/dynamic-beach-volleyball-match-in-ciudad-madero-38319599/"
+      },
+      {
+        "id": 12659352,
+        "busca": "athlete breathing running",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12659352/pexels-photo-12659352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "BOOM 💥 Photography",
+        "pagina": "https://www.pexels.com/photo/person-in-blue-and-white-athletic-shoes-12659352/"
+      }
+    ]
+  }
+}
