@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Descubra segredos que mudam seu jogo",
+  "subtitulo": "Pequenas dicas práticas para melhorar sua performance em campo e quadra",
+  "slides": [
+    {
+      "titulo": "Postura do atacante",
+      "texto": "Observe os ombros e a direção dos pés; eles revelam a intenção de chute ou passe.",
+      "foto": "football attacker stance"
+    },
+    {
+      "titulo": "Sinais da defesa",
+      "texto": "A posição das mãos e o olhar do líbero indicam o próximo ataque do adversário.",
+      "foto": "volleyball defense signals"
+    },
+    {
+      "titulo": "Erros ao bater falta",
+      "texto": "Muitos perdem o ritmo ao correr; mantenha passos curtos e respire antes de chutar.",
+      "foto": "football free kick error"
+    },
+    {
+      "titulo": "Mito da altura no saque",
+      "texto": "Ser alto ajuda, mas a técnica de arremesso e força do braço são decisivos.",
+      "foto": "volleyball serve height"
+    },
+    {
+      "titulo": "Rotina de aquecimento",
+      "texto": "Combine 5 minutos de corrida leve, alongamento dinâmico e exercícios de salto para evitar lesões.",
+      "foto": "football warm up routine"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e siga para mais dicas",
+  "legenda": "⚽️ Você sabia que a postura do atacante pode indicar o tipo de jogada? Pequenos detalhes mudam tudo no campo.\n🏐 No voleibol, os sinais da defesa são pistas valiosas para antecipar o ataque. Preste atenção nas mãos e no olhar.\n💡 Salve essas dicas, compartilhe com amigos e siga a página para mais curiosidades sobre futebol e vôlei!",
+  "hashtags": [
+    "futebol",
+    "voleibol",
+    "curiosidades",
+    "dicas",
+    "esporte",
+    "treino",
+    "performance",
+    "aprendizado",
+    "futebolbrasileiro",
+    "volei"
+  ],
+  "foto_capa": "football stadium night",
+  "assunto_foto": "football",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-20T16:49-03:00",
+  "fotos": {
+    "capa": {
+      "id": 3131406,
+      "busca": "football stadium night",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/3131406/pexels-photo-3131406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Furknsaglam",
+      "pagina": "https://www.pexels.com/photo/soccer-field-3131406/"
+    },
+    "slides": [
+      {
+        "id": 38092829,
+        "busca": "football attacker stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38092829/pexels-photo-38092829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-between-two-teen-athletes-38092829/"
+      },
+      {
+        "id": 17643081,
+        "busca": "volleyball defense signals",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17643081/pexels-photo-17643081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tom Fisk",
+        "pagina": "https://www.pexels.com/photo/women-playing-volleyball-17643081/"
+      },
+      {
+        "id": 38454756,
+        "busca": "football free kick error",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38454756/pexels-photo-38454756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-soccer-player-preparing-for-a-free-kick-38454756/"
+      },
+      {
+        "id": 19254895,
+        "busca": "volleyball serve height",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/19254895/pexels-photo-19254895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Jonatan Gomez",
+        "pagina": "https://www.pexels.com/photo/flying-volleyball-ball-19254895/"
+      },
+      {
+        "id": 7187812,
+        "busca": "football warm up routine",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7187812/pexels-photo-7187812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-doing-warm-up-on-the-soccer-field-7187812/"
+      }
+    ]
+  }
+}
