@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Descubra segredos do campo e quadra",
+  "subtitulo": "5 curiosidades que mudam sua visão sobre o esporte",
+  "slides": [
+    {
+      "titulo": "Bola com tecnologia inteligente",
+      "texto": "A bola de futebol moderna tem chips que registram velocidade, trajetória e impactos, ajudando árbitros e treinadores a analisar jogadas.",
+      "foto": "smart football ball"
+    },
+    {
+      "titulo": "Saques mais velozes no vôlei",
+      "texto": "O saque jump serve pode ultrapassar 110 km/h quando o jogador combina salto alto e braço totalmente estendido.",
+      "foto": "volleyball jump serve"
+    },
+    {
+      "titulo": "Posicionamento defensivo no futebol",
+      "texto": "Defensores que mantêm a distância de 1,5 metros do atacante reduzem 30% das chances de finalização.",
+      "foto": "football defensive positioning"
+    },
+    {
+      "titulo": "Bloqueio eficaz no vôlei",
+      "texto": "Um bloqueio bem cronometrado deve iniciar 0,2 segundos antes do ataque, aumentando a taxa de sucesso em 45%.",
+      "foto": "volleyball block timing"
+    },
+    {
+      "titulo": "Número de substituições",
+      "texto": "Desde 2020, o futebol permite até 5 substituições por partida, mas apenas 3 podem ser feitas em tempo normal.",
+      "foto": "football substitution rule"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos fãs de esportes",
+  "legenda": "⚽️ Você sabia que a bola de futebol hoje tem tecnologia que registra cada detalhe da partida?\n\n🏐 No vôlei, o salto no saque e o timing do bloqueio podem mudar o resultado de um set.\n\nDeslize 👉 para descobrir essas curiosidades e mais. Salve, curta e marque alguém que ama futebol ou vôlei!",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "bola",
+    "treinamento",
+    "dicas",
+    "futebolbrasil",
+    "voleibol",
+    "fatos"
+  ],
+  "foto_capa": "football volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-21T15:55-03:00",
+  "fotos": {
+    "capa": {
+      "id": 14561245,
+      "busca": "football volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/14561245/pexels-photo-14561245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Nishant Meena",
+      "pagina": "https://www.pexels.com/photo/men-playing-volleyball-14561245/"
+    },
+    "slides": [
+      {
+        "id": 27915834,
+        "busca": "smart football ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/27915834/pexels-photo-27915834.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Zyn Aly",
+        "pagina": "https://www.pexels.com/photo/football-photography-for-soccer-team-27915834/"
+      },
+      {
+        "id": 6203542,
+        "busca": "volleyball jump serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203542/pexels-photo-6203542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/people-playing-volleyball-inside-the-building-6203542/"
+      },
+      {
+        "id": 38616004,
+        "busca": "football defensive positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38616004/pexels-photo-38616004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-with-goal-attempt-38616004/"
+      },
+      {
+        "id": 17472200,
+        "busca": "volleyball block timing",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17472200/pexels-photo-17472200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tom Fisk",
+        "pagina": "https://www.pexels.com/photo/teenagers-playing-volleyball-17472200/"
+      },
+      {
+        "id": 37138144,
+        "busca": "football substitution rule",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/37138144/pexels-photo-37138144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Zsolt Bodnár",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-in-vasarosnameny-hungary-37138144/"
+      }
+    ]
+  }
+}
