@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "5 fatos que mudam sua visão",
+  "subtitulo": "Descubra detalhes surpreendentes do futebol e do vôlei que poucos conhecem",
+  "slides": [
+    {
+      "titulo": "Gol de falta impossível",
+      "texto": "A bola curva tanto por efeito e velocidade que o goleiro mal percebe a trajetória, como mostrou o clássico de 2012 entre Barcelona e Chelsea",
+      "foto": "soccer free kick"
+    },
+    {
+      "titulo": "Saques poderosos no vôlei",
+      "texto": "Um saque rápido, usando a técnica de salto e o pulso firme, pode gerar velocidades acima de 120 km/h, dificultando a recepção adversária",
+      "foto": "volleyball jump serve"
+    },
+    {
+      "titulo": "Erros comuns na marcação",
+      "texto": "Marcar fora da linha de impedimento ou avançar demais na rede são faltas simples que podem ser evitadas com posicionamento consciente",
+      "foto": "soccer defensive positioning"
+    },
+    {
+      "titulo": "Mitos x verdades: bola molhada",
+      "texto": "A ideia de que bola molhada fica mais pesada é mito; a água apenas altera a aderência, não o peso, influenciando o controle",
+      "foto": "wet soccer ball"
+    },
+    {
+      "titulo": "Treinos curtos, resultados grandes",
+      "texto": "Sessões de 15 minutos focadas em dribles ou recepções, realizadas 4 vezes por semana, aumentam a performance em até 30%",
+      "foto": "volleyball quick drill"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos!",
+  "legenda": "Você sabia que pequenos detalhes podem mudar totalmente o jeito de jogar? 🤔\nDeslize para descobrir curiosidades que poucos falam sobre futebol e vôlei.\nCada slide traz uma dica prática que você pode aplicar agora mesmo no treino ou na partida. 🚀\nCurtiu? Salve, comente e siga para mais conteúdo incrível!",
+  "hashtags": [
+    "curiosidadesfutebol",
+    "curiosidadesvolei",
+    "futebol",
+    "volei",
+    "esporte",
+    "curiosidade",
+    "futebolbrasil",
+    "voleiBrasil",
+    "fatosdesportivos",
+    "aprendizadoesportivo"
+  ],
+  "foto_capa": "soccer and volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-22T16:16-03:00",
+  "fotos": {
+    "capa": {
+      "id": 38021511,
+      "busca": "soccer and volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/38021511/pexels-photo-38021511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Ezequiel Milano",
+      "pagina": "https://www.pexels.com/photo/dynamic-beach-volleyball-action-shot-38021511/"
+    },
+    "slides": [
+      {
+        "id": 1550692,
+        "busca": "soccer free kick",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/1550692/pexels-photo-1550692.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Dương Hoàng",
+        "pagina": "https://www.pexels.com/photo/time-lapse-photography-of-soccer-player-jumping-kicking-ball-1550692/"
+      },
+      {
+        "id": 6203517,
+        "busca": "volleyball jump serve",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203517/pexels-photo-6203517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/man-in-black-long-sleeve-shirt-throwing-a-volleyball-6203517/"
+      },
+      {
+        "id": 38616033,
+        "busca": "soccer defensive positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38616033/pexels-photo-38616033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-soccer-match-on-a-green-field-38616033/"
+      },
+      {
+        "id": 29873486,
+        "busca": "wet soccer ball",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/29873486/pexels-photo-29873486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Mustafa  Fatemi",
+        "pagina": "https://www.pexels.com/photo/close-up-of-soccer-ball-on-grass-field-29873486/"
+      },
+      {
+        "id": 12169045,
+        "busca": "volleyball quick drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169045/pexels-photo-12169045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-midair-playing-beach-volleyball-12169045/"
+      }
+    ]
+  }
+}
