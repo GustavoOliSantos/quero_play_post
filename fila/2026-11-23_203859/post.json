@@ -1,0 +1,101 @@
+{
+  "tema": "areia",
+  "titulo": "Domine a leitura de jogo",
+  "subtitulo": "5 dicas práticas para enxergar melhor no campo e na quadra",
+  "slides": [
+    {
+      "titulo": "Observe o posicionamento adversário",
+      "texto": "Antes da jogada, foque onde os oponentes se alinham para antecipar movimentos e criar oportunidades",
+      "foto": "football players positioning"
+    },
+    {
+      "titulo": "Treine a leitura de passes",
+      "texto": "Durante treinos, pratique observar a direção do corpo dos companheiros e a velocidade da bola para melhorar a reação",
+      "foto": "volleyball pass anticipation"
+    },
+    {
+      "titulo": "Use a visão periférica",
+      "texto": "Amplie o campo de visão treinando a observar tudo ao redor sem desviar o foco principal da bola",
+      "foto": "player peripheral vision"
+    },
+    {
+      "titulo": "Não fixe só na bola",
+      "texto": "Mantenha a cabeça levantada e escaneie a quadra ou campo inteiro, evitando surpresa de jogadas inesperadas",
+      "foto": "soccer player scanning"
+    },
+    {
+      "titulo": "Assista vídeos e reproduza",
+      "texto": "Analise partidas em câmera lenta, identifique padrões e treine reproduzindo esses movimentos em treinos curtos",
+      "foto": "sports video analysis"
+    }
+  ],
+  "chamada_final": "Salve este carrossel e treine sua visão!",
+  "legenda": "Você já percebeu como jogadores de futebol e vôlei parecem ler o jogo antes de acontecer? ⚽🏐\n\nNeste carrossel reuni 5 dicas práticas para melhorar sua visão de jogo e antecipar jogadas, tanto no campo quanto na quadra. 💡\n\nDeslize para o lado e descubra cada passo. Depois, teste nos treinos e compartilhe seus resultados nos comentários! 👇",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "esportes",
+    "curiosidades",
+    "treinamento",
+    "visãodejogo",
+    "dicaspraticas",
+    "performance",
+    "jogadores"
+  ],
+  "foto_capa": "football and volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-23T20:38-03:00",
+  "fotos": {
+    "capa": {
+      "id": 36780912,
+      "busca": "football and volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/36780912/pexels-photo-36780912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Darkside Photography",
+      "pagina": "https://www.pexels.com/photo/outdoor-volleyball-game-in-action-36780912/"
+    },
+    "slides": [
+      {
+        "id": 33826795,
+        "busca": "football players positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/33826795/pexels-photo-33826795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/intense-football-match-action-on-sunny-day-33826795/"
+      },
+      {
+        "id": 6203574,
+        "busca": "volleyball pass anticipation",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6203574/pexels-photo-6203574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Pavel Danilyuk",
+        "pagina": "https://www.pexels.com/photo/two-teams-playing-volleyball-6203574/"
+      },
+      {
+        "id": 7637006,
+        "busca": "player peripheral vision",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7637006/pexels-photo-7637006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Sami  Abdullah",
+        "pagina": "https://www.pexels.com/photo/man-wearing-goggles-while-playing-video-game-7637006/"
+      },
+      {
+        "id": 38154175,
+        "busca": "soccer player scanning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38154175/pexels-photo-38154175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/teenage-soccer-player-on-outdoor-field-38154175/"
+      },
+      {
+        "id": 442576,
+        "busca": "sports video analysis",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "JESHOOTS.com",
+        "pagina": "https://www.pexels.com/photo/two-people-holding-black-gaming-consoles-442576/"
+      }
+    ]
+  }
+}
