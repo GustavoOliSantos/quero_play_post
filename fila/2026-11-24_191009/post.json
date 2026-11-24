@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Evite erros no chute e saque",
+  "subtitulo": "Descubra ajustes simples para melhorar seu desempenho no futebol e no vôlei",
+  "slides": [
+    {
+      "titulo": "Postura corporal correta",
+      "texto": "Mantenha o tronco levemente inclinado, ombros alinhados e olhos na bola para gerar mais potência e controle.",
+      "foto": "soccer player stance"
+    },
+    {
+      "titulo": "Posicionamento dos pés",
+      "texto": "No futebol, coloque o pé de apoio ao lado da bola; no vôlei, posicione os pés na largura dos ombros para estabilidade.",
+      "foto": "volleyball foot position"
+    },
+    {
+      "titulo": "Ponto de contato ideal",
+      "texto": "Bata a bola na parte interna do pé, cerca de 5 cm abaixo do dedão; no saque, entre dedos e punho, com a palma aberta.",
+      "foto": "soccer ball contact"
+    },
+    {
+      "titulo": "Treino de precisão",
+      "texto": "Faça séries curtas de 10 toques focando no alvo; aumente a distância gradualmente para melhorar controle em ambas as modalidades.",
+      "foto": "volleyball target drill"
+    },
+    {
+      "titulo": "Prevenção de lesões",
+      "texto": "Alongue quadríceps, panturrilhas e ombros antes de jogar; fortaleça core para reduzir sobrecarga nas articulações.",
+      "foto": "sports stretching routine"
+    }
+  ],
+  "chamada_final": "Salve este post e pratique hoje!",
+  "legenda": "Você sabia que pequenos ajustes no chute e no saque podem transformar seu desempenho? 😮\n\nDeslize 👉 para conferir cinco dicas práticas que você pode aplicar agora mesmo nos treinos. 📈\n\nComente qual dica você já usa e marque alguém que precisa melhorar! 💬",
+  "hashtags": [
+    "futebol",
+    "voleibol",
+    "dicasdesporte",
+    "treinamento",
+    "chute",
+    "saque",
+    "curiosidades",
+    "esporte",
+    "performance",
+    "treino",
+    "atleta",
+    "motivação"
+  ],
+  "foto_capa": "soccer volleyball action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-24T19:10-03:00",
+  "fotos": {
+    "capa": {
+      "id": 36752652,
+      "busca": "soccer volleyball action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/36752652/pexels-photo-36752652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Thang Nguyen",
+      "pagina": "https://www.pexels.com/photo/outdoor-street-volleyball-match-in-action-36752652/"
+    },
+    "slides": [
+      {
+        "id": 38045139,
+        "busca": "soccer player stance",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38045139/pexels-photo-38045139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/teen-soccer-game-with-mountain-backdrop-38045139/"
+      },
+      {
+        "id": 36681488,
+        "busca": "volleyball foot position",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36681488/pexels-photo-36681488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thang Nguyen",
+        "pagina": "https://www.pexels.com/photo/dynamic-sepak-takraw-game-in-urban-setting-36681488/"
+      },
+      {
+        "id": 9519543,
+        "busca": "soccer ball contact",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9519543/pexels-photo-9519543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anastasia  Shuraeva",
+        "pagina": "https://www.pexels.com/photo/soccer-balls-on-soccer-field-9519543/"
+      },
+      {
+        "id": 31044958,
+        "busca": "volleyball target drill",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/31044958/pexels-photo-31044958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/exciting-women-s-indoor-volleyball-match-action-31044958/"
+      },
+      {
+        "id": 7187818,
+        "busca": "sports stretching routine",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/7187818/pexels-photo-7187818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/man-doing-leg-splits-7187818/"
+      }
+    ]
+  }
+}
