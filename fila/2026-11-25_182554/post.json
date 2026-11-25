@@ -1,0 +1,102 @@
+{
+  "tema": "areia",
+  "titulo": "Descubra fatos incríveis do futebol e vôlei",
+  "subtitulo": "5 curiosidades que poucos sabem e vão surpreender qualquer fã",
+  "slides": [
+    {
+      "titulo": "Origem do termo golaço",
+      "texto": "A palavra ‘golaço’ surgiu no Brasil nos anos 1970, usada pelos narradores para destacar gols espetaculares que impressionam torcedores e jogadores.",
+      "foto": "soccer goal celebration"
+    },
+    {
+      "titulo": "Primeiro saque olímpico de vôlei",
+      "texto": "O vôlei entrou nos Jogos Olímpicos em Tóquio 1964; o primeiro saque oficial foi feito pela jogadora japonesa Masako Eguchi, marcando o início da era olímpica.",
+      "foto": "volleyball serve action"
+    },
+    {
+      "titulo": "Jogo de 10 minutos no futebol",
+      "texto": "Em 1970, a FIFA reduziu o intervalo para 10 minutos, permitindo partidas mais dinâmicas e menos tempo ocioso, mudança que ainda influencia o ritmo atual.",
+      "foto": "football halftime clock"
+    },
+    {
+      "titulo": "Bloqueio com uma mão no vôlei",
+      "texto": "A técnica de bloqueio com uma única mão foi desenvolvida pelos soviéticos nos anos 80, aumentando a velocidade de reação e surpreendendo adversários.",
+      "foto": "volleyball one-handed block"
+    },
+    {
+      "titulo": "Gol contra mais rápido da história",
+      "texto": "O gol contra mais rápido registrado aconteceu a apenas 2 segundos do pontapé inicial, durante um jogo da divisão baixa, surpreendendo todos no estádio.",
+      "foto": "soccer own goal"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos fãs de futebol e vôlei!",
+  "legenda": "Você sabia que o mundo do esporte guarda detalhes que mudam a forma como vemos cada partida? 🏟️\n\nDeslize para a esquerda e descubra curiosidades que vão impressionar seus amigos e deixar seu conhecimento ainda mais afiado. ⚽️🏐\n\nCurtiu? Marque alguém, deixe seu comentário e siga para mais fatos incríveis! 📲",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "curiosidades",
+    "esporte",
+    "historia",
+    "fatos",
+    "aprendizado",
+    "fa",
+    "esporteBrasil",
+    "dica"
+  ],
+  "foto_capa": "football volleyball stadium",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-25T18:25-03:00",
+  "fotos": {
+    "capa": {
+      "id": 18680707,
+      "busca": "football volleyball stadium",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/18680707/pexels-photo-18680707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Le Do  Thanh Dat",
+      "pagina": "https://www.pexels.com/photo/men-playing-on-football-stadium-18680707/"
+    },
+    "slides": [
+      {
+        "id": 31543209,
+        "busca": "soccer goal celebration",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/31543209/pexels-photo-31543209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/exciting-soccer-goal-celebration-on-field-31543209/"
+      },
+      {
+        "id": 12169062,
+        "busca": "volleyball serve action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/12169062/pexels-photo-12169062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "RDNE Stock project",
+        "pagina": "https://www.pexels.com/photo/woman-playing-beach-volleyball-12169062/"
+      },
+      {
+        "id": 17160684,
+        "busca": "football halftime clock",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17160684/pexels-photo-17160684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Huy Phan",
+        "pagina": "https://www.pexels.com/photo/emirates-stadium-in-london-17160684/"
+      },
+      {
+        "id": 6180384,
+        "busca": "volleyball one-handed block",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6180384/pexels-photo-6180384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Kampus Production",
+        "pagina": "https://www.pexels.com/photo/men-playing-volleyball-6180384/"
+      },
+      {
+        "id": 9519514,
+        "busca": "soccer own goal",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9519514/pexels-photo-9519514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Anastasia  Shuraeva",
+        "pagina": "https://www.pexels.com/photo/woman-in-black-shorts-standing-on-green-grass-field-9519514/"
+      }
+    ]
+  }
+}
