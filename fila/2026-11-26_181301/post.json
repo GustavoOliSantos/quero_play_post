@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "Domine saque no vôlei e chute no futebol",
+  "subtitulo": "Cinco dicas práticas para aumentar potência e precisão nos dois esportes",
+  "slides": [
+    {
+      "titulo": "Posição dos pés",
+      "texto": "Mantenha o pé de apoio firme e apontado para o alvo; isso gera estabilidade e força no movimento.",
+      "foto": "volleyball foot positioning"
+    },
+    {
+      "titulo": "Ângulo de contato",
+      "texto": "No saque, eleve a mão em 45°; no chute, strike a bola com o peito do pé para máximo controle.",
+      "foto": "football kicking angle"
+    },
+    {
+      "titulo": "Uso do tronco",
+      "texto": "Gire o tronco rapidamente ao lançar a bola ou chutar; o giro transfere energia dos quadris ao contato.",
+      "foto": "core rotation sports"
+    },
+    {
+      "titulo": "Respiração sincronizada",
+      "texto": "Inspire antes do movimento e expire ao contato; a respiração ajuda a manter ritmo e força.",
+      "foto": "athlete breathing action"
+    },
+    {
+      "titulo": "Treino de explosão",
+      "texto": "Faça séries de saltos e pliometria duas vezes por semana; aumenta a potência para saques altos e chutes fortes.",
+      "foto": "plyometric training"
+    }
+  ],
+  "chamada_final": "Salve este post e treine essas dicas hoje mesmo",
+  "legenda": "⚡️ Quer melhorar seu saque no vôlei e seu chute no futebol? Arraste para descobrir cinco passos simples que vão transformar sua performance! Cada slide traz uma dica prática que você pode aplicar agora, seja nos treinos ou nas partidas. 🚀\n\nTeste as técnicas, compartilhe seu progresso nos comentários e marque alguém que precisa ver isso. Não esqueça de salvar para revisar depois! 📌\n\nCurtiu? Siga o perfil para mais curiosidades e dicas de futebol e vôlei. 🎯",
+  "hashtags": [
+    "futebol",
+    "volei",
+    "saque",
+    "chute",
+    "dicasdeesporte",
+    "treino",
+    "potencia",
+    "tecnica",
+    "esportelivre",
+    "curiosidades",
+    "performance",
+    "poder"
+  ],
+  "foto_capa": "volleyball spike action",
+  "assunto_foto": "sports",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-26T18:13-03:00",
+  "fotos": {
+    "capa": {
+      "id": 6203644,
+      "busca": "volleyball spike action",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/6203644/pexels-photo-6203644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Pavel Danilyuk",
+      "pagina": "https://www.pexels.com/photo/a-man-spiking-a-ball-6203644/"
+    },
+    "slides": [
+      {
+        "id": 36681481,
+        "busca": "volleyball foot positioning",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/36681481/pexels-photo-36681481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Thang Nguyen",
+        "pagina": "https://www.pexels.com/photo/dynamic-sepak-takraw-match-on-urban-court-36681481/"
+      },
+      {
+        "id": 32190735,
+        "busca": "football kicking angle",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/32190735/pexels-photo-32190735.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/soccer-player-kicking-ball-in-action-on-field-32190735/"
+      },
+      {
+        "id": 3757374,
+        "busca": "core rotation sports",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/3757374/pexels-photo-3757374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Andrea Piacquadio",
+        "pagina": "https://www.pexels.com/photo/photo-of-woman-wearing-grey-sports-bra-3757374/"
+      },
+      {
+        "id": 9548402,
+        "busca": "athlete breathing action",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/9548402/pexels-photo-9548402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Paulo Guilherme Mouta",
+        "pagina": "https://www.pexels.com/photo/person-in-swimming-goggles-in-water-9548402/"
+      },
+      {
+        "id": 5622272,
+        "busca": "plyometric training",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/5622272/pexels-photo-5622272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Eduardo  Cano Photo Co.",
+        "pagina": "https://www.pexels.com/photo/person-wearing-blue-nike-sneakers-5622272/"
+      }
+    ]
+  }
+}
