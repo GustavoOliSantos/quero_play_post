@@ -1,0 +1,104 @@
+{
+  "tema": "areia",
+  "titulo": "5 fatos que mudam sua visão",
+  "subtitulo": "Descubra detalhes do jogo que poucos sabem",
+  "slides": [
+    {
+      "titulo": "Regra do impedimento simplificada",
+      "texto": "Posicione-se no último defensor e observe a linha de ataque; a bola só vale se estiver atrás da linha no momento do passe.",
+      "foto": "football offside line"
+    },
+    {
+      "titulo": "Bola nas mãos: exceções",
+      "texto": "Somente o goleiro pode usar as mãos dentro da área; fora dela, qualquer toque manual resulta em falta direta.",
+      "foto": "goalkeeper handling"
+    },
+    {
+      "titulo": "Número 10: origem histórica",
+      "texto": "O número foi popularizado por Pelé, simbolizando criatividade e liderança; hoje, é escolhido por jogadores ofensivos de destaque.",
+      "foto": "football jersey number10"
+    },
+    {
+      "titulo": "Como funciona o VAR",
+      "texto": "O árbitro revisa lances críticos em tempo real; decisões são baseadas em três ângulos de câmera para garantir precisão.",
+      "foto": "VAR review screen"
+    },
+    {
+      "titulo": "Dica: postura defensiva eficaz",
+      "texto": "Mantenha os joelhos flexionados, olhos na bola e braços equilibrados; isso melhora a reação e reduz riscos de faltas.",
+      "foto": "defensive stance football"
+    }
+  ],
+  "chamada_final": "Salve este post e compartilhe com amigos",
+  "legenda": "Você sabia que o impedimento tem uma lógica simples? 🤔\n\nDescubra neste carrossel como cada detalhe do jogo pode influenciar sua forma de assistir e jogar. ⚽️\n\nDeslize para o lado e aprenda algo novo a cada slide! 🚀\n\nCurtiu? Deixe seu comentário e siga para mais curiosidades sobre futebol e vôlei.\n",
+  "hashtags": [
+    "futebol",
+    "curiosidades",
+    "esporte",
+    "soccerfacts",
+    "jogodefutebol",
+    "footballtips",
+    "var",
+    "goleiro",
+    "camiseta10",
+    "posicaodefensiva",
+    "aprendizado",
+    "instasport"
+  ],
+  "foto_capa": "football stadium crowd",
+  "assunto_foto": "football",
+  "modelo": "groq/openai/gpt-oss-120b",
+  "gerado_em": "2026-11-27T17:55-03:00",
+  "fotos": {
+    "capa": {
+      "id": 8994432,
+      "busca": "football stadium crowd",
+      "orientacao": "portrait",
+      "baixar": "https://images.pexels.com/photos/8994432/pexels-photo-8994432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "fotografo": "Mohamed Ishaq Villan",
+      "pagina": "https://www.pexels.com/photo/people-watching-a-football-game-in-a-stadium-8994432/"
+    },
+    "slides": [
+      {
+        "id": 17779075,
+        "busca": "football offside line",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/17779075/pexels-photo-17779075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Mylo Kaye",
+        "pagina": "https://www.pexels.com/photo/men-playing-football-on-a-stadium-17779075/"
+      },
+      {
+        "id": 6847283,
+        "busca": "goalkeeper handling",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/6847283/pexels-photo-6847283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Tima Miroshnichenko",
+        "pagina": "https://www.pexels.com/photo/ice-hockey-player-guard-guarding-the-goalie-6847283/"
+      },
+      {
+        "id": 38045156,
+        "busca": "football jersey number10",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/38045156/pexels-photo-38045156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "Franco Monsalvo",
+        "pagina": "https://www.pexels.com/photo/young-athletes-competing-in-local-soccer-match-38045156/"
+      },
+      {
+        "id": 28504945,
+        "busca": "VAR review screen",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/28504945/pexels-photo-28504945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "StockRadars Co.,",
+        "pagina": "https://www.pexels.com/photo/stock-market-analysis-with-smartphone-and-notebook-28504945/"
+      },
+      {
+        "id": 16545266,
+        "busca": "defensive stance football",
+        "orientacao": "landscape",
+        "baixar": "https://images.pexels.com/photos/16545266/pexels-photo-16545266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "fotografo": "SAULO LEITE",
+        "pagina": "https://www.pexels.com/photo/american-footballer-waiting-16545266/"
+      }
+    ]
+  }
+}
